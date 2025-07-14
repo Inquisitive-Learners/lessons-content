@@ -1,195 +1,226 @@
-# Toys and Forces  
-Lesson link: <https://www.inquisitive.com/au/lesson/6284-toys-and-forces>
+# Lesson: Toys and Forces  
+Lesson URL: https://www.inquisitive.com/au/lesson/6284-toys-and-forces  
 
 ---
 
-## 1. Whole-lesson essentials  
-
-**Learning Intention**  
+## Learning Intention  
 Students are learning to:  
-• Understand how forces like pushing, pulling and twisting make toys move.  
+• Understand how forces like pushing, pulling and twisting make toys move.  *(Nxr0imGgp2KX)*  
 
-**Success Criteria**  
+## Success Criteria  
 By the end of this lesson, students will be able to:  
-• Recognise how pushing and pulling affect the movement of a toy.  
-• Identify how spinning tops from Aboriginal and Torres Strait Islander Peoples are made and how they move.  
-• Explain that a twist is a combination of a push and a pull.  
-• Draw and label a flow-chart that shows how a spinning top is made and how it moves.
+1. Recognise how pushing and pulling affect the movement of a toy.  
+2. Identify how spinning tops from **Aboriginal and Torres Strait Islander Peoples** are made and how they move.  
+3. Explain that a twist is a combination of a push and a pull.  
+4. Draw and label a flow-chart to describe the process of making and moving a spinning top.  *(FLbfSk5rSst6)*  
 
-**Teacher Reading**  
-Push and pull  
-Push and pull forces are vital for many toys because they set objects in motion or stop them from moving.  
+## Teacher Reading  *(jNabMq0kXRPy)*  
+• Push and pull forces set objects in motion or stop them.  
+• A twist combines both push and pull forces to rotate objects.  
+• Aboriginal and Torres Strait Islander Peoples have a long tradition of creating spinning toys that demonstrate knowledge of motion and design.
 
-Twisting  
-A twist combines both push and pull forces to rotate objects, like when you spin a top by twisting its stem. You apply force in two opposite directions at the same time, causing circular motion.  
+## Note  *(UMMz5DnxTRWe)*  
+Tier 2 and Tier 3 vocabulary words appear in **bold** within the lesson. These low-frequency, subject-specific words should be explicitly taught in context.
 
-Cultural perspectives  
-Aboriginal and Torres Strait Islander Peoples have a long history of creating spinning toys, showing a deep understanding of motion and design. Their skill in making tops demonstrates their connection to Country and their knowledge of the forces that affect everyday objects.
+## Introduction  *(7PTNKegB12uY)*  
+Show students the cover image of the father and son with spinning toys. Ask:  
+“How do toys work?”  
+Record student ideas to gauge current understanding and misconceptions.
 
-**Note**  
-Vocabulary Words  
-The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are low-frequency, subject-specific words. The instruction for these kinds of words should focus on building content knowledge within the lesson. The vocabulary words appear in **bold** within the lesson.
-
-**Introduction**  
-Show students the image and ask the focus question, “How do toys work?” Encourage students to share personal experiences with toys they use. Document and use the students’ responses to help gauge their current understanding of the topic and to identify any misconceptions.
-
-**Focus Question**  
+## Focus Question  
 How do toys work?
 
 ---
 
-## 2. Section order check  
-The lesson sections and subsections appear exactly in the required order:
-
-1. Kendama video (id yBk3rdhKDy2s)  
-2. Push & pull with kendama (id UJxAU73ooH2i)  
-3. Push, pull or both in other toys (id 2nE1nrDzbbJt)  
-   • Watch another spinning-top video (sub-section Xe5vznb9fgKa)  
-   • Aboriginal & Torres Strait Islander spinning tops (sub-section VADBSaYJCxrp)  
-4. Twisting forces (id mwsGdk7HYF0D)  
-5. Make a spinning top – checkpoint (id EwDgui1aPbr1)  
-6. Design a faster spinning top (id 2okB6tKYM940)  
-7. Totem tennis forces (id bpDpb5BEBMuZ)
+# Activity-by-Activity Guide  
+(All sections and subsections appear below in the exact order provided in the *Sections Overview*.)
 
 ---
 
-## 3. Detailed activity breakdown  
+## 1. Kendama: Push or Pull?  
+Section ID: `yBk3rdhKDy2s` (sort “V”)
 
-### 3.1  Kendama – which parts are pushed or pulled?  *(Section 1 – 5 min)*  
-Media  
-• Video of a kendama being used  
-• Image: Cartoon boy thinking with a large question mark above his head.  
-Teaching Notes – use verbatim  
-> Students watch the kendama video and identify which parts of the toy are pushed and which are pulled. Encourage students to discuss how pushing and pulling create different motions, linking each action to how the kendama works. Have students share their findings by explaining what they noticed about how a push and pull power the toy.
+### Student Components  
+1. Statement box – “A **kendama** is a traditional Japanese toy…”  
+2. Instruction – “Click on the kendama to watch the video.”  
+3. Video of a kendama in action.  
+4. Question (discussion-response): **“Which part is pushed?”**  
+5. Question (discussion-response): **“Which part is pulled?”**  
+6. Image – Cartoon boy thinking with a large question mark. *(Alt text already supplied.)*
 
-Student tasks  
-1. “Which part is pushed?” – text/draw/upload response  
-   Model answer: *The handle is pushed upwards to lift the ball into the air.*  
-2. “Which part is pulled?” – text/draw/upload response  
-   Model answer: *We pull the handle towards us to help catch the ball on the spike or in the cup.*
+### Teaching Notes  *(BHerUr93FMcr)*  
+Students watch the kendama video and identify which parts of the toy are pushed and which are pulled. Encourage discussion of how pushing and pulling create different motions. Have students share what they noticed about how a push and pull power the toy.
 
----
-
-### 3.2  Push or pull?  *(Section 2 – 5 min)*  
-Media  
-• Two Rive animations (push / pull) showing a child using a kendama.
-
-Teaching Notes – use verbatim  
-> Students explore how pushing the stick sends the kendama ball up in the air and how pulling it helps catch the ball. Prompt students to connect these actions to the way the toy’s movement changes. It is suggested that the students act out using a kendama to physically feel the push and pull movement.
-
-There are no written answers required for this activity.
+### Answers (examples)  
+• Which part is pushed? – “The handle is pushed upwards to lift the ball into the air.” *(ai-2EGUJ1Nt1X86)*  
+• Which part is pulled? – “We pull the handle towards us to help catch the ball on the spike or in the cup.” *(ai-K9RitPSfTfnf)*  
 
 ---
 
-### 3.3  Many toys need a push, a pull or both  *(Section 3 parent – 15 min)*  
+## 2. Push and Pull with the Stick  
+Section ID: `UJxAU73ooH2i` (sort “o”)
 
-#### 3.3 a  Think, Pair, Share  
-Teaching Notes – use verbatim  
-> Students learn that many toys require a push, a pull or both to work. They participate in a *Think, Pair, Share* activity to identify other toys they know that use push or pull forces. Students then document their thinking by drawing and labelling their examples, using arrows to show the direction of the push and pull forces acting on each toy.
+### Student Components  
+• Two statement boxes:  
+  – “When we push the stick, it can help the ball go up in the air.”  
+  – “When we pull the stick, it can help us catch the ball on the cup or spike.”  
+• Two Rive animations showing “Push – Ball goes up” and “Pull – Catch ball”.
 
-Student tasks  
-1. Discussion: “What other toys do you know that need a push, a pull or both to work?”  
-   Model answer includes push toys, pull toys and push-and-pull toys (see full list in suggested answers).  
-2. Draw and label toys, using arrows to show pushes and pulls.  
-   Model drawing examples include: toy car (push), yo-yo (push & pull), etc.
-
-#### 3.3 b  Watch another spinning-top video  *(Sub-section Xe5vznb9fgKa)*  
-Media  
-• Short video of a spinning top.  
-
-Teaching Notes – use verbatim  
-> Students watch a video of another type of spinning top to observe how it moves. Guide them to identify which forces start the spinning movement and keep it going. Students share their thoughts around how a force is key to a spinning top's function.
-
-Student questions  
-• “Why is the spinning top moving?”  
-  Model answer: *It's moving because someone gave it a quick twist, adding enough force to spin it around.*  
-• “How is it moving?”  
-  Model answer: *It is spinning around in a circle on its tip until it slows down and stops. It is also propelling forward slowly with the spinning force.*
-
-#### 3.3 c  Aboriginal & Torres Strait Islander spinning tops  *(Sub-section VADBSaYJCxrp)*  
-Teaching Notes – use verbatim  
-> Students investigate spinning tops made by Aboriginal and Torres Strait Islander Peoples and discuss what makes them move. Encourage them to explore which forces are used and reflect on the materials used. Ask students to share what they found interesting about the spinning tops.
-
-Student questions  
-• “Who used the spinning tops?” – *Children use them for fun and men use them for competitions.*  
-• “What are they made from?” – *e.g. small gourds on sticks secured with fibre & resin; beeswax on thin wood sticks.*  
-• “What did you find interesting?” – varied answers.  
-• “How do they move?” – *They spin around when you twist or flick them.*
+### Teaching Notes  *(e0tPPniwcFej)*  
+Students explore how pushing the stick sends the kendama ball up and how pulling helps catch it. Let students act out the movements to feel the push and pull forces.
 
 ---
 
-### 3.4  Twist – a push **and** a pull  *(Section 4 – 10 min)*  
-Media  
-• Image: Hand twisting a spinning top; statement box.  
+## 3. Think–Pair–Share: Other Toys that Need a Push or Pull  
+Section ID: `2nE1nrDzbbJt` (sort “s”)
 
-Teaching Notes – use verbatim  
-> Students examine an image showing how a twist is both a push and a pull. Students draw other examples of other things that require a twist.
+### Student Components (main section)  
+1. Statement box – “Many other toys need a push, a pull or both to work.”  
+2. Grey box – *Think, Pair, Share.*  
+3. Draw space – “Draw them below, using arrows to show how a push, a pull or both make each toy move.”  
+4. Discussion – “What other toys do you know that need a push, a pull or both to work?”
 
-Student task  
-• Draw and label some other things we can twist.  
-  Model answers: bottle lid, doorknob, wind-up toy, etc.
+### Teaching Notes  *(d7yUi99HZ2mA)*  
+Students identify other toys that use push or pull forces. In pairs, they draw and label their examples with arrows showing the direction of the forces.
 
----
-
-### 3.5  Checkpoint: Make a cardboard spinning top  *(Section 5 – 15 min – **Checkpoint Activity**)*  
-Materials  
-• 1 small cardboard circle (cut in advance)  
-• 1 stick  
-
-Teaching Notes – use verbatim  
-> Students make their own spinning top. Assist them to collect the materials they need and encourage them to view the images closely. Students draw and label how they made their spinning top move.
-
-Additional Teaching Note – from activity description  
-> Students create their own spinning top from a cardboard circle and a stick, focusing on how twists set it in motion. They draw and label each step in the construction and movement on a flow chart, showing which forces are at work.
-
-Student task  
-• Draw and label a flow-chart (“First… Then… Next… Finally…”) that shows the construction steps and how the top moves.  
-  Model answer provided in suggested answers (“First, I cut out a cardboard circle… Finally, I twisted the stick to spin the top.”)
+### Answers (examples) *(AgAtGRxoht3g)*  
+Lists of push toys, pull toys, and toys that use both push and pull (see suggested answer text in full).
 
 ---
 
-### 3.6  Design a faster spinning top  *(Section 6 – 20 min – Differentiation 2)*  
-Teaching Notes – use verbatim  
-> Students design their own spinning top and explore how to make it spin faster. Encourage them to experiment with size, shape or materials and note any changes in speed. Have them draw and label their findings, explaining which ideas worked best for a faster spin.
+### 3a. Video Study: Another Spinning Top  
+Sub-section ID: `Xe5vznb9fgKa` (sort “V”)
 
-Student tasks  
-1. “Design ideas” – annotated drawing of the planned top.  
-   Model answer: *A larger cardboard disc, longer handle, weights around the rim for balance.*  
-2. “Draw and label what happened.” – record of testing.  
-   Answers will vary.
+**Student Components**  
+• Instruction box – “Watch the video to see another type of spinning top. Talk about the questions.”  
+• Video of a spinning top (Stimulus 19250).  
+• Two discussion questions:  
+  1. **“Why is the spinning top moving?”**  
+  2. **“How is it moving?”**
 
----
+**Teaching Notes**  *(BpiTjbsXjEQR)*  
+Guide students to identify the forces that start the spinning and keep it going.
 
-### 3.7  Totem tennis – forces in action  *(Section 7 – 20 min – Differentiation 3)*  
-Media  
-• Image: Boy hitting a ball on a Totem Tennis set.
-
-Teaching Notes – use verbatim  
-> Students explore the game of totem tennis to see how hitting the ball makes it move around the pole. Prompt students to draw and label the directions of forces they think are in action, and reflect on which force makes the ball go faster. Have them explain these forces in their diagrams and describe their impact on speed.
-
-Student tasks  
-1. Draw and label a diagram with arrows showing the directions of forces.  
-   Model answer: arrows for the push from the paddle and the pull of the rope around the pole.  
-2. “Describe how you can make the ball go faster.” – text response  
-   Model answer: *Hit the ball harder with the paddle or shorten the rope so the ball travels faster around the pole.*
+**Answers (examples)**  
+• Why moving? – “Someone gave it a quick twist, adding enough force to spin it.” *(ai-XproUiTEBJNw)*  
+• How moving? – “It is spinning around in a circle on its tip until it slows down.” *(ai-F8SuVvCBX97c)*  
 
 ---
 
-## 4. Images used (all have alt text for accessibility)  
+### 3b. Cultural Connections: Aboriginal & Torres Strait Islander Spinning Tops  
+Sub-section ID: `VADBSaYJCxrp` (sort “F”)
 
-| Where used | Alt text |
-|------------|----------|
-| Section 1 discussion | Cartoon boy thinking with a large question mark above his head. |
-| Section 4 twist image | Hand using fingers to twist a spinning top, arrows showing that the spinning top will spin round. |
-| Section 7 Totem tennis | Boy hitting a ball on the totem tennis structure with a paddle. |
-| Push animation preview | Child with a push stick, focused on making a ball rise above his hand. |
-| Pull animation preview | A child with a toy demonstrating the actions “Pull stick” and “Catch ball”. |
+**Student Components**  
+• Statement box – “Aboriginal and Torres Strait Islander Peoples have a rich history of making and using spinning tops.”  
+• Link to the Australian Museum website.  
+• Five discussion prompts:  
+  1. **“Who used the spinning tops?”**  
+  2. **“What are they made from?”**  
+  3. **“What did you find interesting?”**  
+  4. **“How do they move?”**  
+  5. Instruction list guiding students to explore the website.
+
+**Teaching Notes**  *(aq22f5KzDCDn)*  
+Have students explore the online collection, choose a spinning top, discuss materials and forces, then draw it.
+
+**Answers (examples)**  
+• Who used them? – “Children and men used spinning tops for fun and competitions.” *(ai-Ua7grCvvNnQF)*  
+• What made from? – See bulleted materials list in answer *(ai-u6M4Eb4yoAE4)*  
+• How do they move? – “They spin around when you twist or flick them.” *(ai-AsqDTLACCPmc)*  
 
 ---
 
-### 5. Concluding the lesson  
-Return to the focus question “How do toys work?” and invite students to share any new understandings, clearing up misconceptions.
+## 4. Twist = Push + Pull  
+Section ID: `mwsGdk7HYF0D` (sort “w”)
+
+### Student Components  
+• Image – Hand twisting a spinning top, arrows showing rotation.  
+• Statement box – “A **twist** is a push and a pull…”  
+• Draw area – “Draw and label some other things we can twist.”
+
+### Teaching Notes  *(ieTgfNj7jZy4)*  
+Students learn that a twist is both a push and pull. They draw further examples.
+
+### Answers (examples) *(ai-isBbgguQYWKT)*  
+Bottle lid, doorknob, wind-up key with curved arrows to indicate twisting.
 
 ---
 
-*All sections and subsections have been included and appear in the exact order specified in the overview.*
+## 5. Check-point Activity: Make Your Own Spinning Top  
+Section ID: `EwDgui1aPbr1` (sort “yk”)  **(Check-Point)**
+
+### Materials Needed  *(1ebrgv5B3hM8)*  
+• 1 × small cardboard circle (pre-cut)  
+• 1 × stick  
+
+### Student Components  
+• Instruction box – “Make your own spinning top…”  
+• Rive animation sequence showing “Circle paper” and “Stick”.  
+• Flow-chart image with labels “First… Then… Next… Finally…”  
+• Draw space – “Draw and label how you created your spinning top and how you made it move.”
+
+### Teaching Notes  *(S5r21BkFRDCS & DZYFfw2aBhii)*  
+Assist students to gather materials, construct a top and document each step in the flow-chart, showing the forces involved. This task functions as an informal assessment of students’ understanding of push, pull and twist forces. *(ZrHjAt9vgAj2)*
+
+### Answers (example flow-chart) *(1HH7oT0fF69c)*  
+• First – Cut out a cardboard circle.  
+• Then – Poke a hole and insert the stick.  
+• Next – Hold upright.  
+• Finally – Twist the stick to spin the top.
+
+---
+
+## 6. Design Challenge: Faster Spinning Top  
+Section ID: `2okB6tKYM940` (sort “z”)
+
+### Student Components  
+1. Pink box – “Design your own spinning top. How could you make it go faster?”  
+2. Two drawing panels:  
+   • “Design ideas:” (left)  
+   • “Draw and label what happened.” (right)
+
+### Teaching Notes  *(1GTjCmpiG4Gw)*  
+Students design a spinning top, experimenting with size, shape or materials to increase speed. They record design ideas and outcomes.
+
+### Answers (example) *(ai-NUyVHajXfdw2)*  
+Design includes a larger cardboard circle, longer handle and weights around the rim for balance and speed.
+
+---
+
+## 7. Totem Tennis Forces  
+Section ID: `bpDpb5BEBMuZ` (sort “zV”)
+
+### Student Components  
+• Statement box – Describes totem tennis.  
+• Image – Boy hitting the totem-tennis ball.  
+• Draw area – “Draw and label a diagram using arrows to show the direction of forces…”  
+• Text response – “Describe how you can make the ball go faster.”
+
+### Teaching Notes  *(R62302Y8HDkW)*  
+Discuss forces when playing totem tennis. Students illustrate push (paddle) and pull (rope tension) forces and explain how to increase speed.
+
+### Answers (examples)  
+• Diagram – “Arrow from paddle pushing the ball; curved arrow showing ball path around pole.” *(ai-VqXhWaLBJZnY)*  
+• How to go faster – “Hit the ball harder or shorten the rope.” *(ai-hBvpg9TsHFJ0)*  
+
+---
+
+## Conclusion & Revisit Focus Question  *(C1nUJg7W1ESj)*  
+Re-ask: **“How do toys work?”**  
+Invite students to share new understandings, addressing any remaining misconceptions.
+
+---
+
+### Image Descriptions (Alt Text)
+
+| Section | Image Alt Text |
+|---------|----------------|
+| yBk3rdhKDy2s | Cartoon boy thinking with a large question mark above his head. |
+| mwsGdk7HYF0D | Hand using fingers to twist a spinning top, arrows showing that the spinning top will spin round. |
+| bpDpb5BEBMuZ | Boy hitting a ball on the totem tennis structure with a paddle. |
+
+*(All other images/videos/animations include accessible captions or interactive labels within the lesson.)*
+
+---
+
+**End of Lesson Guide**
