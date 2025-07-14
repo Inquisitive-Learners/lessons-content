@@ -1,5 +1,5 @@
 # Lesson: Changing Objects  
-**Lesson Link:** [https://www.inquisitive.com/au/lesson/6281-changing-objects](www.inquisitive.com/au/lesson/6281-changing-objects)  
+**Lesson Link:** [https://www.inquisitive.com/au/lesson/6281-changing-objects](https://www.inquisitive.com/au/lesson/6281-changing-objects)  
 
 **Focus Question**  
 What can a push or a pull do?
