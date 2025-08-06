@@ -1,279 +1,277 @@
-# Changing objects  
-Lesson page: https://www.inquisitive.com/au/lesson/6281-changing-objects  
+# Changing Objects
 
-## Learning Intention  
+Lesson URL: https://www.inquisitive.com/au/lesson/6281-changing-objects  
+
+## 1. Learning Intention  
 Students are learning to:  
-• Recognise that a force can change an object in different ways.  
+- Recognise that a force can change an object in different ways.  
 
-## Success Criteria  
+*(Taken verbatim from the “Lesson–introduction / intention” block – ID **GzyJRdpVdNpJ**.)*
+
+## 2. Success Criteria  
 By the end of this lesson, students will:  
-• Explore how a force can change an object’s shape.  
-• Test the effects of forces on an object's movement.  
-• Explain how forces change the speed and direction of objects.  
-• Understand that a force can be used to make a moving object stop.  
-• Use scientific vocabulary in compound sentences to describe the effect of forces on objects.  
+- Explore how a force can change an object’s shape.  
+- Test the effects of forces on an object's movement.  
+- Explain how forces change the speed and direction of objects.  
+- Understand that a force can be used to make a moving object stop.  
+- Use scientific vocabulary in compound sentences to describe the effect of forces on objects.  
 
-## Teacher Reading  
-Pushes and pulls  
+*(Exactly as written in block **ixMcuBuaomVf**.)*
+
+## 3. Teacher Reading  
+*(Block **ai-M8fE9bmnijG5** — keep exactly as provided.)*  
+
+**Pushes and pulls**  
 A push is a force that moves an object away from you. A pull moves an object towards you.  
 
-Changing shapes  
+**Changing shapes**  
 Pushes and pulls can compress or stretch soft materials like dough or clay, changing their shape. The amount of force applied determines whether the object flattens, stretches or twists.  
 
-Changing speed  
+**Changing speed**  
 Objects move faster or slower based on how much force is used. A small push or pull causes gentle movement. A stronger force speeds up the object more quickly.  
 
-Changing direction and stopping  
-Applying force to a moving object at an angle changes its direction. A push or pull against its motion can cause it to stop.  
+**Changing direction and stopping**  
+Applying force to a moving object at an angle changes its direction. A push or pull against its motion can cause it to stop.
 
-## Note  
-The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are low-frequency, subject-specific words. The instruction for these kinds of words should focus on building content knowledge within the lesson. The vocabulary words appear in **bold** within the lesson.  
+## 4. Note  
+*(Vocabulary note – block **f9pHVnKFrUaN**)*  
+
+The vocabulary words in this lesson are defined as Tier 2 and 3 words (low-frequency, subject-specific words). These appear in **bold** within the lesson.
+
+## 5. Introduction  
+*(Block **ai-cY3WRkF1n6v5**)*  
+
+Show students the image and ask the focus question, “What can a push or a pull do?” Encourage students to share personal experiences, such as playing with balls, opening doors or using household objects, to explore how pushes and pulls cause things to move. Document students’ responses to help gauge their current understanding and identify misconceptions.
+
+## 6. Focus Question  
+What can a push or a pull do?
+
+## 7. Lesson Name  
+Changing Objects
+
+## 8. Lesson Flow – All Sections in Correct Order  
 
 ---
 
-## Focus Question  
-*What can a push or a pull do?*  
+### Section V — Activity 1 (Teacher)  
+**Funny Faces – Push or Pull?**  
+*Duration 5 min – Activity ID 8iN1QCipLKvE*
 
-## Introduction (whole-class)  
-Show students the cover image (alt text: “Child in a cap aiming a wooden slingshot, squinting with focus against a blurred background.”) and ask the focus question above. Encourage students to share personal experiences such as playing with balls, opening doors or using household objects to explore how pushes and pulls cause things to move. Document students’ responses to help gauge their current understanding of the topic and identify any misconceptions.  
+**Teaching Note** (block **rVBKhcwGYVZy** – keep exactly):  
+Encourage students to experiment with creating funny faces using pushes or pulls. Ask them to try moving their cheeks, lips, hair or eyebrows in different ways to see how applying force can change their facial features.
 
----
+**Components & Teaching Points**  
+1. Instruction box: “Look at these funny faces.”  
+2. Two animations/images:  
+   - *Alt text:* A smiling girl in a pink top, playfully pushing in her cheeks with her fingers.  
+   - *Alt text:* A young boy sticks out his tongue while pulling a funny face. He's wearing a striped top.  
+3. Discussion prompt: “What funny faces can you make using a push or a pull?” (students may answer with text, drawing or upload).
 
-# Sequence of Activities  
-
-*(The activities and their subsections are listed in the exact order shown in the sections overview. Teaching Notes are copied verbatim. All student prompts appear exactly as they do in the lesson.)*  
-
----
-
-### 1. Funny Faces  (Teacher page V)  
-**Images**  
-• “A smiling girl in a pink top, playfully pushing in her cheeks with her fingers.”  
-• “A young boy sticks out his tongue while pulling a funny face. He's wearing a striped top.”  
-
-**Student prompt**  
-Instruction box: “Look at these funny faces.”  
-Discussion: “What funny faces can you make using a push or a pull?”  
-
-**Teaching Note**  
-Encourage students to experiment with creating funny faces using pushes or pulls. Ask them to try moving their cheeks, lips, hair or eyebrows in different ways to see how applying force can change their facial features.  
-
-**Expected answers (examples)**  
+**Answers (example)**  
 • Push your lips out to make a duck face.  
 • Pull both sides of your mouth to make a wide grin.  
 • Pull your cheeks up under your eyes to pretend to be a puffer fish.  
 
 ---
 
-### 2. Pushes & Pulls Change Objects  (Teacher page k)  
-**Statement box** – “A push or a pull can change objects.”  
+### Section k — Activity 2 (Teacher)  
+**Pushes & Pulls Change Objects**  
+*Duration 5 min – Activity ID ieJCye35fMGw*
 
-**Images**  
-• “Hands rolling dough on a floured surface, preparing for baking.”  
-• “Girl with long hair in a yellow beanie poses against a yellow background, holding colourful springs.”  
+**Teaching Note** (block **8kR4KUMNig7X**):  
+Students learn a push or pull can change objects. They observe pictures of objects being changed by pushes and pulls, and then act them out. Prompt students to think about how each force changes the objects so they see the impact of forces in everyday situations.
 
-**Student prompts**  
-1. “What is being pushed?”  
-2. “What is being pulled?”  
-3. “How does a push or a pull change the object?”  
-Instruction: “Act out what is happening in these pictures.”  
+**Key Statement**  
+“A push or a pull can change objects.”
 
-**Teaching Note**  
-Students learn a push or pull can change objects. They observe pictures of objects being changed by pushes and pulls, and then act them out. Prompt students to think about how each force changes the objects so they see the impact of forces in everyday situations.  
+**Components**  
+- Two pictures:  
+  - *Alt:* Hands rolling dough on a floured surface.  
+  - *Alt:* Girl in yellow beanie holding colourful springs.  
+- Discussion boxes:  
+  1. “What is being pushed?”  
+  2. “What is being pulled?”  
+  3. “How does a push or a pull change the object?”  
+- Instruction: “Act out what is happening in these pictures.”
 
-**Example answers**  
-• The rolling pin is being pushed back and forth.  
-• The colourful spiral spring is being pulled by the girl.  
+**Suggested Answers**  
+• The rolling pin and dough are being pushed.  
+• The colourful spring (slinky) is being pulled.  
 • A push can flatten or stretch dough; a pull can make it longer or thinner.  
 
 ---
 
-### 3. Changing Shape with Playdough  (Teacher page s)  
+### Section s — Activity 3 (Student)  
+*A push or pull can change SHAPE*  
+*Duration 15 min – Activity ID dihWqfYMH35w*
 
-#### 3a. Statement (Teacher page s)  
-Statement box – “A push or a pull can change the **shape** of an object.”  
+#### Teaching Note (block **XorrAwrpVwgf**)  
+Students learn that a push or a pull can change the shape of an object. They read and complete sentences describing how a push or pull can change an object’s shape.
 
-#### 3b. Sub-section V – Instructions & modelling (student view)  
-**Instruction box**  
-• Push or pull the playdough to change its shape.  
-• Record what your playdough looks like on the next page.    
-• Complete the sentences using the words ‘push’ or ‘pull’.  
+#### Main Page (parent section **qrPUQCLvtmuz**)  
+- Statement: “A push or a pull can change the **shape** of an object.”  
+- Two images of playdough:  
+  1. *Alt:* A child's hands pressing down on soft, white playdough making a pancake shape.  
+  2. *Alt:* A child stretching yellow playdough into a long snake shape.  
+- Fill-in-the-blank sentences (students choose “push” or “pull”).  
+  - Answer 1: push  
+  - Answer 2: pull  
 
-**Image** – “Child's hands pulling bright yellow playdough into peaks.” (alt text)  
-Speech bubble example: “I pull the playdough so it makes a mountain.”  
-Plain text: “Experiment with playdough.”  
+#### Sub-section V (**6nhfNc4QZbv9**) – Instructions & Experiment  
+- Instruction list (push or pull the playdough, record, complete sentences).  
+- *Alt:* Child's hands pulling bright yellow playdough into peaks.  
+- Speech bubble example: “I pull the playdough so it makes a mountain.”
 
-**Teaching Note**  
-Students learn that a push or a pull can change the shape of an object. They read and complete sentences describing how a push or pull can change an object’s shape.  
-
-#### 3c. Sub-section k – Student recording page  
-Draw prompts  
-• “Draw what your playdough looks like.”  
-• “Draw what your playdough looks like now.”  
-
-Sentence completions  
-1. *I ___ the playdough so it makes a flat pancake.* – Answer: **push**  
-2. *I ___ the playdough so it makes a long snake.* – Answer: **pull**  
-3. *I ___ the playdough so it makes a …* (open-ended, students add shape word)  
+#### Sub-section k (**093E1u1SSmep**) – Student Recording  
+- Two drawing panels: “Draw what your playdough looks like … now.”  
+- Extra sentence stems for students to complete.
 
 ---
 
-### 4. Changing Speed  (Teacher page w)  
-Statement box – “A push or a pull can change the **speed** of an object. It can make it move faster or slower.”  
+### Section w — Activity 4 (Teacher)  
+**Changing SPEED**  
+*Duration 5 min – Activity ID CbPim460rqWw*
 
-**Video** – Boy batting baseballs (no audio description)  
+**Teaching Note** (block **d3iX5HJNLHD0**)  
+Students learn that a push or pull can change the speed of an object. They watch a short video of a boy batting balls and notice that each ball travels a different distance… (exact wording retained).
 
-**Student prompts**  
-• “How strong was the force of the bat on each ball? How do you know?”  
-• “How did the batter change the  speed of the balls?”  
+**Key Statement**  
+“A push or a pull can change the **speed** of an object. It can make it move faster or slower.”
 
-**Teaching Note**  
-Students learn that a push or pull can change the speed of an object. They watch a short video of a boy batting balls and notice that each ball travels a different distance. They observe how the strength of the push (the swing of the bat) affects how far and fast the ball moves. Students discuss how a bigger push makes the ball move faster and go further, and how a smaller push makes it move more slowly. They explain how the batter changed the speed of the balls by using different amounts of force.  
+**Components**  
+- Video of batter hitting three balls.  
+- Discussion prompts:  
+  1. “How strong was the force of the bat on each ball? How do you know?”  
+  2. “How did the batter change the speed of the balls?”
 
-**Example answers**  
-• One ball was only tapped so it barely moved; another was hit a bit harder; the strongest hit sent the ball flying the greatest distance.  
-• The batter swung the bat at different speeds, applying different strength to each swing.  
-
----
-
-### 5. Changing Direction  (Teacher page wV)  
-Statement box – “A push or a pull can change the **direction** of a moving object.”  
-
-**Video** – Soccer goalie saving a ball.  
-
-**Student prompts**  
-1. “In what direction did the ball move?”  
-2. “How did the goalie change the direction of the ball?”  
-3. “Could the ball have moved in a different direction? How?”  
-
-**Teaching Note**  
-Students learn that a push or a pull can change the direction of a moving object. They watch a short video of a soccer goalie, observing how the goalie’s hands push the ball and change its direction. Students imagine other ways the ball could change direction.  
-
-**Example answers**  
-• The ball went flying off to the side of the goal.  
-• The goalie used their hands to push the ball away, causing it to move away from the goal.  
-• Yes – kicking or pushing from another angle would send it a different way, or catching it would stop it completely.  
+**Example Answers**  
+• A gentle swing → ball barely moved; strongest swing → ball flew furthest.  
+• The batter used different amounts of force with each swing.
 
 ---
 
-### 6. Stopping Objects  (Teacher page x)  
+### Section wV — Activity 5 (Teacher)  
+**Changing DIRECTION**  
+*Duration 5 min – Activity ID HcmCzTXmSjsM*
 
-Statement box – “A push or a pull can make an object **stop** moving too.”  
+**Teaching Note** (block **v0NQWbaNAQkP**)  
+Students learn that a push or a pull can change the direction of a moving object… (exact text retained).
 
-**Images & labels**  
-• “A girl in a warm coat and gloves plays with a red ball…” – label *Stopping a ball*  
-• “A young girl rides a pink bicycle…” – label *Stopping a bike*  
-• “Child in sunglasses joyfully holds a bunch of colourful balloons…” – label *Stopping balloons from flying away*  
+**Key Statement**  
+“A push or a pull can change the **direction** of a moving object.”
 
-**Student prompt**  
-“How is a push or a pull used in the pictures to stop things from moving?”  
+**Components**  
+- Video of a soccer goalie.  
+- Discussion:  
+  - “In what direction did the ball move?”  
+  - “How did the goalie change the direction?”  
+  - “Could the ball have moved in a different direction? How?”
 
-**Teaching Note**  
-Students explore how objects can be stopped by using a push or a pull. Using the provided examples, they think about how force can work against motion.  
+**Example Answers**  
+• The goalie’s hands pushed the ball away from the goal, to the side.  
+• Yes—kicking, pushing from another angle or catching would change its path.
 
-**Example answers**  
-• The girl is about to catch the ball by **pushing** against its motion.  
-• The bike stops when the rider **pulls** the brake levers.  
-• The balloons are held down by **pulling** the string.  
+---
 
-**Interactive sorting task (sub-section V)**  
+### Section x — Activity 6 (Teacher)  
+**Stopping Objects**  
+*Duration 5 min – Activity ID JRcFgXzurioU*
+
+**Teaching Note** (block **fRw9gUe8tHcq**)  
+Students explore how objects can be stopped by using a push or a pull… (exact wording retained).
+
+**Key Statement**  
+“A push or a pull can make an object **stop** moving too.”
+
+**Components**  
+- Three image sets with coloured labels:  
+  - *Alt:* Girl stopping a red ball — “Stopping a ball”.  
+  - *Alt:* Girl braking on a bicycle — “Stopping a bike”.  
+  - *Alt:* Child pulling balloon strings — “Stopping balloons from flying away”.  
+- Discussion prompt: “How is a push or a pull used in the pictures to stop things from moving?”
+
+**Suggested Answer (example)**  
+See full exemplar text in answer ID **ai-215Et4RFQt1F**.
+
+**Sub-section V (LGL0Ug0rzFM2)** – Interactive Sort  
 Instruction: “Sort the tiles to show how a push or a pull can stop something from moving.”  
-(Students drag items to ‘Push’ or ‘Pull’.) – Example categorisation supplied in the answer section.  
+(Correct answers: tiles moved into Push or Pull categories.)
 
 ---
 
-### 7. Predicting with Balloons  (Teacher page y – Check-point)  
+### Section y — Activity 7 (Teacher – Checkpoint)  
+**Predicting Balloon Forces**  
+*Duration 15 min – Activity ID LQkCb42bjKG3*
 
-Statement box – “Objects can be moved forwards and backwards, up and down, and side to side. How much an object moves depends on the strength of the force used on it.”  
-Instruction box – “With a classmate, predict how you might complete each sentence.”  
+**Teaching Note** (block **4df4MbZxGH7H**)  
+Objects can be moved forwards and backwards, up and down… (exact wording retained).
 
-**Image** – “A smiling red balloon with big eyes says, ‘Move me!’”  
+**Main Components**  
+- Statement box, balloon picture (*Alt:* smiling red balloon “Move me!”).  
+- Four speech-bubble response boxes:  
+  1. “I can make the balloon move by …”  
+  2. “… change the balloon’s direction by …”  
+  3. “… make the balloon move faster by …”  
+  4. “… stop the balloon from moving by …”
 
-Student sentence starters (speech bubbles):  
-• “I can make the balloon move by …”  
-• “I can change the balloon’s direction by …”  
-• “I can make the balloon move faster by …”  
-• “I can stop the balloon from moving by ...”  
+#### Sub-section k (upcZAgyu4D9Q) — Testing & Recording  
+Students test their predictions with a real balloon, complete sentences, draw arrows to show force direction.  
+Example answers: “pushed the balloon away from me”, “pulled the balloon towards me”.
 
-**Teaching Note**  
-Students predict how to move a balloon in different ways, focusing on how a push or pull changes its position, direction and speed. Students refine their thinking by sharing their ideas with a partner.  
-
-*(Checkpoint: students’ ideas captured for assessment – no fixed answers.)*  
-
-#### 7a. Sub-section k – Balloon investigation (student page)  
-Plain text – “With a classmate, use an inflated balloon to test your ideas.”  
-
-Sentence completion & drawing tasks:  
-1. *I ______ so it moved.*  – sample answer: *pushed the balloon away from me*  
-2. *I ______ so it changed direction.* – sample answer: *pulled the balloon towards me*  
-3. Draw what happened. Use an arrow to show the direction of the force.  
-
-#### 7b. Sub-section s – Continuing the investigation  
-Sentence completion & drawing tasks:  
-1. *I ______ so it changed speed.* – sample answer: *pushed the balloon harder*  
-2. *I ______ so it stopped.* – sample answer: *pushed the balloon against the floor*  
-3. Drawing & multiple-choice: “Did your results match your predictions?” (Yes / No)  
-4. Short response: “Did any of your results surprise you?” (open)  
-
-Teaching Note (assessment)  
-This activity is an opportunity to make an informal assessment of a student's ability to recognise that a force can change an object in different ways.  
+#### Sub-section s (QC0Sko9A9C1V) — Speed & Stop  
+Students record how they changed speed, stopped the balloon and evaluate predictions (Yes/No multiple-choice).
 
 ---
 
-### 8. Tug-of-War Interactive  (Teacher page yV)  
-**Image** – “Two cartoon figures are pulling on a rope, engaged in a tug-of-war.”  
+### Section yV — Activity 8 (Teacher – Differentiated)  
+**Interactive Tug-of-War**  
+*Duration 10 min – Activity ID RZfBDMCAb5ey*
 
-Plain text: “Click on the interactive to play a game of *Tug-of-War* with some furry friends.”  
+**Teaching Note** (block **yfopQxgdja1S**)  
+Students play an interactive Tug-of-War… (exact wording retained).
 
-Instruction box  
-• Explore what happens when you drag dogs of different sizes to the left and right sides of the rope.  
-• Press ‘Go’ to see what happens to the rope.  
-• Answer the questions on the next page.  
+**Components**  
+- Interactive game (drag dogs of different sizes).  
+- Instruction list (how to explore, press ‘Go’, answer next-page questions).
 
-**Teaching Note**  
-Students play an interactive **Tug-of-War** game by dragging dogs of different sizes to each side of a virtual rope, connecting equal and unequal forces to real-life examples. Encourage students to compare how balanced and unbalanced forces affect the movement of the rope.  
-
-#### 8a. Sub-section V – Student reflection  
-Open responses:  
-• “How would you describe the forces on each side of the rope when the rope didn't move?” – *The forces were balanced…*  
-• “What needed to happen to make the rope move?” – *One side had to pull harder…*  
-• “How would you describe the forces on each side of the rope when the rope moved?” – *The forces were unbalanced…*  
-• “What needed to happen to keep the rope still?” – *Both sides had to pull with the same force.*  
-
-Challenge box: “With a classmate, can you keep a rope still by using the same  force from opposite sides?”  
+#### Sub-section V (X6SY1AXzqrfy) — Balanced vs Unbalanced Forces  
+Students answer four reflection questions and a class “Challenge” box.  
+Example balanced-force answer: “The forces were balanced. Both sides pulled with the same strength so the rope did not move.”
 
 ---
 
-### 9. Push & Pull Together  (Teacher page z – Differentiation 3)  
-Statement box – “Sometimes an object needs a push and then a pull, or a pull and then a push, for it to work.”  
+### Section z — Activity 9 (Student – Differentiated)  
+**Push *and* Pull Together**  
+*Duration 10 min – Activity ID 3xxvBHfBSZuo*
 
-Plain text – “Draw a picture with arrows showing the direction of the forces for each example. Label the arrows with push or pull.”  
+**Teaching Note** (block **RH5iEdkF3mNm**)  
+Students consider how some objects need a push and a pull to work… (exact wording retained).
 
-Drawing prompts  
-• “Opening and closing a window.”  
-• “Using a crayon to colour in.”  
+**Main Page**  
+- Statement: “Sometimes an object needs a push and then a pull…”  
+- Drawing panels:  
+  - “Opening and closing a window”  
+  - “Using a crayon to colour in”
 
-**Teaching Note**  
-Students consider how some objects need a push and a pull to work. They explore opening and closing a window and colouring with a crayon, drawing pictures with arrows to show the direction of force used in each example.  
-
-#### 9a. Sub-section V – Create your own examples  
-Plain text – “Draw and label your own examples.” (two drawing panels numbered 1 and 2)  
-
-Example student answers (open-ended)  
-• Drawing of pushing a drawer closed and pulling it open.  
-• Drawing of rowing a boat (push & pull on oars).  
+**Sub-section V (EsoKvVoKR8MD)** — Create Your Own Examples  
+Instruction: “Draw and label your own examples.”  
+Two blank draw panels labelled 1 and 2.
 
 ---
 
-### 10. Lesson Conclusion  
-Revisit the focus question: *What can a push or a pull do?*  
-Students share new examples, adding real-life situations to the class knowledge bank.  
+## Lesson Conclusion  
+*(Block **ai-WLfhnaGiTF0C** — kept exactly.)*  
+
+As a class activity, revisit the focus question *What can a push or a pull do?* Ask students to share their ideas, adding real-life examples to their knowledge bank.
 
 ---
 
-## Materials List  
-• Playdough (per student)  
-• Inflated balloon (per student pair)  
+### Materials Needed (as listed)  
+- Playdough  
+- Inflated balloons  
+
+*(Taken from material-list blocks **nmRazi9WenUS** & **uy4qYZazaNjt**.)*
 
 ---
 
-*(All sections and subsections have been included in the exact order: V, k, s (V + k), w, wV, x (V), y (k + s), yV (V), z (V), matching the overview.)*
+> **All sections and their subsections are included and appear in the precise order provided in the Sections Overview (V, k, s → V/k, w, wV, x → V, y → k/s, yV → V, z → V).**
