@@ -49,13 +49,13 @@ misconceptions.
 
 LEARNING INTENTIONS:
 Students are learning to:
-- * Identify parts of the human skeleton that offer protection and support.
+- Identify parts of the human skeleton that offer protection and support.
 
 SUCCESS CRITERIA:
 By the end of this lesson, students will:
-- * Name different parts of their skeleton.
-- * Locate different parts of their skeleton on their own body.
-- * Describe how different parts of their skeleton offer protection or support.
+- Name different parts of their skeleton.
+- Locate different parts of their skeleton on their own body.
+- Describe how different parts of their skeleton offer protection or support.
 
 TEACHER READING:
 Your skeleton is essential for providing structure and support to the human
