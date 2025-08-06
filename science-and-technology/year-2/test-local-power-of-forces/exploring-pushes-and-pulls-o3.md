@@ -1,255 +1,239 @@
-# Lesson: Exploring Pushes and Pulls  
-URL: https://www.inquisitive.com/au/lesson/6280-exploring-pushes-and-pulls  
-
-## Focus Question  
-What makes things move?
+# Lesson: **Exploring Pushes and Pulls**  
+URL: <https://www.inquisitive.com/au/lesson/6280-exploring-pushes-and-pulls>
 
 ---
 
 ## Learning Intention  
 Students are learning to:  
-• Identify a force as a push or a pull.  *(Bagj3hW3H7aC)*
+• Identify a force as a push or a pull.  *(Bagj3hW3H7aC)*  
 
 ## Success Criteria  
 By the end of this lesson, students will be able to:  
-• Recognise that forces are pushes and pulls that make objects move.  
-• Know that a push moves an object away from us, and a pull moves it towards us.  
-• Use arrows to show the direction of a force.  
-• Use the words ‘push’, ‘pull’, ‘towards’ and ‘away from’ in compound sentences.  
-• Conduct a simple investigation that collects and represents data about pushing and pulling.  *(LTgDjxiZWzwM)*
+1. Recognise that forces are pushes and pulls that make objects move.  
+2. Know that when we push an object it moves **away from** us and when we pull an object it moves **towards** us.  
+3. Use directional arrows to show the way a force acts on an object.  
+4. Use the vocabulary *push, pull, towards, away from* in compound sentences to describe forces.  
+5. Conduct a scientific investigation, collecting and representing data about pushing and pulling.  *(LTgDjxiZWzwM)*  
 
-## Teacher Reading *(Background knowledge – ai-bdUeZa3w5XKE)*  
-**Forces** – A force is any push or pull that can change an object’s motion or direction.  
+## Teacher Reading  
+**Forces** – A force is any push or pull that can change an object’s motion or direction. Applying a greater force usually causes a bigger change in how an object moves.  
+
 **Pushes and pulls** – A push moves an object away, while a pull brings it closer.  
-**Direction of forces** – We show direction with arrows.  
-**Objects and movement** – Objects stay still until a force acts on them, and keep moving in the same direction until another force acts.
 
-## Note *(Vocabulary – ehydPingR4J0)*  
-The bold words in this lesson are low–frequency, subject-specific (Tier 2 and Tier 3) vocabulary. Teach them in context as you work through the activities.
+**Direction of forces** – Forces have direction, often shown with arrows that indicate where the force is applied and which way it acts.  
 
-## Introduction *(ai-x9ySnRD6sped)*  
-Display the landscape image (alt text: *Three children play on grass. One pulls a wooden wagon, another pushes it from behind while another sits inside, smiling.*). Ask:  
-*What makes things move?*  
-Record students’ ideas to reveal their current understanding and misconceptions.
+**Objects and movement** – Objects stay still until a force makes them move. Once an object is moving, it keeps moving in the same direction unless another force acts on it.  *(ai-bdUeZa3w5XKE)*  
+
+## Note  
+**Vocabulary Words** – The vocabulary words in this lesson are defined as Tier 2 and Tier 3 words, which are low-frequency, subject-specific words. They appear in **bold** within the lesson. *(ehydPingR4J0)*  
+
+## Introduction (Teacher-led)  
+Show students the cover image (alt text below) and ask: **What makes things move?**  Record students’ ideas to gauge current understanding. *(ai-x9ySnRD6sped)*  
+
+Image alt text: “Three children play on grass. One pulls a wooden wagon, another pushes it from behind while another sits inside, smiling.”  
+
+## Focus Question  
+**What makes things move?**
 
 ---
 
-# Activity Sequence  
-(The order below follows the Sections Overview exactly, including all subsections.)
+## Activity Sequence  
+All sections and subsections are listed in the exact order supplied in the lesson overview.
 
----
+### 1. Watch the video *Sledding Teamwork* (Section V – BmCVD3d3GiQY)
 
-### 1. Watch and Wonder – “Sledding Teamwork”  
-Section ID BmCVD3d3GiQY  |  Teacher page  |  Duration ≈ 5 min  
+**Student view**  
+> Watch the video *Sledding Teamwork* and then answer the questions.  
 
-**What students do**  
-1. Read the instruction box: *Watch the video **Sledding Teamwork** and then answer the questions.*  
-2. Watch the video.  
-3. Discuss and/or respond (text/draw/upload) to:  
-   • *How did they get the sled to move?*  
-   • *Why is it called **Sledding Teamwork**?*
+**Sub-activities**  
+1. “How did they get the sled to move?”  
+2. “Why is it called *Sledding Teamwork*?”
 
 **Teaching Notes** *(597hB5wiJ4S2 – Engage)*  
-Students watch the sledding video and identify how the sled is being moved, introducing the idea of pushing and pulling. They are **not** expected to use the word *force* yet.
+Students watch the sledding video and identify how the sled is being moved, introducing the idea of pushing and pulling. It is not expected that students understand or use the word **force** here.
 
-**Suggested answers**  
-• The woman pushed from behind and the man pulled from the front with a rope.  
-• They needed more than one person working together to make the sled move.
+**Answers**  
+• The woman pushed the boy from behind, making the sled move forward. The man pulled the sled from the front using a rope.  
+• They needed more than one person to make the sled move, so it was teamwork.
 
 ---
 
-### 2. Why Can’t Things Move by Themselves?  
-Section ID tDP2z2N5cRVB  |  Teacher page  |  Duration ≈ 5 min  
+### 2. Why can’t things move by themselves? (Section k – tDP2z2N5cRVB)
 
-**Content shown**  
-Statement box:  
-*Things can’t move by themselves. An object that is still will stay still unless it is made to move.*
+Children view three short animations:
 
-Three short looping animations with discussion-response prompts (arranged in columns):  
-
-| Image & alt text | Question | Sample answer |
-|---|---|---|
-| Children tugging a rope – *Children tugging a rope in a game…* | *Why is the rope moving?* | The children are **pulling** the rope. |
-| Child on a bike – *A child in a helmet smiles…* | *What is making the bike move?* | The child is **pushing** the pedals and an adult is helping push. |
-| Dog stroller – *A woman in a red sweater pushing a dog stroller…* | *What is making the pram move?* | The woman is **pushing** the pram. |
+| Image (alt text) | Question for discussion |
+|---|---|
+| “Children tugging a rope in a game.” | “Why is the rope moving?” |
+| “A child in a helmet rides a bike.” | “What is making the bike move?” |
+| “A woman pushing a dog stroller.” | “What is making the pram move?” |
 
 **Teaching Notes** *(hgdzamcACfMf – Explore)*  
-Objects cannot move on their own. Use the three examples to emphasise that a push or a pull is needed to set an object in motion.
+Students explore that objects cannot move on their own. They discuss how each object is set in motion.
+
+**Answers**  
+• The rope is moving because the children are **pulling** it.  
+• The bike moves because the child is **pushing** the pedals and the woman is **pushing** it along.  
+• The dog is moving because the woman is **pushing** the pram.
 
 ---
 
-### 3. Push or Pull? (Forces Interactive)  
-Section ID A7jzeoMVSrWP  |  Teacher page  |  Duration ≈ 5 min  
+### 3. Pushes, Pulls and Forces (Section o – A7jzeoMVSrWP)
 
-**Content shown**  
-Statement box: **Pushes** and **pulls** are called **forces**. Forces make objects move.  
-Interactive sorting activity – students decide if each illustrated force is a push or a pull.  
-Instruction box: *Decide if each force is a push or a pull.*
+**Key statement presented to students**  
+> **Pushes** and **pulls** are called **forces**. Forces make objects move.
 
-**Teaching Notes** *(A4zsXbPtrx0F – Explore & Explain)*  
-Reinforce that every force can be described as a push or a pull. After sorting, invite students to justify their choices.
+Students use the interactive to decide if each force is a push or a pull.
 
----
+**Teaching Notes** *(A4zsXbPtrx0F – Explore/Explain)*  
+Reinforce that all forces can be described as either a push or a pull. Students sort cards into two groups and explain their choices.
 
-### 4. Push ➜ Away Pull ➜ Towards  
-Section ID a19q3Vs5B1JS  |  Student page  |  Duration ≈ 15 min  
-
-**Content shown**  
-Statement box explains ‘away’ vs ‘towards’.  
-Two side-by-side images:  
-• *A smiling girl in red leggings pulls a silver suitcase…*  
-• *A young girl in a pink dress pushes a shopping trolley…*  
-
-Students complete two fill-in-the-blank sentences:
-
-1. “I ___ the suitcase so it moves ___ me.”  
-   • Answers: **pull / towards**
-
-2. “I ___ the trolley so it moves ___ ___ ___ me.”  
-   • Answers: **push / away / from**
-
-Word bank (push, pull, away from, towards) provided.
-
-**Teaching Notes** *(YM70wU6oSAMi – Explore & Explain)*  
-Have students physically act out pulling a suitcase and pushing a trolley before writing. Emphasise the link between the type of force and the direction of movement.
+*No fixed answers – responses are revealed by the interactive.*
 
 ---
 
-#### 4a. Sub-section: Forces Charades  
-Section ID xHUAwsspBJzv  |  Student sub-page (sort k)
+### 4. Push = Away Pull = Towards  
+(Section t – a19q3Vs5B1JS and its subsections)
 
-Instruction box: *Play **Forces Charades** as a class or in pairs.*  
+#### 4a. Complete the sentences (Fill-in-the-blanks)  
+| Picture (alt text) | Sentence & Answers |
+|---|---|
+| “A smiling girl in red leggings pulls a silver suitcase.” | **I [pull] the suitcase so it moves [towards] me.** |
+| “A young girl in a pink dress pushes a shopping trolley.” | **I [push] the trolley so it moves [away] [from] me.** |
 
-Coloured box (*How to play*):  
+#### 4b. Word bank  
+push pull away from towards  
+
+#### 4c. Teaching Notes *(YM70wU6oSAMi – Explore/Explain)*  
+Emphasise that pushing moves an object away and pulling moves it towards you. Encourage students to act out the movements before writing.
+
+---
+
+#### 4d. Forces Charades (Sub-section k – xHUAwsspBJzv)
+
+Student instruction  
+> Play *Forces Charades* as a class or in pairs.  
+
+“How to play:”  
 • Select an activity from the brainstorm list.  
 • Act it out for a classmate to guess.  
-• Use the word bank to describe the force and how it makes an object move.  
+• Use the word bank to describe the force and how it makes an object move.
 
-Speech bubble example: *“I pull the rope so it moves towards me.”*  
+Teaching Notes *(iFkSke0qHZFn)*  
+Guide students to use big gestures and directional language when acting.
 
-Image alt text: *A boy in a sweater poses confidently, imagining friends playing tug-of-war.*
-
-Word bank tiles (pull, push, towards, away from).
-
-**Teaching Notes** *(iFkSke0qHZFn)*  
-Students act out a push or pull for classmates to guess, using big gestures and directional language.
+*Open-ended – no fixed answers.*
 
 ---
 
-#### 4b. Sub-section: Brainstorm – Push, Pull or Both  
-Section ID KsXK5FwNWYRP  |  Student sub-page (sort c)
+#### 4e. Class brainstorm – Push, Pull or Both  
+(Sub-section c – KsXK5FwNWYRP)
 
-Image: *Whiteboard displaying the text: "Example: Opening and closing a door."*  
+Student prompt (whiteboard image alt text):  
+“Example: Opening and closing a door.”
 
-Instruction (info-box): *As a class, brainstorm activities that need a push, a pull or both.*  
-
-Statement: *To push or pull an object, we usually touch it with our hands, another body part or something like a stick or a bat.*
-
-**Teaching Notes** *(gcNXmYGKKWkG)*  
-Guide discussion toward everyday actions (e.g., brushing teeth, rowing a boat) that involve pushes, pulls or both.
+Teaching Notes *(gcNXmYGKKWkG – Elaborate)*  
+Students brainstorm everyday activities that need a push, a pull or both to make something move.
 
 ---
 
-### 5. Using Arrows to Show Force Direction  
-Section ID aKhLQg1JE2FR  |  Student page  |  Duration ≈ 5 min  
+### 5. Using Arrows to Show Forces (Section u – aKhLQg1JE2FR)
 
-Statement box: *We can use **arrows** to show the direction of a force.*  
-Instruction: *Look at each picture and the direction of the force. Is it a push or a pull?*
+Students look at each picture, note the arrow and choose **Push** or **Pull**.
 
-Six picture-and-question tiles (multiple-choice). Answers are:
-
-| Picture (alt text) | Correct answer |
+| Image (alt text) | Correct answer |
 |---|---|
-| Worker pushes wheelbarrow | **Push** |
-| Figure helps friend climb | **Pull** |
-| Person pulls box with rope | **Pull** |
-| Hand pressing button | **Push** |
-| Figure pushing large box | **Push** |
-| Hand pulling down a blind | **Pull** |
+| Worker pushing a wheelbarrow | Push |
+| One figure helping another climb up | Pull |
+| Person pulling a box with a rope | Pull |
+| Hand pressing a button | Push |
+| Figure pushing a large box | Push |
+| Hand pulling down a blackout blind | Pull |
 
 **Teaching Notes** *(62hWdwyK8JzH – Explain)*  
-Show how the arrow tells us the direction. Students decide push or pull based only on the arrow.
+Students learn that arrows can show force direction and use them to decide if each action is a push or a pull.
 
 ---
 
-### 6. Investigation Check-point – How Things Move  
-Section ID NUmu2Qr1v1vu  |  Teacher page  |  Duration ≈ 15 min (Check-point)
+### 6. Scientific Investigation – How Things Move  
+(Section x – NUmu2Qr1v1vu and subsection V – sKMdmySUDHbZ)
 
-Coloured box: *Investigate how things move.*  
-Instruction steps (bullet list):  
+**Checkpoint Activity** – Teacher-led modelling then student investigation.
+
+Teacher modelling image alt text:  
+“Illustration showing hands pushing a ball, with an arrow showing the direction of the force.”
+
+Student tasks  
 1. Choose three things to investigate.  
-2. Use a force to make each thing move.  
-3. Draw each one, adding an arrow to show the direction of the force.  
-4. Label if it was a push or a pull.  
-5. Complete a sentence using the word bank.
+2. Use a force to make each move.  
+3. Draw each object, add an arrow, label push or pull.  
+4. Complete a sentence using the word bank (*pushed, pulled, away from, towards*).
 
-Image example (alt): *Illustration showing hands pushing a ball, with an arrow showing the direction of the force.*  
-Sentence example: “I pushed the ball so it moved away from me.”
+Teaching Notes  
+• *aNoGmE7mYtnv – Evaluate:* Model the worked example before students begin.  
+• *6E405MdiYBUF – Assessment:* Use this as an informal assessment of students’ ability to identify a push or pull.  
+• *q2jkKuryB44X – Activity description* summarises the student work.
 
-**Teaching Notes**  
-• *Worked example provided to model recording.* *(aNoGmE7mYtnv – Evaluate, worked-examples)*  
-• *This is an informal assessment of students’ ability to identify a push or a pull.* *(6E405MdiYBUF – Level of attainment)*
-
----
-
-#### 6a. Student Investigation Slide  
-Section ID sKMdmySUDHbZ  |  Student sub-page (sort V)
-
-Layout: Four columns – Word Bank, Draw Object 1, Draw Object 2, Draw Object 3.  
-Word bank tiles: pushed, pulled, away from, towards.  
-Three drawing canvases (Object 1, 2, 3) and three fill-in-the-blank sentences:
-
-“I ___ the ___ so it moved ___ me.”
-
-Students draw, use an arrow, label push/pull, and finish the sentence with words from the bank. *(q2jkKuryB44X)*
+*Open-ended – responses will vary.*
 
 ---
 
-### 7. Sorting Action Words – Push or Pull  
-Section ID t5RALcDDFWSd  |  Student page  |  Duration ≈ 15 min  
+### 7. Action Words for Forces  
+(Section y – t5RALcDDFWSd)
 
-Statement: *Many action words are used to describe forces.*  
+Students act out and sort verbs into Push / Pull groups.
 
-Interactive categorise activity (B4jVW0rwkNtg). Tiles to sort:
+**Word tiles and correct categories**  
+*Push*: shove, press, throw, close  
+*Pull*: tug, stretch, tow, drag  
 
-Push → shove, throw, press, close  
-Pull → stretch, tug, tow, drag
-
-**Teaching Notes** *(GeeQiSq11Uvf – Elaborate)*  
-Students mime each verb before sorting to help link the action to the meaning.
+Teaching Notes *(GeeQiSq11Uvf – Elaborate)*  
+Students consider how many action words describe forces in everyday scenarios.
 
 ---
 
-#### 7a. Sub-section: Action Word Cards  
-Section ID VoaTH7XRVcKD  |  Student sub-page (sort k)
+#### 7a. Action Word Cards  
+(Sub-section k – VoaTH7XRVcKD)
 
-Instruction:  
-• Select four action words from the sorting activity.  
-• Write the word, draw the action, label it as push or pull, draw an arrow showing force direction.
+Students select four words from the sort, complete a card for each and:
 
-Template image alt: *Four blank boxes with space to write an action word and to draw and label a picture.*
+• Record the action word.  
+• Draw a picture of the action.  
+• Label it as push or pull.  
+• Draw an arrow showing the direction of the force.
 
-**Teaching Notes** *(hN0AL8KR000y)*  
-Encourage clear arrows and labels so the type and direction of force are obvious.
+Teaching Notes *(hN0AL8KR000y)*  
+
+*Open-ended – no fixed answers.*
 
 ---
 
 ### 8. Non-living Things that Move Objects  
-Section ID 2W50otiRE3Sz  |  Student page  |  Duration ≈ 10 min  
+(Section z – 2W50otiRE3Sz)
 
-Statement: *Objects can be pushed and pulled by living and non-living things.*  
+Student prompt (image alt text):  
+“Two blank white squares with black outlines side by side.”
 
-Students draw in two blank squares (alt: *Two blank white squares with black outlines side by side.*) and label two examples of **non-living** things that move objects by pushing or pulling (e.g., wind blowing leaves, a river pulling sticks downstream, a digger pushing soil).
+Instruction to students  
+> Think of two examples of non-living things that can move objects by pushing or pulling. Draw and label them to show how they move something.
 
 **Teaching Notes** *(QPcNTow9P44n – Elaborate)*  
-After drawing, have students share and explain which force is used and in which direction.
+
+*Open-ended. Example answers might include:*  
+• Wind pushing leaves.  
+• A river pulling (carrying) sticks downstream.  
 
 ---
 
-## Conclusion / Assessment *(ai-n2J5XXUrX9HP)*  
-Revisit the focus question *What makes things move?*  
-Invite students to share new ideas, correcting any remaining misconceptions.
+## Lesson Conclusion  
+
+Revisit the focus question **“What makes things move?”** and invite students to share final ideas, addressing any remaining misconceptions. *(ai-n2J5XXUrX9HP)*
 
 ---
 
-### End of Lesson
+### Alt Text Summary of Major Images Used
+(The alt text is included above with each activity as required.)
+
+---
+
+> **All sections and subsections are present and appear in the exact order provided in the lesson’s section overview.**
