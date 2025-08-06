@@ -10,266 +10,232 @@ Students are learning to:
 ## Success Criteria  
 By the end of this lesson, students will be able to:  
 1. Predict and explain which surfaces cause more or less friction.  
-2. Conduct an investigation and document observations of the effects of friction on an object’s motion.  
-3. Describe surfaces as smooth or rough.  
-4. Explain that friction is weaker on smooth surfaces and stronger on rough surfaces.  
+2. Conduct an investigation and document observations of the effects of friction on the motion of an object.  
+3. Describe surfaces as *smooth* or *rough*.  
+4. Explain that **friction is weaker on smooth surfaces and stronger on rough surfaces**.  
 5. Use arrows to show both the strength and direction of the movement force and the opposing force of friction.  
 6. Use compound sentences to describe friction.  
 
 ## Teacher Reading  
 **Friction as a force**  
-Friction is a force that opposes the motion of an object when it comes into contact with another surface. It acts in the opposite direction to movement, causing objects to slow down or stop. This force arises because of the microscopic bumps and grooves on surfaces.  
+Friction is a force that opposes the motion of an object when it comes into contact with another surface. It acts in the opposite direction to movement, causing objects to slow down or stop. This force arises due to the interactions between the microscopic bumps and grooves on surfaces.  
+
 **Surface texture and friction**  
-All surfaces, even those that feel smooth, have tiny imperfections. Rougher surfaces have larger bumps, which lead to greater friction, while smoother surfaces generate less friction.  
+All surfaces, even those that feel smooth, have tiny imperfections called microscopic bumps and grooves. When two surfaces slide against each other, these irregularities catch on one another, creating friction. Rougher surfaces have more pronounced bumps, leading to increased friction, while smoother surfaces generate less friction.  
 
 ## Note  
 **Vocabulary Words**  
-The vocabulary words in this lesson are defined as Tier 2 and Tier 3 words. They appear in **bold** within the lesson.  
+The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are low-frequency, subject-specific words. The vocabulary words appear in **bold** within the lesson.
 
-## Introduction (Engage)  
-Show students the landscape image (alt text: *“A child pushes a wooden cart with a happy puppy sitting inside on a carpeted floor.”*) and ask the focus question:
+## Introduction  
+Show students the image (alt text: *A child pushes a wooden cart with a happy puppy sitting inside on a carpeted floor.*) and ask the focus question, *“What slows an object down?”*  
+Ask students to think about times they have observed or experienced an object slowing down or stopping (e.g. a rolling ball on grass or a toy car on a track) and consider what caused it to slow down. Document and use the students’ responses to help gauge their current understanding and to identify any misconceptions.
 
-> **What slows an object down?**
-
-Invite students to share times they have noticed something slow down or stop (e.g., a rolling ball on grass). Record their ideas to uncover prior knowledge and misconceptions.
-
----
-
-# Focus Question  
+## Focus Question  
 **What slows an object down?**
 
 ---
 
 # Activity Sequence  
-The sections and subsections below follow exactly the order given in the “Sections Overview”.
+(Sections and subsections appear in the exact order given in the Sections Overview.)
 
 ---
 
-## 1 . Investigation: Which Block Slides First?  
-(Teacher page – Section **QziCYWLNH5Dr**, subsections follow in order)
+## 1. Investigate: “Which block will slide first?”  
+**Section:** QziCYWLNH5Dr (Teacher page)  
+### a. Think, Pair, Share (sub-section D5yjZPvU2kn5)  
+*Display the layered ramp (alt text: *Hand holding a layered board labelled with bubble wrap, aluminium foil, and rough sandpaper.*).*
 
-### 1a. Predict & Discuss  
-Sub-section **QziCYWLNH5Dr**  
-*Teaching Notes (from 5zsH9cnhC5dr)*  
-Introduce the ramp with three surfaces (rough sandpaper, aluminium foil and bubble wrap). Ask:
+Teaching notes (teacher sequence IDs: 5zsH9cnhC5dr & PwNVoCqM5AfG):  
+* Introduce the concept of friction by presenting students with a ramp featuring three different surface types.  
+* Direct their attention to the blocks at the top of the ramp and ask them to predict which block will slide down first and *why*.  
+* Encourage the use of words such as *bumpy, lumpy, rough* and *smooth*.  
+* Materials needed (per pair):  
+  - A ramp (cardboard) divided into three equal-sized surfaces of different materials (e.g. rough sandpaper, aluminium foil, bubble wrap)  
+  - Three identical small block-shaped objects  
 
-* “Which block do you think will slide down the ramp first? Why?”  
-* Encourage words such as *bumpy, lumpy, rough, smooth*.
+Plain-text prompt shown to students:  
+> Look at the three different surfaces on this ramp.  
 
-Present the interactive animation (alt text: *“Hand holding a layered board labelled with bubble wrap, aluminium foil, and rough sandpaper.”*).
+Coloured box prompt: *Think, Pair, Share.*
 
-**Think, Pair, Share** – students record their prediction in the discussion box.
+### b. Investigation Set-Up (sub-section D5yjZPvU2kn5 – “Materials”)  
+Instruction box (Materials):  
+* “Materials  
+  Each pair will need:  
+  • A ramp: a piece of cardboard with three equal-sized surfaces of different materials  
+  • Three identical small block-shaped objects”
 
-**Answer example**  
-“It will likely slide first on the foil because the foil’s smooth surface has fewer bumps.”
+Image alt text: *Various crafting materials including three identical wooden blocks, velcro, grass mat, foil, bubble wrap, sand paper, felt, plastic wrap and carpet.*
 
----
+Coloured box (question): *Do different surfaces affect how an object slides?*
 
-### 1b. Materials  
-Sub-section **D5yjZPvU2kn5**  
-*Plain text box:* “With a classmate, complete an investigation to answer the question.”
-
-**Instruction Box – Materials**  
-Each pair will need:  
-• A ramp (cardboard) with three equal-sized surfaces of different materials  
-• Three identical small block-shaped objects  
-
-Image (alt text: *“Various crafting materials including three identical wooden blocks, velcro, grass mat, foil, bubble wrap, sand paper, felt, plastic wrap and carpet.”*)
-
-*Teaching Notes (afSGX00mSoDR)* – list of suggested covering materials is provided.
-
-**Guiding Question (Coloured Box)**  
-“Do different surfaces affect how an object slides?”
-
----
-
-### 1c. Steps & Predictions  
-Sub-section **HwGQYsChJw0u**  
-
-**Steps (Instruction Box)**  
+### c. Predict (sub-section HwGQYsChJw0u)  
+Instruction boxes – **Steps**  
 1. Make a ramp with three different surfaces.  
-2. Place each block on a different surface at one end of the ramp, lining them up.  
+2. Place each block on a different surface at one end of the ramp, making sure they are lined up.
 
-**Predict (Coloured Box)** – Students answer two response prompts:
+Coloured box: **Predict**
 
-* On which surface will a block slide first? Why?  
-  *Example answer:* “Foil – it is smooth so friction is weak.”  
-* On which surface will a block slide last? Why?  
-  *Example answer:* “Sandpaper – it is rough so friction is strong.”  
+Student responses (text fields):  
+* “On which surface do you think a block will slide first? Why?”  
+* “On which surface do you think a block will slide last? Why?”
 
-Interactive animation shows an example ramp (alt text: *“Three textured materials on a wooden surface: bubble wrap, aluminium foil, and rough sandpaper.”*).
+Suggested answers  
+* First: *It will likely slide first on the foil because the foil’s smooth surface has less bumps.*  
+* Last: *It will slide last on the roughest surface, usually the sandpaper, because it is bumpy.*
 
----
+### d. Observe (sub-section 3qErgzDZrkLm)  
+Instruction box – **Step 3**  
+* “Slowly and steadily tilt the side of the ramp that has the blocks on it until all blocks have slid to the bottom. Watch how each block moves.”
 
-### 1d. Observe  
-Sub-section **3qErgzDZrkLm**  
+Coloured box: **Observe**  
 
-**Step 3 (Instruction Box)**  
-“Slowly and steadily tilt the ramp until all blocks have slid to the bottom. Watch how each block moves.”
+Students complete a drawing: “Draw and label what happened.”  
+Rive animation label: *Lift the ramp* (alt text: *A hand holds up a ramp with three different material surfaces.*)
 
-Students:  
-* Draw and label what happened (Draw tool).  
-* “Observe” Coloured Box reminds them of the skill.
+### e. Explain (sub-section iY35BNTaNrNW)  
+Coloured box: **Explain**
 
-Interactive animation (alt text: *“A hand holds up a ramp with three different material surfaces, text says ‘Lift the ramp’.”*).
+Instruction box – **Step 4**  
+* “Record your results.”
 
----
+Student response prompts:  
+1. “Which ramp surface needed the smallest tilt to make a block slide?”  
+2. “Which ramp surface needed the greatest tilt to make a block slide?”  
+3. “Why do you think that is?” (two separate text fields – one for the easiest surface, one for the hardest)
 
-### 1e. Explain Results  
-Sub-section **iY35BNTaNrNW**  
-
-Coloured Box heading: **Explain**
-
-Students answer:  
-1. Which ramp surface needed the smallest tilt?  
-   *Example answer:* “Foil surface needed the lowest lift.”  
-2. Which surface needed the greatest tilt?  
-   *Example answer:* “Sandpaper needed the highest lift.”  
-3. Why do you think that is?  
-   *Example answers provided:*  
-   * “It is smoother so the block began moving quickly.”  
-   * “Sandpaper is the roughest material and slowed the block down.”
+Suggested answers  
+* Smallest tilt: *The foil surface needed the lowest lift.*  
+* Greatest tilt: *Sandpaper needed the highest lift.*  
+* Why (foil): *It is smoother so the block begins moving quickly.*  
+* Why (sandpaper): *It is the roughest material and slows the block down.*
 
 ---
 
-## 2 . Reading & Vocabulary: “Friction”  
-(Teacher page – Section **754uXFtDskJZ**, sub-section **BRJxXCQiWhWX**)
+## 2. Read & Write about Friction  
+**Section:** 754uXFtDskJZ (Teacher page)  
+### Sub-section BRJxXCQiWhWX  
+Statement box: **Friction** *is the force that slows down moving things and also keeps still things from moving.*  
 
-### Teaching Notes (P9MJ6iEc2TcK & 3HngCrJvkt0T)  
-Read the eBook aloud (*Info-box: “Read the eBook to learn more.”*). Pause to ask:  
-* “Do you think friction was happening during your investigation?”  
-* “When did you notice friction stopping something from moving?”
+Info-box: *Read the eBook to learn more.* (Embedded e-book appears.)
 
-### Activity  
-1. **Statement Box** – *“Friction is the force that slows down moving things …”*  
-2. Students complete two **Fill-in-the-Blank** sentences using the word bank tiles.
+Teaching notes (P9MJ6iEc2TcK, 3HngCrJvkt0T, bGrb5EfmGSU8):  
+* Read the eBook with the class and ask:  
+  - “Do you think friction was happening during your investigation?”  
+  - “When did you notice friction stopping something from moving?”  
+* Students complete sentences using the word bank and then write their own sentence.  
+* Informal assessment opportunity: listen for correct use of *rough/smooth, strong/weak friction*.
 
-| Sentence | Answers |
-| --- | --- |
-| Sandpaper has a ___ surface so it makes ___ friction. | **rough**, **strong** |
-| Ice has a ___ surface so it makes ___ friction. | **smooth**, **weak** |
+Student task – Fill-in-the-blanks (word bank in coloured boxes: **rough, bumpy, smooth, weak, strong**)  
+Sentences:  
+1. “Sandpaper has a ____ surface so it makes ____ friction.”  
+   *Answers: rough, strong*  
+2. “Ice has a ____ surface so it makes ____ friction.”  
+   *Answers: smooth, weak*  
 
-3. **Write your own sentence** – Response box.  
-   Example: “Foil has a smooth surface so it makes weak friction.”
-
-### Assessment note (bGrb5EfmGSU8)  
-Use students’ sentences for an informal check of their ability to describe friction strength.
-
----
-
-## 3 . Direction of Friction Forces  
-(Teacher page – Section **UYQVs5naAF8K**, sub-section **G4biyyVUT93Q**)
-
-### Teaching Notes (iywcdbhxLfPv & owhiVoMwTrtV)  
-Emphasise that friction always acts in the **opposite** direction to movement and is usually weaker than the push force.
-
-### Activity Flow  
-1. **Statement Box** – definition of opposing direction.  
-2. **Coloured Box** – “We can use an arrow to show the force of friction.”  
-3. Interactive animation (child in a box, alt text: *“A child joyfully sits in a cardboard box …”*).  
-   Students discuss:  
-   * “Why is the friction arrow shorter?”  
-   * “In which direction is friction working?”  
-   * “In which direction is the box being pushed?”
-
-   Example answers:  
-   * Friction is weaker, so the arrow is shorter.  
-   * Friction acts opposite to the push.  
-   * The box is being pushed forward.
-
-4. **Draw task** – Four-panel cartoon (alt text: *“Four panels: a boy sliding, a woman shopping, a girl on a scooter, and a boy raking leaves.”*)  
-   Instructions:  
-   * Draw one arrow for movement, one for friction.  
-   * Label the arrows “movement” and “friction”.
-
-   Example image answer is provided to students.
+Open response: “Write your own sentence about friction for another type of surface.”  
+Suggested sample: *Foil has a smooth surface so it makes weak friction.*
 
 ---
 
-## 4 . Shoes & Surfaces  
-(Student page – Section **Hnj3ST7v1QZ9**, sub-section **iaKAeYV2qReD**)
+## 3. Explain: “Friction works in the opposite direction”  
+**Section:** UYQVs5naAF8K (Teacher page)  
+### a. Key idea  
+Statement box:  
+* “Friction always works in the **opposite** direction to the direction of the force that is moving an object. It always slows a moving object down.”  
 
-### Teaching Note (XVsZJZAyALrr & syZzGnju5E3c)  
-Students explore how footwear is designed for different surfaces and amounts of friction.
+Info-box:  
+* “We can use an arrow to show the force of friction.”
 
-### Activity  
-Image of four shoes (alt text: *“Four pairs of sports footwear: A) Crampons, B) ballet shoes, C) football boots, D) rollerblades.”*).
+### b. Discuss with animations  
+Rive animation (alt text: *A child joyfully sits in a cardboard box, pushed by an adult, illustrating friction and movement.*) shows two arrows (*Movement*, *Friction*).
 
-| Shoes | Activity | Surface |
-| --- | --- | --- |
-| A | Climbing or hiking | Ice or snow |
-| B | Ballet dancing | Smooth wooden stage floors |
-| C | Football games | Grass |
-| D | Rollerskating | Smooth paths / skating rinks |
+Discussion-response prompts (students answer in any format):  
+* “Why do you think the friction arrow is shorter than the movement arrow?”  
+* “In which direction is friction working in?”  
+* “In which direction is the box being pushed?”
 
-**Explain prompts**  
-* Which shoes provide the most friction? How do you know?  
-  *Example:* “A – crampons have spikes that grip ice.”  
-* Which shoes provide the least friction? How do you know?  
-  *Example:* “D – rollerblades have wheels that reduce friction.”  
+Suggested answers  
+* The friction arrow is smaller because friction is weaker than the push force.  
+* Friction works in the opposite direction to the push.  
+* The box is being pushed forward, in the same direction as the longer movement arrow.
 
-**Draw** – Students think of a special shoe and draw it.
+### c. Draw the forces (sub-section G4biyyVUT93Q)  
+Image alt text: *Four panels: a boy sliding, a woman shopping, a girl on a scooter, and a boy raking leaves.*
 
----
+Student instructions:  
+* Draw one arrow to show the direction of the movement.  
+* Draw another arrow to show the direction of the force of friction.  
+* Label your arrows as “movement” and “friction”.
 
-## 5 . Design a Special Shoe  
-(Student page – Section **n0uN9MH9vm7B**)
-
-### Teaching Note (hgphDZZNPKwS)  
-Students design footwear suited to a particular activity, thinking about how much friction is needed.
-
-### Activity  
-1. Statement Box – information about ice skates (alt text: *“Ice skates are designed …”*).  
-2. Coloured Tip: *“Think of how much or how little friction your shoe will need to provide.”*  
-3. **Draw & Label** – “Design a new shoe for a special place or activity.”  
-   (Image of snowshoes, alt text: *“A pair of snowshoes on snow-covered ground …”* for inspiration.)
-
-Students label how each part of the shoe helps the wearer.
+Teaching note (iywcdbhxLfPv, owhiVoMwTrtV, Tm3ov024ubVr):  
+* Reinforce that arrows should point in opposite directions and the longer arrow represents the stronger force.
 
 ---
 
-## Conclusion (Evaluate)  
-Revisit the focus question:
+## 4. Elaborate: Shoe Surfaces and Friction  
+**Section:** Hnj3ST7v1QZ9 (Student page)  
+### Sub-section iaKAeYV2qReD  
+Statement box:  
+* “When you walk, run or slide, the force of friction is at work... The soles of shoes are designed for different surfaces and activities.”
 
-> **What slows an object down?**
+Image alt text (both subsections share the same description): *Four pairs of sports footwear: A) Crampons, B) ballet shoes, C) football boots, D) rollerblades.*
 
-Invite students to share new understandings, using evidence from their investigation and activities to explain that **friction** slows objects down.
+Student table to complete:  
+| Shoes | For what type of activity are the shoes designed? | For what type of surface are the shoes designed? |
+|-------|--------------------------------------------------|--------------------------------------------------|
+| A | climbing or hiking | ice or snow |
+| B | ballet dancing | smooth wooden stage floors |
+| C | football games | grass |
+| D | rollerskating | smooth paths or skating rinks |
 
----
+Follow-up responses:  
+1. “Which shoes provide the most friction? How do you know?”  
+   *Answer: Shoes A (crampons) – the sharp spikes dig into ice or snow for a very strong grip.*  
+2. “Which shoes provide the least friction? How do you know?”  
+   *Answer: Shoes D (rollerblades) – wheels reduce friction so they glide easily over smooth surfaces.*  
 
-## Section & Sub-section Checklist  
+Drawing task: “Think of a time when you have or might wear a shoe designed for a particular surface or activity. Draw the shoes.”
 
-| Section (Order) | Sub-sections (Order) | ✓ Included |
-| --- | --- | --- |
-| QziCYWLNH5Dr | D5yjZPvU2kn5 → HwGQYsChJw0u → 3qErgzDZrkLm → iY35BNTaNrNW | ✓ |
-| 754uXFtDskJZ | BRJxXCQiWhWX | ✓ |
-| UYQVs5naAF8K | G4biyyVUT93Q | ✓ |
-| Hnj3ST7v1QZ9 | iaKAeYV2qReD | ✓ |
-| n0uN9MH9vm7B | *(no subsections)* | ✓ |
-
-All sections and their subsections are present and presented in the correct order.
-
----
-
-### Teaching Notes – Quick Reference (exact text)
-
-* “Students learn that friction is the force that slows down moving things…” (P9MJ6iEc2TcK)  
-* “Introduce the concept of friction by presenting students with a ramp…” (5zsH9cnhC5dr)  
-* “Explain to students they will be working in pairs to investigate…” (afSGX00mSoDR)  
-* “Students follow the steps of the investigation by first setting up a ramp…” (SmiCEU0sWqH1)  
-* “Once students have made their predictions, they begin their investigation…” (8X8B4Bx8H7vS)  
-* “Students state which surface required the smallest tilt…” (ajGAXUQw9N7z)  
-* “Students learn that friction always acts in the opposite direction…” (iywcdbhxLfPv)  
-
-(These are given verbatim from the lesson’s “Teaching and Learning Sequence” as required.)
+Teaching note (XVsZJZAyALrr, syZzGnju5E3c):  
+* Students explore different shoes, identify surfaces and decide which provide the most / least friction, justifying their answers.
 
 ---
 
-### Answers – Quick Reference  
+## 5. Elaborate: Design a New Shoe  
+**Section:** n0uN9MH9vm7B (Student page)  
 
-* Fill-in-the-Blanks: **rough, strong, smooth, weak**  
-* Prediction / Explanation examples, shoe table entries, and investigation answers have been provided throughout each activity section exactly as listed in the lesson’s suggested answers.
+Instruction (draw box):  
+* “Design a new shoe for a special place or activity. Draw and label it. Describe how each part helps the person wearing it.”  
+
+Info-box: *“Think of how much or how little friction your shoe will need to provide.”*  
+Image alt text: *A pair of snowshoes on snow-covered ground, with footprints nearby.*  
+Statement box: *“Ice skates are designed to be used on ice. They have a thin metal blade that helps skaters slide on the ice and a bumpy toe pick that helps skaters stop.”*
+
+Teaching note (hgphDZZNPKwS):  
+* Students design a shoe, label each feature, and present to show understanding of friction’s role in different contexts.
 
 ---
 
-All required elements—Learning Intention, Success Criteria, Teacher Reading, Note, Introduction, Focus Question, ordered activities with full detail, teaching notes, answers, and image alt-texts—have been included using the exact wording from the lesson content.
+# Conclusion  
+Revisit the focus question with the class:  
+*“What slows an object down?”*  
+Allow students to share their ideas, addressing any remaining misconceptions. (Teaching note ID: ai-30pZkmT69oDm)
+
+---
+
+## Answers – Quick Reference  
+
+| Activity | Key Answers |
+|----------|-------------|
+| Predict / Explain (Ramp) | First slide = foil (smooth, weak friction); Last slide = sandpaper (rough, strong friction) |
+| Smallest / Greatest Tilt | Smallest tilt = foil; Greatest tilt = sandpaper |
+| Fill-in-the-Blanks | Sandpaper – rough / strong; Ice – smooth / weak |
+| Shoe Table | See completed table above |
+| Most / Least Friction Shoes | Most = Crampons (A); Least = Rollerblades (D) |
+| Arrows Discussion | Friction arrow shorter (weaker), opposite direction to movement |
+
+---
+
+*All images referenced include their exact alt text as required.*
