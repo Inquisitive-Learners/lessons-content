@@ -36,7 +36,7 @@ TEACHER READING NOTES:
 In this lesson, students will examine the crucial role their skeleton has in providing them with support and protection. Beginning with an engaging video of a skeleton going on strike, they consider what would happen if their own skeleton went on strike. Students explore the parts of their own skeleton using touch, learning the scientific name for each one. An eBook introduces students to whether each part supports them or protects their organs. They demonstrate their understanding by writing a note of gratitude to each skeleton part, thanking it for what it does for them.  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts The lesson also supports the following English outcomes:  EN2-OLC-01 EN2-VOCAB-01
 
 LESSON INTRODUCTION:
-- Begin the lesson by showing the students the image of the two children. Ask:
+Begin the lesson by showing the students the image of the two children. Ask:
 
  * Why do you think one of the children is wearing a cast?
 
@@ -48,21 +48,17 @@ gauge their current understanding of the topic and to identify any
 misconceptions.
 
 LEARNING INTENTIONS:
-- Students are learning to:
-
- * Identify parts of the human skeleton that offer protection and support.
+Students are learning to:
+- * Identify parts of the human skeleton that offer protection and support.
 
 SUCCESS CRITERIA:
-- By the end of this lesson, students will:
+By the end of this lesson, students will:
+- * Name different parts of their skeleton.
+- * Locate different parts of their skeleton on their own body.
+- * Describe how different parts of their skeleton offer protection or support.
 
- * Name different parts of their skeleton.
-
- * Locate different parts of their skeleton on their own body.
-
- * Describe how different parts of their skeleton offer protection or support.
-
-TEACHER KNOWLEDGE:
-- Your skeleton is essential for providing structure and support to the human
+TEACHER READING:
+Your skeleton is essential for providing structure and support to the human
 body. It also protects vital organs. For example, the skull shields the brain,
 and the ribcage safeguards the heart and lungs.
 
@@ -72,7 +68,7 @@ bones. Although not specifically mentioned in this lesson, an adult human has
 approximately 300 bones that fuse together as they get older.
 
 ASSESSMENT GUIDANCE:
-- As a class activity, revisit the focus question:
+As a class activity, revisit the focus question:
 
  * Why is our skeleton important?
 
@@ -80,7 +76,7 @@ Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
 IMPORTANT NOTES:
-- Vocabulary Words
+Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
 low-frequency, subject-specific words. The instruction for these kinds of words
@@ -88,7 +84,7 @@ should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
 ASSESSMENT CHECKPOINTS:
-- This activity is an opportunity to make an informal assessment of a student's
+This activity is an opportunity to make an informal assessment of a student's
 ability to identify parts of the human skeleton that offer protection and
 support.
 
