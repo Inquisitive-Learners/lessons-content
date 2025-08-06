@@ -1,227 +1,245 @@
-# Lesson Overview – Magnetic Forces  
-URL: https://www.inquisitive.com/au/lesson/6283-magnetic-forces  
+# Magnetic forces  
+Lesson URL: https://www.inquisitive.com/au/lesson/6283-magnetic-forces  
+
+---
 
 ## Learning Intention  
 Students are learning to:  
-• Identify how the force of magnetism affects objects.  
+* Identify how the force of magnetism affects objects.  
 
 ## Success Criteria  
-By the end of this lesson students will be able to:  
-1. Test the effect of magnets on different materials.  
-2. Recognise that magnets have a north and a south pole that attract or repel the poles of another magnet.  
-3. Prove that a magnet doesn’t need to touch an object to repel or attract it.  
-4. Create a flow-chart to describe how magnetism affects objects.  
+By the end of this lesson, students will:  
+* Test the effect of magnets on different materials.  
+* Recognise that magnets have a north and a south pole that attract or repel the poles of another magnet.  
+* Prove that a magnet doesn’t need to touch an object to repel or attract it.  
+* Create a flow chart to describe how magnetism affects objects.  
 
 ## Teacher Reading  
-Magnetic materials – Magnets attract objects containing certain metals such as iron, nickel or cobalt. Materials like plastic, wood or paper do not react to a magnet’s pull.  
+Magnetic materials (iron, nickel, cobalt) respond to a magnetic force, while materials such as plastic, wood or paper do not.  
+Each magnet has two poles.  Like poles repel; opposite poles attract.  
+Magnetic force is a non-contact force – it can push or pull without touching the object.  
+Magnets are found in many everyday objects (toys, compasses, door latches, etc.).  
 
-Poles – Each magnet has a north and a south pole. When the same poles are brought together they repel, whereas opposite poles attract.  
-
-Non-contact force – Magnets can push or pull certain objects without touching them because of their invisible magnetic field. This can be shown by moving a metal paper clip around a surface from underneath with a magnet.  
-
-Common uses – Magnets are found in toys, compasses and many everyday objects where they provide a force without direct contact. Recognising magnets in different contexts helps students understand how they support movement, lifting and holding objects in place.  
-
-## Note (Vocabulary)  
-The vocabulary words in this lesson are defined as Tier 2 and Tier 3 words, which are low-frequency, subject-specific words. Instruction for these words should focus on building content knowledge within the lesson. The vocabulary words appear in **bold** within the lesson.
+## Note  
+**Vocabulary words** in this lesson are Tier 2 and Tier 3 words that appear in **bold** in the student pages.  Teach them in context to build content knowledge.  
 
 ## Introduction  
-Show students the landscape image (alt text: *A smiling boy in a top hat waves a magic wand at a flying teddy bear.*) and ask:  
-“What force can push or pull an object without touching it?”  
-Encourage students to share experiences of objects that move without being touched. Record their ideas to gauge current understanding.
+Show the landscape image (alt text: *A smiling boy in a top hat waves a magic wand at a flying teddy bear.*) and ask:  
+
+> What force can push or pull an object without touching it?  
+
+Encourage children to share any experiences where things seem to move “by magic”. Record ideas and misconceptions for later.  
 
 ## Focus Question  
-What force can push or pull an object without touching it?
+*What force can push or pull an object without touching it?*  
 
 ---
 
-# Sequence of Activities  
-(Sections and subsections are listed in the exact order given in the lesson overview.)
+## Activity 1 – Exploring magnetic toys  (Teacher page)  
+Image alt text: *A child's hand plays with colourful letters on a fridge, a fishing toy, magnetic tiles and a wooden train set.*  
+
+Teaching note (uZkhKzJ4Zuno):  
+Students explore a variety of toys, finding the commonality between them.  Prompt students to notice similarities in how the toys function.  
+
+Class discussion prompts (displayed exactly as on the student page):  
+1. **“What do they have in common?”**  
+2. **“How do these toys work?”**
+
+Suggested answers  
+* They all have magnets inside them so they can stick to metal objects or to each other.  
+* Fridge letters stick to the fridge; the fishing pole lifts fish; magnetic tiles snap together; the train carriages couple with magnets.  
 
 ---
 
-## 1. Magnetic Toy Mystery (Section VyTF0GATjpnH – Teacher) – 5 min  
+## Activity 2 – Magnet object hunt  
+### 2A. Predict and test (Student page “okRZPyVN7yy9”)  
 
-**Image** – alt text: *A child's hand plays with colourful letters on a fridge, a fishing toy, magnetic tiles and a wooden train set.*
+Teaching note (cecidykKLW3Y):  
+Students learn that a magnet can **pull** or **attract** an object so it sticks to it. They use a magnet to test objects in the classroom and record their findings in a table. Encourage students to find objects made of different materials and to predict which items will attract to the magnet.  
 
-### Student Prompts  
-1. “What do they have in common?”  
-2. “How do these toys work?”
+Student instructions (exact wording):  
+*“Use a magnet to go on an object hunt in your classroom.”*  
+*“Complete the table.”*  
 
-### Teaching Notes  
-Students explore a variety of toys, finding the commonality between them. Prompt students to notice similarities in how the toys function.
+The table headings are: **Object | Material | Prediction | Observation**  
 
-### Answers  
-• They all have magnets inside them so they can stick to metal objects or to each other.  
-• Examples:  
-  – The fridge alphabet sticks to the fridge.  
-  – The fishing game uses a magnet on the pole.  
-  – Magnetic tiles click together to build.  
-  – The toy train carriages are joined with magnets.
+Statement box for teacher to reinforce:  
+*The toys all use magnets. A magnet can pull or **attract** an object so it sticks to it.*  
 
----
+### 2B. Discuss the results (Teacher subsection “kzmMGYVr8Dsx”)  
 
-## 2. Magnet Object Hunt (Section okRZPyVN7yy9 – Student) – 10 min  
-### Instruction to Students  
-“Use a magnet to go on an object hunt in your classroom.” Complete the table provided.
+Teaching note (08cgRoeFCsNg):  
+Students analyse which materials were attracted to the magnet and think about what these materials have in common.  They compare any unexpected outcomes and discuss whether those objects revealed something new about magnetism.  
 
-(The editable table contains the headings **Object | Material | Prediction | Observation**.)
+Prompt questions (exact wording):  
+* “What type of materials were the attracted objects made from?”  
+* “What did the magnets attract?”  
+* “Were there any objects that surprised you?”  
+* “Did anything unusual happen with any objects?”  
+* “Discuss your object hunt with the class.”  
 
-### Teaching Notes  
-Students learn that a magnet can pull or **attract** an object so it sticks to it. They use a magnet to test objects in the classroom and record their findings in a table. Encourage students to find objects made of different materials and to predict which items will attract to the magnet.
+Image alt text: *A joyful child holding a magnet, with a colourful educational map in the background.*  
 
----
-
-### 2a. Object-Hunt Discussion (Sub-section kzmMGYVr8Dsx – Teacher)  
-**Image** – alt text: *A joyful child holding a magnet, with a colourful educational map in the background.*
-
-#### Discussion Prompts  
-• “What did the magnets attract?”  
-• “What type of materials were the attracted objects made from?”  
-• “Were there any objects that surprised you?”  
-• “Did anything unusual happen with any objects?”  
-> Discuss your object hunt with the class.
-
-#### Teaching Notes  
-Students now analyse which materials were attracted to the magnet and think about what these materials have in common. They compare any unexpected outcomes and discuss whether those objects revealed something new about magnetism.
-
-#### Answers (examples)  
-• Magnets attracted objects that contained metal, such as steel pins, paperclips or metal lids.  
-• Attracted objects were mostly made from metal.  
-• Surprises might include desk legs or coins being magnetic, or magnets lifting several objects at once.  
-• Some magnets attracted more than one object at a time or had stronger force at their ends.
+Suggested answers  
+* Attracted objects were mostly metal (steel paperclips, pins, lids).  
+* My magnet attracted any objects that contained metal, like pins, paperclips or metal lids.  
+* Surprises might include desk legs, some coins, or the strength of the magnet attracting several objects at once.  
 
 ---
 
-## 3. Poles – Attract or Repel? (Section V814N2svNRqM – Teacher) – 10 min  
+## Activity 3 – Magnet poles: attract or repel?  
+### 3A. Investigate poles (Teacher page “V814N2svNRqM”)  
 
-**Statement Box**  
-The ends of a magnet are called the **north pole** and the **south pole**. They can attract (pull together) objects made of **metal**. Magnets can also attract or **repel** (push away) the poles of another magnet.
+Teaching note (GRsoqoaK489y):  
+Students discover that magnets attract metal objects and have two poles: a north pole and a south pole. They work in pairs, bringing like and unlike poles together to observe if they pull or push each other.  
 
-### Teacher Direction  
-“With a classmate, use two magnets to explore what happens when you place poles that are the same or different together.”
+Statement box (exact wording):  
+*The ends of a magnet are called the **north pole** and the **south pole**.  
+They can attract (pull together) objects made of **metal**.  
+Magnets can also **attract** or **repel** (push away) the poles of another magnet.*  
 
-**Image** – alt text: *Two hands hold a red and blue horseshoe magnet, facing each other.*
+Student task:  
+*“With a classmate, use two magnets to explore what happens when you place poles that are the same or different together.”*  
 
-### Teaching Notes  
-Students discover that magnets attract metal objects and have two poles: a north pole and a south pole. They work in pairs, bringing like and unlike poles together to observe if they pull or push each other.
+Image alt text: *Two hands hold a red and blue horseshoe magnet, facing each other.*  
 
----
+### 3B. Record findings (Student subsection “tXv0jarCYgkE”)  
 
-### 3a. Record & Draw (Sub-section tXv0jarCYgkE – Student)  
-Students complete three “fill-in-the-blank” sentences and three labelled drawings to show what happened with different pole combinations.  
-Colour word boxes supplied: **north**, **south**, **repelled**, **attracted**.
+Teaching note (uysLdAmERhrU):  
+Students draw, label and complete sentences describing what happened when they put like and unlike poles together.  
 
-#### Answers (model)  
-Sentence 1: I put a **north** pole and **south** pole together and they **attracted**.  
-Sentence 2: I put a **north** pole and **north** pole together and they **repelled**.  
-Sentence 3: I put a **south** pole and **south** pole together and they **repelled**.
+Components for each pair of magnets:  
+1. Fill-in-the-blank sentence:  
+   “I put a ____ pole and ____ pole together and they ____.”  
+2. Draw and label what happened.  
+   Coloured word boxes supplied: **north**, **south**, **attracted**, **repelled**  
 
----
+Suggested answers  
+* north + south → attracted  
+* north + north → repelled  
+* south + south → repelled  
 
-## 4. Can You Move a Paper Clip Without Touching It? (Section 5jL5o62jDbWX – Teacher – Checkpoint) – 20 min  
-
-**Speech Bubble** – “I can use a magnet to slide a paper clip around a plate without the magnet touching it.”  
-**Image** – alt text: *A surprised child points up, with a paper plate, paperclip, and magnet nearby.*  
-**Checkpoint** – formative assessment opportunity.
-
-### Discussion Prompts  
-• “Do you think this is possible?”  
-• “Explain your thinking.”
-
-### Teaching Notes  
-Students discuss whether it is possible to use a magnet to slide a paper clip around a plate without the magnet touching it. Guide them to share their reasoning about how magnetic forces might work over a distance and the strength needed to move something without touching it.
-
-### Answers (examples)  
-Yes. A magnet’s force can attract an object through thin materials like paper or plastic without touching it because magnets exert a force over a distance.
+(images of attraction / repulsion are provided for students in the suggested answers set)  
 
 ---
 
-#### 4a. Teacher Challenge Brief (Sub-section m2MFrKkGR8AX – Teacher)  
-**Coloured Box – Challenge**  
-“Make a paper clip slide around on a paper plate without the magnet touching it.”  
+## Activity 4 – Can a magnet move a paper clip without touching it?  
+### 4A. Predict (Teacher page “5jL5o62jDbWX”)  
 
-**Instruction Box – Materials**  
-• A magnet  
-• A metal paper clip  
-• A paper plate  
+Teaching note (pa0tvwvj9Fkm):  
+Students discuss whether it is possible to use a magnet to slide a paper clip around a plate without the magnet touching it. Guide them to share their reasoning about magnetic forces acting over a distance.  
 
-**Image** – alt text: *A red and grey magnet, a paperclip, and a white plate on a light blue background.*  
-**Coloured Box** – “Try it!”
+Speech-bubble prompt shown to class:  
+*“I can use a magnet to slide a paper clip around a plate without the magnet touching it.”*  
 
-##### Teaching Notes  
-Students are given the challenge. Assist them to collect materials and carry out their investigation. Encourage experimentation: different positions, movements and parts of the magnet.
+Discussion questions:  
+* “Do you think this is possible?”  
+* “Explain your thinking.”  
 
----
+Suggested answers (examples)  
+* Yes – a magnet’s force can attract through thin materials like paper or plastic.  
 
-#### 4b. Student Recording (Sub-section tWREJXamRyc5 – Student)  
-Students complete a four-part flow chart (image alt text: *A flow chart labelled 'First', 'Then', 'Next', and 'Finally', with arrows between them.*) to draw, label and describe what they did, then finish:  
-“By doing this challenge, I discovered that a magnet ...”
+Image alt text: *A surprised child points up, with a paper plate, paperclip, and magnet nearby.*  
 
-##### Answers (example)  
-“… can move metal objects through thin materials like paper or plastic without touching them.”
+### 4B. Practical challenge  (Teacher subsection “m2MFrKkGR8AX”)  
 
----
+Teaching note (sf8HjtzjsAsS):  
+Students are given the challenge of making a paper clip slide around on a paper plate without the magnet touching it. Assist them to collect the materials they need and then carry out their investigation.  
 
-## 5. Maglev Inspiration – Move the Car! (Section 8MGq7GU72SLA – Teacher, Differentiation 2) – 20 min  
+Challenge box (exact wording):  
+*“Make a paper clip slide around on a paper plate without the magnet touching it.”*  
 
-**Statement Box**  
-A maglev is a special kind of train that uses two sets of magnets that work together to move it. One set of magnets pushes the train up off the tracks, and the other set pulls the train along very fast.
+Materials list (exact wording):  
+* A magnet  
+* A metal paper clip  
+* A paper plate  
 
-**Image** – alt text: *A bright yellow maglev train glides above a concrete track against a clear blue sky.*
+Image alt text: *A red and grey magnet, a paperclip, and a white plate on a light blue background.*  
 
-### Challenge (Coloured Box)  
-“Using two magnets, move a toy car along a track without touching it.”
+### 4C. Record & reflect (Student subsection “tWREJXamRyc5”)  
 
-**Instruction Box – Materials**  
-• A toy car • 2 magnets • Sticky tape • Road track  
-**Image** – alt text: *Two magnets, adhesive tape, a winding road graphic, and a yellow toy car.*
+Teaching note (XqDu3iCZ3a9z):  
+Students complete a flow chart to describe how they made the paper clip move on the plate without direct contact.  They share discoveries and build a class fact wall on magnets.  
 
-### Teaching Notes  
-Students learn how a maglev train moves by using magnets to lift and propel it. They recreate this concept by using two magnets to push a toy car along a track without touching it. Encourage them to think about magnet positioning and polarity.
+Student tasks:  
+1. Draw, label and describe what you did in the “First – Then – Next – Finally” flow-chart template.  
+2. Complete the reflection sentence:  
+   “By doing this challenge, I discovered that a magnet …”  
 
----
-
-#### 5a. Student Recording (Sub-section Fm3Xj3nGJSXd – Student)  
-Students draw and complete the same four-step flow chart and finish the sentence:  
-“By doing this challenge, I discovered that magnets ...”
-
-##### Answers (example)  
-“… can work together to move another object without touching them.”
+Suggested answer examples  
+* … can move metal objects through thin materials without touching them.  
+* … has stronger force at its poles.  
 
 ---
 
-## 6. Magnets or Magic? (Section U4ByHnVMxfoR – Student, Differentiation 3) – 20 min  
+## Activity 5 – Maglev inspiration: moving a toy car with magnets  
+### 5A. Explore the idea (Teacher page “8MGq7GU72SLA”)  
 
-**Statement Box**  
-A legend says that long ago, a Greek shepherd named Magnes discovered magnets when the nails in his shoe stuck to a rock made of magnetite. The ancient Greeks did not know about this natural magnet. Many people thought that it had magic powers.
+Teaching note (Ua25Hm07Rjqy):  
+Students learn how a maglev train moves by using magnets to lift and propel it. They recreate this concept by using two magnets to push a toy car along a track without touching it. Encourage them to consider magnet positioning and polarity.  
 
-### Student Tasks  
-1. Why do you think people thought magnets had magic powers? (text response)  
-2. Show how magnets can seem magical by creating your own magnet trick. Draw and label your trick.  
-3. Try the trick on a classmate. (Coloured Box)
+Statement box text:  
+*A maglev is a special kind of train that uses two sets of magnets that work together to move it …*  
 
-### Teaching Notes  
-Students learn about the legend of Magnes and explore why people thought magnets were magical. They create their own magnet trick that appears to defy expectations, then perform it for the class.
+Image alt text: *A bright yellow maglev train glides above a concrete track against a clear blue sky.*  
 
-### Answers (example)  
-People could not see the invisible magnetic force, so when objects moved without being touched it seemed like magic.
+### 5B. Carry out the challenge (Student subsection “Fm3Xj3nGJSXd”)  
+
+Challenge box (exact wording):  
+*“Using two magnets, move a toy car along a track without touching it.”*  
+
+Materials (exact wording):  
+* A toy car  
+* 2 magnets  
+* Sticky tape  
+* Road track  
+
+Image alt text: *Two magnets, adhesive tape, a winding road graphic, and a yellow toy car.*  
+
+Student tasks:  
+1. Draw, label and describe the steps in the four-stage flow-chart.  
+2. Reflection sentence:  
+   “By doing this challenge, I discovered that magnets …”  
+
+Suggested answer example  
+* … can work together to move another object without touching it.  
 
 ---
 
-# Conclusion  
-Revisit the focus question: *What force can push or pull an object without touching it?*  
-Invite students to share new understandings, addressing any remaining misconceptions.
+## Activity 6 – The “magic” of magnets  
+(Student page “U4ByHnVMxfoR”)  
+
+Teaching note (VsdoXkw2TsKF):  
+Students learn about the legend of Magnes and explore why people thought magnets were magical. They create their own magnet trick and perform it for the class.  
+
+Story statement (exact wording):  
+*A legend says that long ago, a Greek shepherd named Magnes discovered magnets when the nails in his shoe stuck to a rock made of magnetite… Many people thought that it had magic powers.*  
+
+Student tasks:  
+1. Written response: *“Why do you think people thought magnets had magic powers?”*  
+2. Draw and label your own magnet trick that seems magical.  
+3. Coloured box prompt: *“Try the trick on a classmate.”*  
+
+Suggested answer example  
+* A magnetic force is invisible so people could not see what caused the magnet to pull things closer, so it seemed like magic.  
 
 ---
 
-## Materials Summary (for teacher reference)  
-*Magnets, metal paperclips, paper plates, toy cars, sticky tape, classroom objects of various materials, road-track template.*
+## Conclusion  
+Revisit the focus question: **What force can push or pull an object without touching it?**  
+Invite students to share new understandings and dispel any remaining misconceptions.  
 
 ---
 
-### Assessment Note  
-The checkpoint activity “Paper clip on a plate” provides an opportunity to informally assess each student’s ability to identify how the force of magnetism affects objects.
+### Materials Summary  
+(This list amalgamates the materials needed across all activities.)  
+* Magnet(s)  
+* Metal paper clip  
+* Paper plate  
+* Toy car  
+* Sticky tape  
+* Road track  
 
 ---
 
-*All sections, subsections and their order exactly match the lesson overview provided.*
+> **Assessment Opportunity** – The paper-clip challenge provides an informal assessment of each student’s ability to *identify how the force of magnetism affects objects.*
