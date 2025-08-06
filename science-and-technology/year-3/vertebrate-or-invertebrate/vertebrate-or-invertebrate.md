@@ -46,14 +46,14 @@ current understanding of the topic and to identify any misconceptions.
 
 LEARNING INTENTIONS:
 Students are learning to:
-- * Describe the differences between vertebrates and invertebrates.
+- Describe the differences between vertebrates and invertebrates.
 
 SUCCESS CRITERIA:
 By the end of this lesson, students will:
-- * Understand that a vertebrate has a spine and an invertebrate does not.
-- * Sort animals into whether they are a vertebrate or invertebrate.
-- * Understand that some invertebrates have an external skeleton.
-- * Explain how vertebrates and invertebrates move.
+- Understand that a vertebrate has a spine and an invertebrate does not.
+- Sort animals into whether they are a vertebrate or invertebrate.
+- Understand that some invertebrates have an external skeleton.
+- Explain how vertebrates and invertebrates move.
 
 TEACHER READING:
 All animals are classified as either vertebrates or invertebrates based on the
