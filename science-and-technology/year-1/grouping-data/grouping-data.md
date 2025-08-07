@@ -1,14 +1,16 @@
 
-Year: Year 1,
-Lesson ID: 6578
-Lesson URL: http://localhost:3000/au/lesson/6578-grouping-data
-Lesson name: Grouping Data
-Lesson duration: 30 minutes.
+**Year:** Year 1
 
-FOCUS QUESTION: Why do we group data?
+**Lesson ID:** 6578
 
-Focus question image: Two beagles playfully walk through a park covered in autumn leaves.
-TEACHER READING NOTES:
+**Lesson name:** Grouping Data
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** Why do we group data?
+
+**Focus question image:** Two beagles playfully walk through a park covered in autumn leaves.
+**TEACHER READING NOTES:**
 In this lesson, students are introduced to how we can group data. Using a pond habitat as the context, students observe living things within the habitat and group them in different ways. They learn that we group data to help us find out information, before collecting and grouping their own data in a local habitat.  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -71,12 +73,12 @@ MATERIALS NEEDED:
 
   Materials: Sticky note
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: As a class, read the eBook Who Lives Here? After reading, ask students:
 
  * What was the same about all the places in the eBook?
@@ -90,7 +92,7 @@ At this stage in the lesson, accept any reasonable response.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Explain to students that each place in the eBook was a habitat and that this is
 a place where plants and animals get the things they need to live.
 
@@ -120,7 +122,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 20 minutes
 Materials: Sticky note
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: This activity introduces why we group data. It shows an example of grouped data
 (animals grouped by 'Have legs' or 'Have no legs') and asks students to complete
 a sentence explaining the purpose of this grouping. It is suggested that the
@@ -136,7 +138,7 @@ they have legs or have no legs. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students explore a local habitat (e.g. school garden, local park or playground)
 and look for animals that live there. To help them remember what animals they
 observed, they record them as data using words or pictures.
@@ -155,7 +157,7 @@ Checkpoint: This is an opportunity to make an informal assessment of a student's
 collect, record and group data about animals in a local habitat.
 Materials: Clipboard, Hand lens, Paper, Colour pencil, Pencil
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Connecting to the real world, students learn that zoos group animals. They look
 closely at the interactive map of Perth Zoo and consider how the animals have
 been grouped.
@@ -176,7 +178,7 @@ PART 2:
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 20 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students use a Venn diagram to organise the data. Encourage them to see how
 different categories can sometimes share similarities.
 
