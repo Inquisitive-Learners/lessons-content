@@ -9,21 +9,23 @@
 
 **FOCUS QUESTION:** How do we move? 
 
-**Focus question image:** A man pushes a girl in a cardboard box, both smiling joyfully in a bright room.
+**Focus question image:**
+A man pushes a girl in a cardboard box, both smiling joyfully in a bright room.
+
 **TEACHER READING NOTES:**
 In this lesson, students are introduced to the concept of a system—something that is made up of smaller parts to form something larger and more complex. They learn that our skeletal system is an example of this and includes our joints and bones. Students explore finding different joints in their bodies and decide whether they think each joint is a hinge joint or a ball-and-socket joint. The latter half of the lesson introduces students to the muscular system and how the skeletal and muscular systems work together to enable movement. They explore a digital model showing how this happens and then create their own model using hands-on materials.  This lesson supports the following Stage 2 Creating written texts Science content points:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts. Use temporal and causal connectives and labelled diagrams when explaining the process of conducting a fair test. Use notes, diagrams, flow charts and annotations to support understanding and explain processes. The lesson supports the following English outcomes:  EN2-OLC-01, EN2-VOCAB-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Display the image of the child being pushed by an adult. Ask students, 'How do
 we move?' Encourage them to share their ideas about how our bodies enable
 movement. Document and use the students’ responses to help gauge their current
 understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Model how bones, muscles and joints work together to cause movement.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of the lesson, students will:
 - Understand that our skeletal system includes bones and joints, whereas our
 - muscular system includes muscles.
@@ -32,7 +34,7 @@ By the end of the lesson, students will:
 - Draw a diagram of their model and use noun groups to label it.
 - Use the provided scaffold to explain how their model works.
 
-TEACHER READING:
+**TEACHER READING:**
 A system is a collection of interconnected parts that work together to form a
 complex whole. In the context of the human body, systems like the skeletal,
 muscular and nervous systems collaborate to enable movement and maintain overall
@@ -50,7 +52,7 @@ The Muscular System
 Muscles are attached to bones via tendons and work by contracting and relaxing.
 They often work in pairs to move bones at the joints.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * How do we move?
@@ -58,7 +60,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -66,19 +68,21 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to model how bones, muscles and joints work together to cause movement.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Cardboard, Elastic band, Split pin, Hole punch, Stapler
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Students close their eyes and listen to the music. You may wish to play the
 music twice. The first time students should just listen for enjoyment and the
