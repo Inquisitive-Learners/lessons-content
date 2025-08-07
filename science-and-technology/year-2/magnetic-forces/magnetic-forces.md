@@ -1,14 +1,16 @@
 
-Year: Year 2,
-Lesson ID: 6283
-Lesson URL: http://localhost:3000/au/lesson/6283-magnetic-forces
-Lesson name: Magnetic Forces
-Lesson duration: 30 minutes.
+**Year:** Year 2
 
-FOCUS QUESTION: What force can push or pull an object without touching it?
+**Lesson ID:** 6283
 
-Focus question image: A smiling boy in a top hat waves a magic wand at a flying teddy bear.
-TEACHER READING NOTES:
+**Lesson name:** Magnetic Forces
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** What force can push or pull an object without touching it?
+
+**Focus question image:** A smiling boy in a top hat waves a magic wand at a flying teddy bear.
+**TEACHER READING NOTES:**
 In this lesson, students investigate how the force of magnetism affects different objects. The concept of magnetism is introduced through a hands-on object hunt, where students test various materials to observe which are attracted to a magnet. Through this activity, students draw their own conclusions about the types of materials magnets attract. They also learn that magnets have two poles, and explore what happens when the poles of two magnets are brought together. The lesson concludes with a scientific challenge in which students demonstrate that magnetic force can act at a distance and through non-magnetic materials. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -86,14 +88,14 @@ MATERIALS NEEDED:
 
   Materials: Toy car, Bar magnet, Sticky tape, Cardboard (A3)
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Students explore a variety of toys, finding the commonality between them. Prompt
 students to notice similarities in how the toys function.
 [Discussion] What do they have in common?
@@ -103,7 +105,7 @@ students to notice similarities in how the toys function.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students learn that a magnet can pull or attract an object so it sticks to it.
 They use a magnet to test objects in the classroom and record their findings in
 a table. Encourage students to find objects made of different materials and to
@@ -138,7 +140,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 10 minutes
 Materials: Magnet
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students discover that magnets attract metal objects and have two poles: a north
 pole and a south pole. They work in pairs, bringing like and unlike poles
 together to observe if they pull or push each other.
@@ -161,7 +163,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students discuss whether it is possible to use a magnet to slide a paper clip
 around a plate without the magnet touching it. Guide them to share their
 reasoning about how magnetic forces might work over a distance and the strength
@@ -196,7 +198,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to identify how the force of magnetism affects objects.
 Materials: Magnet, Paper clip, Disposable paper plate
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students learn how a maglev train moves by using magnets to lift and propel it.
 They recreate this concept by using two magnets to push a toy car along a track
 without touching it. Encourage them to think about how the way they place the
@@ -229,7 +231,7 @@ Differentiation: Blue Square - The blue square represents deeper learning activi
 Duration: 20 minutes
 Materials: Toy car, Bar magnet, Sticky tape, Cardboard (A3)
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students learn about the legend of Magnes and explore why people thought magnets
 were magical. They create their own magnet trick that appears to defy
 expectations, and then perform it for the class. Have them draw and label their
