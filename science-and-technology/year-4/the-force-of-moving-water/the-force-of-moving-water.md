@@ -1,29 +1,5 @@
 
 Year: Year 4,
-Subject name: Science and Technology.
-
---------------------------------
-Topic Name: TEST local Depending on Energy.
-Topic overview: In Stage 2, students cover the focus area Physical and living systems depend on energy. The focus area has been broken down into nine Inquisitive units.  In Year 3, students cover the following units:  Earth's Systems and Environments (Coming in late 2025)  States and Properties of Matter (Coming in late 2025)  Body Systems and Movement  Transferring Heat Energy (Coming in late 2025)  Our Solar System (Coming in late 2025)  In Year 4, students cover the following units:  Energy Flow and Relationships in Ecosystems  (Coming in late 2025)  Heat Energy Changes Matter (Coming in late 2025)  Forces Change Earth's Surface Gravity in Our Solar System  (Coming in late 2025) .
---------------------------------
-Unit Name: TEST local Forces Shape Earth's Surface
-Unit overview: In this unit, students explore the processes that shape Earth’s surface. By examining natural forces such as earthquakes, volcanoes, weathering and erosion, students gain a deep understanding of how landscapes form, change and evolve. The unit integrates hands-on investigations, models and scientific reasoning to help students explain both sudden and gradual changes to Earth’s surface. Taking into account the learning requirements of their class, teachers should pace the activities and lessons accordingly. Each lesson may take two or more sessions to complete. Teaching notes for each lesson include: A lesson overview Background teacher reading notes Resources and materials if needed Detailed teaching and learning sequences for each activity with additional questioning and learning opportunities, suggestions for differentiating instruction, and sample answers References to the 5E elements developed in each activity Practical tips for conducting hands-on activities Unit and lesson teaching notes can be downloaded as an editable document..
-Unit key inquiry question: How do natural forces shape the Earth’s surface?
-Unit cross curriculum priorities:
-1. Aboriginal and Torres Strait Islander Histories and Cultures
-2. Work and Enterprise
-
-Unit general capabilities:
-1. Critical and Creative Thinking
-2. Digital Literacy
-3. Literacy
-
-Unit outcomes:
-NSW Syllabus:
-1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
-2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
-
---------------------------------
 Lesson ID: 5885
 Lesson URL: http://localhost:3000/au/lesson/5885-the-force-of-moving-water
 Lesson name: The Force of Moving Water 
@@ -32,7 +8,6 @@ Lesson duration: 100 minutes.
 FOCUS QUESTION: How does moving water affect Earth's surface?
 
 Focus question image: Aerial view of lush green wetlands with winding waterways and distant coastal waters.
-
 TEACHER READING NOTES:
 In this lesson, students explore how the force of moving water changes Earth’s surface by shaping landforms through erosion. They investigate whether more erosion occurs when water flows down a steeper slope by carrying out an experiment. They analyse their results and draw conclusions to answer the scientific question. 
 
@@ -95,130 +70,8 @@ NSW Syllabus:
 1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
 2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-SUGGESTED ANSWERS:
-Activity UezC9G4idK7k:
-  1. He formed winding rivers, lakes and rock wells.
-  2. He wanted to provide water sources for animals and people.
-  3. He used his giant body to carve the ground as he slithered.
-
-Activity D5bmjEX1g70T:
-  1. Wind blowing and parts of the rock falling away, which eventually made an
-arch-shaped hole in the rock.
-  2.  * They fell to the ocean floor.
-
- * They fell into the water and got carried away by the waves.
-
- * The wind blew them to another place.
-  3.  * The moving water crashing against the rocks.
-
- * The wind blowing against the rocks.
-
-Activity 1oW993uVvXpe:
-  1. • In the flat tray, the water will flow slowly.
-
-• On the gentle slope, it will flow faster.
-
-• On the steep slope, it will flow the fastest.
-  2. • In the tray, the sand might move a little.
-
-• In the gentle slope tray, it might move more.
-
-• In the steep slope tray, it might move a lot.
-  3. Yes, because I think the steeper the slope, the faster the water will move and
-this will carry more sand away.
-  4. We are changing the slope of each tray.
-  5. We are keeping the amount of water, the type of sand and the amount of sand the
-same for each tray.
-
-Activity 02Dz0ysG3783:
-  1. Tray 3 showed the most erosion because there was a large buildup of sand at the
-bottom. The steep slope made the water move faster so there was more force to
-carry more sand.
-  2. Tray 1 showed the least erosion because the water moved slowly.
-
-Only a small amount of sand was deposited at the bottom.
-  3. Yes, the steeper slope caused faster water flow and therefore there was more
-force to carry the sand.
-
-Activity 5eeLEDQFF16H:
-  1. I think the solution is a good idea because I worry about the damage erosion
-causes to my property.
-  2. I think the solution is a good idea because erosion damages my nesting areas.
-  3. I do not think the solution is a good idea. I worry that a slower speed could
-make jet skiing less exciting.
-  4. Have jet skis and motorboats pay more money if they want to go above the speed
-limit. This money could be used to rebuild any damage to the coastline.
-
-Activity Kc5ih7ta2QBe:
-  1.  * The moving water crashing against the rocks.
-
- * The wind blowing against the rocks.
-  2. The rocks falling into the water and the waves carrying the rocks away.
-
-Activity A4u6XLSkydur:
-  1.  * Wind is a cause of erosion.
-
- * Water is another cause of erosion.
-  2.  * Wind erosion happens when strong wind lifts sand and soil and moves them.
-
- * Water erosion happens when flowing water carries soil, sand and small stones
-   away.
-
-Activity vcc2fuvZHuVM:
-  1.  * The water flowed a bit faster.
-
- * More sand was moved towards the bottom.
-
- * The river path became slightly larger.
-  2.  * The water rushed quickly down the slope.
-
- * A lot of sand was carried to the bottom.
-
- * The river looked deeper than in the other trays.
-  3.  * The water moved slowly.
-
- * A small amount of sand was carried and dropped at the bottom.
-
- * The river path stayed mostly where it was drawn.
-
 DETAILED ACTIVITIES:
-ACTIVITY 5:
-Activity ID: vcc2fuvZHuVM
-Section ID: 1rGxZVJ1RRue
-Description: Students should draw what they observed in each tray, clearly showing the path
-of the water and the amount of sand at the bottom (and perhaps also on the
-sides) of the tray. Prompt them to also note down any differences in the speed
-of the water between the three trays. They may need to watch their slow-motion
-video to see this.
-[Instruction Box] Draw and label your observations for each tray.
-
- * Describe the speed of the water. 
-
- * Describe the amount of sand that has been dropped at the bottom of each tray.
-
- * Show what has happened to the 'river'.
-[Instruction Box] Results 
-
-Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
-Duration: 15 minutes
-
-ACTIVITY 8:
-Activity ID: 5eeLEDQFF16H
-Section ID: qz25JWULUmwS
-Description: Students learn how motorboats and jet skis affect erosion, consider different
-perspectives, and suggest solutions that lessen the impact on shorelines.
-[Statement Box] Motorboats and jet skis cause waves that erode the shoreline. The bigger the
-waves, the greater the force and the more erosion that takes place. 
-[Plain Text] Some people think a solution is to reduce the speed limit when motorboats and
-jet skis are close to the shoreline as this would reduce the force of the
-waves.  Consider this solution from three different perspectives. 
-
-Differentiation: Black Diamond - The black diamond represents challenging activities. They require extended critical and creative thinking.
-Duration: 15 minutes
-
 ACTIVITY 1:
-Activity ID: UezC9G4idK7k
-Section ID: idnKxQ1ga9EY
 Description: Students read the Dreaming story Super Snake. Before reading, you may wish to
 prime students by telling them the questions you will be asking after they have
 read the story:
@@ -241,8 +94,6 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 10 minutes
 
 ACTIVITY 2:
-Activity ID: D5bmjEX1g70T
-Section ID: 3XsGKip4aPw7
 Description: Read the purple box with the students, introducing the scientific perspective of
 how landforms are created.
 
@@ -270,8 +121,6 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 10 minutes
 
 ACTIVITY 3:
-Activity ID: A4u6XLSkydur
-Section ID: dwyxpcEYV2qR
 Description: Students read about wind and water as causes of erosion, and then complete the
 Name, Describe, Act thinking routine with a classmate. Encourage them to note
 how each process carries rocks, soil and sand, creating new landforms. Have them
@@ -300,8 +149,6 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 5 minutes
 
 ACTIVITY 4:
-Activity ID: 1oW993uVvXpe
-Section ID: HyBq2zgS8aUj
 Description: Students are introduced to the scientific question, 'Does the force of water
 cause more erosion when it flows down a steeper slope?' Students should work in
 groups of three or four to carry out their investigation. If three trays are not
@@ -379,9 +226,25 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 25 minutes
 Materials: Book, Plastic tray, Sand, Water, Devices (ipad or laptop)
 
+ACTIVITY 5:
+Description: Students should draw what they observed in each tray, clearly showing the path
+of the water and the amount of sand at the bottom (and perhaps also on the
+sides) of the tray. Prompt them to also note down any differences in the speed
+of the water between the three trays. They may need to watch their slow-motion
+video to see this.
+[Instruction Box] Draw and label your observations for each tray.
+
+ * Describe the speed of the water. 
+
+ * Describe the amount of sand that has been dropped at the bottom of each tray.
+
+ * Show what has happened to the 'river'.
+[Instruction Box] Results 
+
+Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
+Duration: 15 minutes
+
 ACTIVITY 6:
-Activity ID: 02Dz0ysG3783
-Section ID: zjZcb99rVuqV
 Description: Students should use their observations to answer the following questions:
 
  * Which tray showed the most erosion? Why?
@@ -407,8 +270,6 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to describe how the force produced by moving water causes erosion.
 
 ACTIVITY 7:
-Activity ID: 3ZNFZAAcB24P
-Section ID: 7VwMRNt9ASqB
 Description: Students take their learning further by planning their own investigation related
 to erosion. They can choose either of the questions below or can form a question
 of their own:
@@ -433,6 +294,18 @@ of your own. 
 
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 20 minutes
+
+ACTIVITY 8:
+Description: Students learn how motorboats and jet skis affect erosion, consider different
+perspectives, and suggest solutions that lessen the impact on shorelines.
+[Statement Box] Motorboats and jet skis cause waves that erode the shoreline. The bigger the
+waves, the greater the force and the more erosion that takes place. 
+[Plain Text] Some people think a solution is to reduce the speed limit when motorboats and
+jet skis are close to the shoreline as this would reduce the force of the
+waves.  Consider this solution from three different perspectives. 
+
+Differentiation: Black Diamond - The black diamond represents challenging activities. They require extended critical and creative thinking.
+Duration: 15 minutes
 
 
 ## Lesson URL
