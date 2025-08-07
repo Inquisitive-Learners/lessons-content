@@ -1,14 +1,16 @@
 
-Year: Year 1,
-Lesson ID: 6577
-Lesson URL: http://localhost:3000/au/lesson/6577-introduction-to-data
-Lesson name: Introduction to Data
-Lesson duration: 30 minutes.
+**Year:** Year 1
 
-FOCUS QUESTION: What is data?
+**Lesson ID:** 6577
 
-Focus question image: Two children crouch in a sunlit garden, exploring the grass with a magnifying glass.
-TEACHER READING NOTES:
+**Lesson name:** Introduction to Data
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** What is data?
+
+**Focus question image:** Two children crouch in a sunlit garden, exploring the grass with a magnifying glass.
+**TEACHER READING NOTES:**
 In this lesson, students are introduced to what data is and why it is helpful. They learn that data can be words and pictures, and explore the data that could be collected within a park context.  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -67,12 +69,12 @@ ASSESSMENT CHECKPOINTS:
 This is an opportunity to make an informal assessment of a student's ability to
 recognise what data is and why it is helpful.
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: The lesson begins with students playing a memory game. They are asked to look at
 eight nouns and are given 60 seconds to remember as many as they can.
 
@@ -88,7 +90,7 @@ possible. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: This activity moves students into thinking about what they could do to help them
 remember more nouns if they played again. To prompt their thinking, a pencil,
 notebook and some coloured pencils are shown on the screen.
@@ -100,7 +102,7 @@ nouns? 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students replay the memory game, this time recording each noun using words or
 pictures (data). Invite them to notice how writing or drawing can help them
 remember details more clearly. Ask students to share their recorded data with
@@ -121,7 +123,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Read the purple box to the students, explicitly stating that scientists record
 data to remember what they observe.
 
@@ -151,7 +153,7 @@ Duration: 20 minutes
 Checkpoint: This is an opportunity to make an informal assessment of a student's ability to
 recognise what data is and why it is helpful.
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students revisit Georgie’s notebook and think of describing words that could be
 written before tree to show its appearance. Prompt them to identify these
 special words as adjectives.
@@ -181,7 +183,7 @@ pink
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 20 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students consider whether it is better to record data as words or as pictures,
 explaining their thinking.
 [Image] A row of tall, vibrant green grass against a white background.
@@ -189,7 +191,7 @@ explaining their thinking.
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 10 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students imagine visiting a park filled with animals made up of two or more
 creatures. Encourage them to use words and pictures to record data about each
 mixed-up animal they see.
