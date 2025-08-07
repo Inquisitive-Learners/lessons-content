@@ -1,14 +1,16 @@
 
-Year: Year 2,
-Lesson ID: 6281
-Lesson URL: http://localhost:3000/au/lesson/6281-changing-objects
-Lesson name: Changing Objects
-Lesson duration: 30 minutes.
+**Year:** Year 2
 
-FOCUS QUESTION: What can a push or a pull do?
+**Lesson ID:** 6281
 
-Focus question image: Child in a cap aiming a wooden slingshot, squinting with focus against a blurred background.
-TEACHER READING NOTES:
+**Lesson name:** Changing Objects
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** What can a push or a pull do?
+
+**Focus question image:** Child in a cap aiming a wooden slingshot, squinting with focus against a blurred background.
+**TEACHER READING NOTES:**
 In this lesson, students investigate how pushes and pulls can change an object’s shape, direction or speed. They explore these concepts by experimenting with everyday materials and engaging in hands-on tasks that allow them to observe and describe the effects of force on objects. The lesson concludes with students learning that a force can also stop an object from moving. To demonstrate their understanding, students record and illustrate how they can affect an object’s movement using pushes or pulls. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -83,14 +85,14 @@ MATERIALS NEEDED:
 
   Materials: Balloon
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 3. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Encourage students to experiment with creating funny faces using pushes or
 pulls. Ask them to try moving their cheeks, lips, hair or eyebrows in different
 ways to see how applying force can change their facial features.
@@ -100,7 +102,7 @@ ways to see how applying force can change their facial features.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students learn a push or pull can change objects. They observe pictures of
 objects being changed by pushes and pulls, and then act them out. Prompt
 students to think about how each force changes the objects so they see the
@@ -116,7 +118,7 @@ impact of forces in everyday situations.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students learn that a push or a pull can change the shape of an object. They
 read and complete sentences describing how a push or pull can change an object’s
 shape.
@@ -146,7 +148,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 15 minutes
 Materials: Ball of play dough
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students learn that a push or pull can change the speed of an object. They watch
 a short video of a boy batting balls and notice that each ball travels a
 different distance. They observe how the strength of the push (the swing of the
@@ -164,7 +166,7 @@ It can make it move faster or slower.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students learn that a push or a pull can change the direction of a moving
 object. They watch a short video of a soccer goalie, observing how the goalie’s
 hands push the ball and change its direction. Students imagine other ways the
@@ -180,7 +182,7 @@ their understanding of how a force can control the direction of a moving object.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students explore how objects can be stopped by using a push or a pull. Using the
 provided examples, they think about how force can work against motion. They
 apply this idea to understand how a ball or bike can be stopped, or how balloons
@@ -200,7 +202,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students predict how to move a balloon in different ways, focusing on how a push
 or pull changes its position, direction and speed. Students refine their
 thinking by sharing their ideas with a partner. Have them explain their
@@ -229,7 +231,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to recognise that a force can change an object in different ways.
 Materials: Balloon
 
-ACTIVITY 8:
+**ACTIVITY 8:**
 Description: Students play an interactive Tug-of-War game by dragging dogs of different sizes
 to each side of a virtual rope, connecting equal and unequal forces to real-life
 examples. Encourage students to compare how balanced and unbalanced forces
@@ -258,7 +260,7 @@ opposite sides?
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 10 minutes
 
-ACTIVITY 9:
+**ACTIVITY 9:**
 Description: Students consider how some objects need a push and a pull to work. They explore
 opening and closing a window and colouring with a crayon, drawing pictures with
 arrows to show the direction of force used in each example.
