@@ -1,14 +1,16 @@
 
-Year: Year 2,
-Lesson ID: 6284
-Lesson URL: http://localhost:3000/au/lesson/6284-toys-and-forces
-Lesson name: Toys and Forces
-Lesson duration: 30 minutes.
+**Year:** Year 2
 
-FOCUS QUESTION: How do toys work?
+**Lesson ID:** 6284
 
-Focus question image: A father and son using their hands to twist spinning toys. 
-TEACHER READING NOTES:
+**Lesson name:** Toys and Forces
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** How do toys work?
+
+**Focus question image:** A father and son using their hands to twist spinning toys. 
+**TEACHER READING NOTES:**
 In this lesson, students explore and recognise how applied forces such as pushing, pulling and twisting play an important role in the movement of everyday toys and traditional toys used by Aboriginal and Torres Strait Islander Peoples. Students demonstrate their learning by creating their own spinning top. They complete a flow chart and label the steps involved in making their spinning top, describing how the forces work together to make it move. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -111,14 +113,14 @@ MATERIALS NEEDED:
 
   Materials: Cardboard, Sticks
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Students watch the kendama video and identify which parts of the toy are pushed
 and which are pulled. Encourage students to discuss how pushing and pulling
 create different motions, linking each action to how the kendama works. Have
@@ -136,7 +138,7 @@ It has a wooden ball attached with a string to a wooden handle.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students explore how pushing the stick sends the kendama ball up in the air and
 how pulling it helps catch the ball. Prompt students to connect these actions to
 the way the toy’s movement changes. It is suggested that the students act out
@@ -147,7 +149,7 @@ using a kendama to physically feel the push and pull movement.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students learn that many toys require a push, a pull or both to work. They
 participate in a Think, Pair, Share activity to identify other toys they know
 that use push or pull forces. Students then document their thinking by drawing
@@ -181,7 +183,7 @@ PART 3:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 15 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students examine an image showing how a twist is both a push and a pull.
 Students draw other examples of other things that require a twist.
 [Image] Hand using fingers to twist a spinning top, arrows showing that the spinning top will spin round.
@@ -190,7 +192,7 @@ Students draw other examples of other things that require a twist.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students create their own spinning top from a cardboard circle and a stick,
 focusing on how twists set it in motion. They draw and label each step in the
 construction and movement on a flow chart, showing which forces are at work.
@@ -205,7 +207,7 @@ ability to understand how forces like pushing, pulling and twisting make toys
 move.
 Materials: Cardboard, Sticks
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students design their own spinning top and explore how to make it spin faster.
 Encourage them to experiment with size, shape or materials and note any changes
 in speed. Have them draw and label their findings, explaining which ideas worked
@@ -215,7 +217,7 @@ best for a faster spin.
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 20 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students explore the game of totem tennis to see how hitting the ball makes it
 move around the pole. Prompt students to draw and label the directions of forces
 they think are in action, and reflect on which force makes the ball go faster.
