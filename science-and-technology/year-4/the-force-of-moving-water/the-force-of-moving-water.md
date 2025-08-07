@@ -9,20 +9,22 @@
 
 **FOCUS QUESTION:** How does moving water affect Earth's surface?
 
-**Focus question image:** Aerial view of lush green wetlands with winding waterways and distant coastal waters.
+**Focus question image:**
+Aerial view of lush green wetlands with winding waterways and distant coastal waters.
+
 **TEACHER READING NOTES:**
 In this lesson, students explore how the force of moving water changes Earth’s surface by shaping landforms through erosion. They investigate whether more erosion occurs when water flows down a steeper slope by carrying out an experiment. They analyse their results and draw conclusions to answer the scientific question. 
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the question, 'How does moving water affect
 Earth's surface?' Document and use the students’ responses to help gauge their
 current understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Describe and model how the force produced by moving water causes erosion.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Understand that erosion is the movement of rocks, soil and sand to another
 - place.
@@ -33,7 +35,7 @@ By the end of this lesson, students will:
 - Use results to describe how the force produced by moving water causes
 - erosion.
 
-TEACHER READING:
+**TEACHER READING:**
 Erosion is a process that directly follows the process of weathering. In order
 for students to build a fuller picture of how the surface of Earth changes, this
 lesson should be presented after the Weathering Rocks lesson.
@@ -43,7 +45,7 @@ erosion can be described as the taking of the broken rock fragments from one
 place to another. (A third process, called deposition, describes the dropping or
 settling of these fragments in a particular location.)
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * How does moving water affect Earth's surface?
@@ -51,7 +53,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -59,20 +61,22 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to describe how the force produced by moving water causes erosion.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Book, Plastic tray, Sand, Water, Devices (ipad or laptop)
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
 2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Students read the Dreaming story Super Snake. Before reading, you may wish to
 prime students by telling them the questions you will be asking after they have
