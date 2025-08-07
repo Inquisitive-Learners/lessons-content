@@ -1,14 +1,16 @@
 
-Year: Year 3,
-Lesson ID: 5158
-Lesson URL: http://localhost:3000/au/lesson/5158-vertebrate-or-invertebrate
-Lesson name: Vertebrate or Invertebrate?
-Lesson duration: 30 minutes.
+**Year:** Year 3
 
-FOCUS QUESTION: Do all animals have a skeleton? 
+**Lesson ID:** 5158
 
-Focus question image: A humpback whale breaching the ocean surface against a cloudy sky.
-TEACHER READING NOTES:
+**Lesson name:** Vertebrate or Invertebrate?
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** Do all animals have a skeleton? 
+
+**Focus question image:** A humpback whale breaching the ocean surface against a cloudy sky.
+**TEACHER READING NOTES:**
 In this lesson, students learn the difference between vertebrates and invertebrates and how this difference affects how different animals move. Students demonstrate their learning by completing either a Frayer model for vertebrates or invertebrates.  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts. This lesson also supports the following English outcomes:  EN2-VOCAB-01
 
 LESSON INTRODUCTION:
@@ -71,12 +73,12 @@ ASSESSMENT CHECKPOINTS:
 This activity is an opportunity to make an informal assessment of a student's
 understanding of the difference between vertebrates and invertebrates.
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Begin by asking students who they think would win a game of hide and seek and
 why. Encourage them to share their ideas and reasoning to stimulate their
 curiosity and set the context for the lesson.
@@ -93,7 +95,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Explain that an octopus can squeeze into very small spaces because it has no
 spine, making its body extremely flexible. Present x-rays of various animals:
 octopus, stag beetle, squid, crab, dog, frog, fish and hamster. Encourage
@@ -107,7 +109,7 @@ This is because an octopus has no spine, so its body is very flexible. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Introduce the terms 'vertebrate' and 'invertebrate', explaining that animals
 with a spine and an internal skeleton are called vertebrates and those without a
 spine are called invertebrates. Students view the two groups of animals. The
@@ -142,7 +144,7 @@ statements.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Explain that invertebrates can be sorted into different groups based on specific
 features. Present two groups of invertebrates and instruct students to examine
 them carefully. Ask them to identify the feature that the invertebrates in group
@@ -183,7 +185,7 @@ and supports them to move. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students watch the video of animals moving in water and on land. Ask students to
 read the descriptions provided and decide which animal's movement each one is
 describing.
@@ -211,7 +213,7 @@ describing.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 15 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: This activity asks students to complete a Frayer model for either a vertebrate
 or an invertebrate. If it is the first time the students have seen this type of
 graphic organiser, you may want to model completing it for a vertebrate and then
@@ -225,7 +227,7 @@ Duration: 20 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 understanding of the difference between vertebrates and invertebrates.
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Ask students to watch the Disappearing Octopus video again. Explain that you
 could describe the octopus's hide-and-seek skills as a special ability. Provide
 students with the research links and other trusted website or books, and ask
@@ -248,7 +250,7 @@ them to find out about what special abilities other invertebrates have.
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 15 minutes
 
-ACTIVITY 8:
+**ACTIVITY 8:**
 Description: Explain that another word for a spine is 'backbone'. Introduce the idiom 'had a
 backbone', explaining that it describes someone who shows bravery and
 determination in difficult situations. Share examples like, 'Even though
