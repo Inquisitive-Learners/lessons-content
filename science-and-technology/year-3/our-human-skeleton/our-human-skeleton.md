@@ -1,28 +1,5 @@
 
 Year: Year 3,
-Subject name: Science and Technology.
-
---------------------------------
-Topic Name: TEST local Depending on Energy.
-Topic overview: In Stage 2, students cover the focus area Physical and living systems depend on energy. The focus area has been broken down into nine Inquisitive units.  In Year 3, students cover the following units:  Earth's Systems and Environments (Coming in late 2025)  States and Properties of Matter (Coming in late 2025)  Body Systems and Movement  Transferring Heat Energy (Coming in late 2025)  Our Solar System (Coming in late 2025)  In Year 4, students cover the following units:  Energy Flow and Relationships in Ecosystems  (Coming in late 2025)  Heat Energy Changes Matter (Coming in late 2025)  Forces Change Earth's Surface Gravity in Our Solar System  (Coming in late 2025) .
---------------------------------
-Unit Name: TEST local Body Systems and Movement 
-Unit overview: In this unit, students learn how body systems work together to enable movement. Through hands-on activities and digital simulations, they will learn the key parts of our skeleton that provide us with support and protection and model how our skeletal and muscular systems work together to enable us to move. By investigating the scientific question, Are people with shorter bones in their lower legs better at the limbo?  students deepen their understanding of the topic, while also learning how to plan, conduct and evaluate a fair test. The unit culminates with students exploring the difference between vertebrates and invertebrates and how this difference affects their movement.  Taking into account the learning requirements of their class, teachers should pace the activities and lessons accordingly. Each lesson may take two or more sessions to complete. Teaching notes for each lesson include: A lesson overview Background teacher reading notes Resources and materials if needed Detailed teaching and learning sequences for each activity with additional questioning and learning opportunities, suggestions for differentiating instruction, and sample answers References to the 5E elements developed in each activity Practical tips for conducting hands-on activities Unit and lesson teaching notes can be downloaded as an editable document..
-Unit key inquiry question: How do the bodies of living things help them move?
-Unit cross curriculum priorities:
-1. Diversity and Difference
-
-Unit general capabilities:
-1. Critical and Creative Thinking
-2. Literacy
-3. Numeracy
-
-Unit outcomes:
-NSW Syllabus:
-1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
-2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
-
---------------------------------
 Lesson ID: 5026
 Lesson URL: http://localhost:3000/au/lesson/5026-our-human-skeleton
 Lesson name: Our Human Skeleton
@@ -31,7 +8,6 @@ Lesson duration: 30 minutes.
 FOCUS QUESTION: Why is our skeleton important?
 
 Focus question image: Two smiling girls colour on a white cast while sitting on a sofa, one holding a teddy bear.
-
 TEACHER READING NOTES:
 In this lesson, students will examine the crucial role their skeleton has in providing them with support and protection. Beginning with an engaging video of a skeleton going on strike, they consider what would happen if their own skeleton went on strike. Students explore the parts of their own skeleton using touch, learning the scientific name for each one. An eBook introduces students to whether each part supports them or protects their organs. They demonstrate their understanding by writing a note of gratitude to each skeleton part, thanking it for what it does for them.  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts The lesson also supports the following English outcomes:  EN2-OLC-01 EN2-VOCAB-01
 
@@ -92,69 +68,8 @@ LESSON OUTCOMES:
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-SUGGESTED ANSWERS:
-Activity QjQXr3unPtUB:
-  1. The spine is sometimes called the "backbone" due to its location being in the
-back.
-  2. The clavicle is often called a 'collarbone' due to its location being near the
-'collar' region on the body.
-
-Activity D0Z7kKLFBXSn:
-  1. Spine 
-     (Table position: Row 2, Column 1)
-  2. I am grateful for my spine because it supports me to stand up. 
-     (Table position: Row 2, Column 2)
-  3. Ribcage
-     (Table position: Row 3, Column 1)
-  4. I am grateful for my ribcage because it protects my heart and lungs. 
-     (Table position: Row 3, Column 2)
-  5. Skull
-     (Table position: Row 4, Column 1)
-  6. I am grateful for my skull because it protects my brain. 
-     (Table position: Row 4, Column 2)
-  7. Pelvis
-     (Table position: Row 5, Column 1)
-  8. I am grateful for my pelvis because it supports my body's weight. 
-     (Table position: Row 5, Column 2)
-
-Activity gwpeghL4W40e:
-  1. Why did this happen to me? 
-     (Table position: Row 2, Column 2)
-  2. Sad and frustrated because I can't run or play with my friends.
-     (Table position: Row 2, Column 3)
-  3. Worried because I can't do my job of supporting Jessie's body anymore. 
-     (Table position: Row 3, Column 3)
-  4. I care about healing quickly so that I can support Jessie again. 
-     (Table position: Row 3, Column 4)
-
-Activity 68qF9Gh11t7d:
-  1. Our skeleton is like a tree because they both grow over time.
-  2. Our skeleton is like a chair because it supports our body and helps us stay
-upright, just like a chair supports someone when they sit on it.
-  3. Our skeleton is like a house because it protects things inside it. For example,
-a skeleton protects organs and a house protects the people inside from the
-weather.
-
-Activity NjsMEQjwVyx9:
-  1. I now know that the skull and the ribcage protect our heart and lungs.
-  2. I was surprised to find out that the clavicle was the most common bone to break
-because it seemed really strong to me.
-
-Activity o3XzCWkHpkbB:
-  1. If my skeleton went on strike I would not be able to stand up.
-  2. I do not want my skeleton to go on strike because I would not be able to walk.
-
-Activity 2tA9YjsjZcS4:
-  1. My spine feels bumpy, hard and flexible.
-
-My skull feels smooth, hard and solid.
-
-My ribcage feels hard, bony and fragile.
-
 DETAILED ACTIVITIES:
 ACTIVITY 1:
-Activity ID: o3XzCWkHpkbB
-Section ID: Y5GTScCBhJs0
 Description: Students watch the video A Skeleton's Rant about a skeleton who goes on strike
 because he is fed up of not being appreciated. It is recommended that students
 watch the video twice. After the first watch, check students' understanding of
@@ -180,23 +95,50 @@ PART 1:
 [Video] A Skeleton's Rant 
 
 PART 2:
-[Statement Box] We need our skeletons! If our skeletons went on strike, we would just be a heap
-of flesh and skin. 
-[Image] A surprised boy in a white t-shirt covers his mouth on a bright yellow background.
-
-PART 3:
 [Discussion] If my skeleton went on strike, I would ...
 [Plain Text] Talk to a classmate about how you might complete each sentence.
 [Discussion] I do not want my skeleton to go on strike because ...
 [Image] A young girl with curly hair looks thoughtfully upwards, resting her chin on her hand.
 [Image] A young boy grimaces with wide eyes and an awkward smile, wearing a striped jumper.
 
+PART 3:
+[Statement Box] We need our skeletons! If our skeletons went on strike, we would just be a heap
+of flesh and skin. 
+[Image] A surprised boy in a white t-shirt covers his mouth on a bright yellow background.
+
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
+ACTIVITY 2:
+Description: Read the purple box and the speech bubble to students. Explain that they are
+going to be a scientist by exploring their own skeletons by touch.
+PART 1:
+[Statement Box] Scientists have studied the parts of the human skeleton for many years.
+
+Early scientists studied it by using touch. 
+[Plain Text] Be a scientist!
+
+Follow the instructions on the next page to study your skeleton using touch. 
+[Image] A detailed illustration of a man with curly hair and a pronounced beard, in classical attire.
+[Image] A black and white illustration of a man in traditional attire and turban.
+[Plain Text] Our names are Avicenna and Vesalius. We lived hundreds of years ago and made
+observations of the human skeleton by using touch. 
+
+PART 2:
+[Instruction Box] Bend forward and run your hand over your back. This is your spine.
+
+[Instruction Box] Put your hands on your stomach. Move your hands up your body until you feel the
+bony bits. These are your ribs. 
+[Instruction Box] Knock gently on your forehead. This is your skull. 
+[Discussion] What adjectives can you use to describe what you are feeling?
+[Image] A boy in a grey t-shirt leans down, placing his hand on his spine.
+[Image] A boy in a grey t-shirt taps his forehead with his knuckles.
+[Image] A boy in a grey t-shirt is placing his hands on his ribs.
+
+Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
+Duration: 5 minutes
+
 ACTIVITY 3:
-Activity ID: QjQXr3unPtUB
-Section ID: jba76SCvJwTy
 Description: Students use the interactive x-ray by clicking 'Scan' to study the human
 skeleton. The skeleton has five parts labelled: the spine, ribcage, skull,
 clavicle and pelvis. The first three parts listed, students will be familiar
@@ -242,40 +184,25 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 2:
-Activity ID: 2tA9YjsjZcS4
-Section ID: MvHHfVHy18Fk
-Description: Read the purple box and the speech bubble to students. Explain that they are
-going to be a scientist by exploring their own skeletons by touch.
+ACTIVITY 4:
+Description: Students read the eBook to find out what different jobs the parts of their
+skeleton have. The eBook focuses on the five parts of the skeleton that have
+been covered thus far in the lesson.
 PART 1:
-[Statement Box] Scientists have studied the parts of the human skeleton for many years.
-
-Early scientists studied it by using touch. 
-[Plain Text] Be a scientist!
-
-Follow the instructions on the next page to study your skeleton using touch. 
-[Image] A detailed illustration of a man with curly hair and a pronounced beard, in classical attire.
-[Image] A black and white illustration of a man in traditional attire and turban.
-[Plain Text] Our names are Avicenna and Vesalius. We lived hundreds of years ago and made
-observations of the human skeleton by using touch. 
+[Statement Box] Different parts of our skeleton have different jobs.
+[Plain Text] Read the eBook to find out more about the job of each part of your skeleton. 
+[E-book] Our Jobs
 
 PART 2:
-[Instruction Box] Bend forward and run your hand over your back. This is your spine.
-
-[Instruction Box] Put your hands on your stomach. Move your hands up your body until you feel the
-bony bits. These are your ribs. 
-[Instruction Box] Knock gently on your forehead. This is your skull. 
-[Discussion] What adjectives can you use to describe what you are feeling?
-[Image] A boy in a grey t-shirt leans down, placing his hand on his spine.
-[Image] A boy in a grey t-shirt taps his forehead with his knuckles.
-[Image] A boy in a grey t-shirt is placing his hands on his ribs.
+[Plain Text] Complete the sentences with a classmate.
+[Image] Two boys laughing and learning with anatomical illustrations and colourful splashes in the background.
+[Discussion] I now know that ...
+[Discussion] I was surprised to find out _______ because ...
 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
-Duration: 5 minutes
+Duration: 15 minutes
 
 ACTIVITY 5:
-Activity ID: D0Z7kKLFBXSn
-Section ID: kMxqquzX6bxq
 Description: This activity links back to the video in Activity 1 as students are asked to
 write some notes of gratitude to the parts of their skeleton, thanking them for
 the jobs they do.
@@ -332,29 +259,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to identify parts of the human skeleton that offer protection and
 support.
 
-ACTIVITY 4:
-Activity ID: NjsMEQjwVyx9
-Section ID: sGfgxPBrFhwf
-Description: Students read the eBook to find out what different jobs the parts of their
-skeleton have. The eBook focuses on the five parts of the skeleton that have
-been covered thus far in the lesson.
-PART 1:
-[Statement Box] Different parts of our skeleton have different jobs.
-[Plain Text] Read the eBook to find out more about the job of each part of your skeleton. 
-[E-book] Our Jobs
-
-PART 2:
-[Plain Text] Complete the sentences with a classmate.
-[Image] Two boys laughing and learning with anatomical illustrations and colourful splashes in the background.
-[Discussion] I now know that ...
-[Discussion] I was surprised to find out _______ because ...
-
-Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
-Duration: 15 minutes
-
 ACTIVITY 6:
-Activity ID: gwpeghL4W40e
-Section ID: 8NHFgwv3CBQv
 Description: Present the scenario where Jessie has broken her femur, explaining that it is
 the longest, strongest and heaviest bone that supports body weight when
 standing, walking, or running. Students then complete the Think, Feel, Care
@@ -386,8 +291,6 @@ Differentiation: Blue Square - The blue square represents deeper learning activi
 Duration: 10 minutes
 
 ACTIVITY 7:
-Activity ID: 68qF9Gh11t7d
-Section ID: GsXLtBPQwzJ9
 Description: Challenge students to explain how the human skeleton is like a house, a tree and
 a chair. Encourage them to use critical and creative thinking to draw analogies
 focusing on structure, support and function.
