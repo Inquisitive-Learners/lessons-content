@@ -1,28 +1,5 @@
 
 Year: Year 1,
-Subject name: Science and Technology.
-
---------------------------------
-Topic Name: TEST local Investigating Changes.
-Topic overview: In Stage 1, students cover the focus area Investigations of changes provide knowledge and understanding. The focus area has been broken down into eight Inquisitive units.  In Year 1, students cover the following units:  Collecting Scientific Data About Habitats (Coming in late 2025)  Body Sense Organs  (Coming in late 2025)  Light in Action (Coming in late 2025)  Planet Earth (Coming in late 2025)  In Year 2, students cover the following units:  Power of Forces  Changes Over Time (Coming in late 2025)  Sound Journey (Coming in late 2025)  Exploring the Sky (Coming in late 2025) .
---------------------------------
-Unit Name: TEST local Collecting Scientific Data About Habitats
-Unit overview: In this unit, students explore how living things and habitats change over time. They begin by learning what data is and its uses, including collecting observations in a park. Students then discover how to group data from a pond habitat to reveal information, applying this skill to their own local observations. The unit progresses to observing and describing visible changes in habitats and living things over time, using data to represent these shifts. Finally, students conduct a scientific investigation into plant growth, collecting and analysing data to describe how a bean plant changes as it grows, answering a specific scientific question. Taking into account the learning requirements of their class, teachers should pace the activities and lessons accordingly. Each lesson may take two or more sessions to complete. Teaching notes for each lesson include: A lesson overview Background teacher reading notes Resources and materials if needed Detailed teaching and learning sequences for each activity with additional questioning and learning opportunities, suggestions for differentiating instruction, and sample answers References to the 5E elements developed in each activity Practical tips for conducting hands-on activities Unit and lesson teaching notes can be downloaded as an editable document..
-Unit key inquiry question: How does data help us understand how living things change?
-Unit cross curriculum priorities:
-1. Work and Enterprise
-
-Unit general capabilities:
-1. Critical and Creative Thinking
-2. Literacy
-3. Numeracy
-
-Unit outcomes:
-NSW Syllabus:
-1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
-2. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
-
---------------------------------
 Lesson ID: 6580
 Lesson URL: http://localhost:3000/au/lesson/6580-investigating-changes-to-a-plant
 Lesson name: Investigating Changes to a Plant
@@ -31,7 +8,6 @@ Lesson duration: 30 minutes.
 FOCUS QUESTION: How does a plant change as it grows?
 
 Focus question image: Tall bean plants with green leaves and pods against a clear blue sky.
-
 TEACHER READING NOTES:
 In this lesson, students explore how a plant grows and changes over time. By conducting a scientific investigation into the growth of a bean seed, students observe and collect data to describe how their plant changes. Students demonstrate their understanding by analysing their results and answering the scientific question, ‘How tall does a bean plant grow in 10 days?’  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
@@ -144,37 +120,8 @@ NSW Syllabus:
 1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 2. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 
-SUGGESTED ANSWERS:
-Activity u7HejQqawQGp:
-  1. Jack and the Beanstalk.
-
-Activity cBUJqJCp1RfT:
-  1. It might look pale and thin, reaching upwards trying to find light. The leaves
-might be smaller and droopy, and the stem could be bending toward any slight
-glow from under a door or window.
-  2. It might be following the sun in the sky, bending a little each time the light
-moves.
-
-Activity Z1xnh8fL80jw:
-  1. They might be investigating how quickly a plant grows.
-  2. They could draw pictures of the plant each day and label how many blocks tall it
-was.
-
-Activity TNeg2ahpUAhh:
-  1. No, a bean plant couldn't really grow overnight to reach the clouds. I think
-this because we have plants in our garden and they grow really slowly.
-
-Activity RwiVb5FtVeDU:
-  1. You might have a constant supply of bamboo for building or making things. It
-could help create shade and a cosy spot in the garden.
-  2. Furniture, clothing, musical instruments, food containers
-  3. Bamboo could grow too tall too quickly and block the sun from other plants. It
-might become hard to manage or take over the garden.
-
 DETAILED ACTIVITIES:
 ACTIVITY 1:
-Activity ID: u7HejQqawQGp
-Section ID: LUvnes78pwgT
 Description: Present the image of the leafy plant with a child's drawing of a castle in the
 background. Encourage students to observe the image carefully and consider what
 fairy tale it might represent.
@@ -187,8 +134,6 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 5 minutes
 
 ACTIVITY 2:
-Activity ID: TNeg2ahpUAhh
-Section ID: pjvzcNLCLPzd
 Description: Students watch the video extract from Jack and the Beanstalk. After watching,
 ask students:
 
@@ -205,9 +150,30 @@ Explain your thinking.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
+ACTIVITY 3:
+Description: Explain that scientists ask questions, do investigations and collect data to
+find answers to their questions. Direct students' attention to the image of the
+scientist, plant and toy blocks. Ask them the following questions:
+
+ * What might the scientist in the picture be investigating?
+
+ * How could they record the data they collect?
+PART 1:
+[Statement Box] Scientists ask questions, do investigations and collect data to find answers to
+their questions.
+[Image] Scientist measures plant growth in laboratory using blocks.
+[Discussion] What might the scientist in the picture be investigating?
+[Discussion] How could they record the data they collect?
+
+PART 2:
+[Plain Text] The scientist has drawn a picture to record the data they collected. 
+
+Select the correct label for each part of the drawing. 
+
+Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
+Duration: 5 minutes
+
 ACTIVITY 4:
-Activity ID: D91qZq7dc2Xk
-Section ID: 8DYkQQNU2uas
 Description: Read the list of materials needed to complete the investigation and assist
 students to collect the materials they will need. The beans will grow more
 quickly if they are soaked in water overnight.
@@ -266,34 +232,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to observe and collect data to describe how a plant changes as it grows.
 Materials: Disposable plastic cup, Permanent markers, Metal spoon, Skewers, Spray bottle, Soil, Bean seed, Linking blocks
 
-ACTIVITY 3:
-Activity ID: Z1xnh8fL80jw
-Section ID: ViS2xZ8BQ650
-Description: Explain that scientists ask questions, do investigations and collect data to
-find answers to their questions. Direct students' attention to the image of the
-scientist, plant and toy blocks. Ask them the following questions:
-
- * What might the scientist in the picture be investigating?
-
- * How could they record the data they collect?
-PART 1:
-[Statement Box] Scientists ask questions, do investigations and collect data to find answers to
-their questions.
-[Image] Scientist measures plant growth in laboratory using blocks.
-[Discussion] What might the scientist in the picture be investigating?
-[Discussion] How could they record the data they collect?
-
-PART 2:
-[Plain Text] The scientist has drawn a picture to record the data they collected. 
-
-Select the correct label for each part of the drawing. 
-
-Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
-Duration: 5 minutes
-
 ACTIVITY 5:
-Activity ID: cBUJqJCp1RfT
-Section ID: d6jmt7euGFAd
 Description: Students watch the time-lapse video of a plant growing. Draw their attention to
 how the plant grows in one direction and then another, and ask why they think
 the plant does this.
@@ -309,8 +248,6 @@ Differentiation: Blue Square - The blue square represents deeper learning activi
 Duration: 15 minutes
 
 ACTIVITY 6:
-Activity ID: RwiVb5FtVeDU
-Section ID: 0RPWrY1U0qdT
 Description: Students learn bamboo is the fastest-growing plant. They are asked to draw or
 write some things that can be made from bamboo, conducting some research if
 needed.
