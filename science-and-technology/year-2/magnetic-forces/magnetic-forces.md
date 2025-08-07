@@ -9,24 +9,26 @@
 
 **FOCUS QUESTION:** What force can push or pull an object without touching it?
 
-**Focus question image:** A smiling boy in a top hat waves a magic wand at a flying teddy bear.
+**Focus question image:**
+A smiling boy in a top hat waves a magic wand at a flying teddy bear.
+
 **TEACHER READING NOTES:**
 In this lesson, students investigate how the force of magnetism affects different objects. The concept of magnetism is introduced through a hands-on object hunt, where students test various materials to observe which are attracted to a magnet. Through this activity, students draw their own conclusions about the types of materials magnets attract. They also learn that magnets have two poles, and explore what happens when the poles of two magnets are brought together. The lesson concludes with a scientific challenge in which students demonstrate that magnetic force can act at a distance and through non-magnetic materials. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the focus question, 'What force can push or pull
 an object without touching it?' Encourage students to share any experiences or
 objects they know of that seem to move without being touched. Document the
 students' responses to help gauge their current understanding and identify any
 misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Identify how the force of magnetism affects objects.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Test the effect of magnets on different materials.
 - Recognise that magnets have a north and a south pole that attract or repel
@@ -34,7 +36,7 @@ By the end of this lesson, students will:
 - Prove that a magnet doesn’t need to touch an object to repel or attract it.
 - Create a flow chart to describe how magnetism affects objects.
 
-TEACHER READING:
+**TEACHER READING:**
 Magnetic materials
 
 Magnets attract objects containing certain metals such as iron, nickel or
@@ -58,7 +60,7 @@ provide a force without direct contact. Recognising magnets in different
 contexts helps students understand how they support movement, lifting and
 holding objects in place.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What force can push or pull an object without touching it?
@@ -68,7 +70,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -76,11 +78,11 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to identify how the force of magnetism affects objects.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Magnet, Paper clip, Disposable paper plate
 
@@ -89,12 +91,14 @@ MATERIALS NEEDED:
   Materials: Toy car, Bar magnet, Sticky tape, Cardboard (A3)
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Students explore a variety of toys, finding the commonality between them. Prompt
 students to notice similarities in how the toys function.
