@@ -9,24 +9,26 @@
 
 **FOCUS QUESTION:** What makes things move?
 
-**Focus question image:** Three children play on grass. One pulls a wooden wagon, another pushes it from behind while another sits inside, smiling.
+**Focus question image:**
+Three children play on grass. One pulls a wooden wagon, another pushes it from behind while another sits inside, smiling.
+
 **TEACHER READING NOTES:**
 In this lesson, students explore how pushes and pulls are types of forces that cause movement by identifying the forces acting on everyday objects. They are introduced to these concepts through simple, hands-on experiences and investigations that prompt discussion about how forces can move objects either towards or away from them. To demonstrate their understanding, students label and illustrate the direction of these forces using arrows, showing how pushing or pulling can produce visible movement. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the focus question, 'What makes things move?'
 Have them recall everyday examples of movement such as toys and vehicles,
 helping them connect to their own experiences. Document and use students'
 responses to gauge their current understanding of the topic and to identify any
 misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Identify a force as a push or a pull.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Recognise that forces are pushes and pulls that make objects move.
 - Know that when we push an object it moves away from us. When we pull an
@@ -37,7 +39,7 @@ By the end of this lesson, students will:
 - Conduct a scientific investigation collecting and representing data around
 - the cause and effect of pushing and pulling.
 
-TEACHER READING:
+**TEACHER READING:**
 Forces
 
 A force is any push or pull that can change an object’s motion or direction.
@@ -59,7 +61,7 @@ Objects and movement
 Objects stay still until a force makes them move. Once an object is moving, it
 keeps moving in the same direction unless another force acts on it.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What makes things move?
@@ -69,7 +71,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -77,17 +79,19 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to identify a force as a push or a pull.
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Students watch the sledding video and identify how the sled is being moved,
 introducing the idea of pushing and pulling. It is not expected that students
