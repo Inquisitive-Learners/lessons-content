@@ -9,13 +9,15 @@
 
 **FOCUS QUESTION:** What slows an object down?
 
-**Focus question image:** A child pushes a wooden cart with a happy puppy sitting inside on a carpeted floor.
+**Focus question image:**
+A child pushes a wooden cart with a happy puppy sitting inside on a carpeted floor.
+
 **TEACHER READING NOTES:**
 In this lesson, students explore friction as a force that slows down the motion of an object. They investigate how different surfaces affect movement by planning and conducting a simple investigation, recording their observations on how friction influences motion. Through this investigation, students learn to describe surfaces as smooth or rough. To deepen their understanding, they draw and label arrows to represent the direction and strength (magnitude) of the forces involved. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the focus question, 'What slows an object down?'
 Ask students to think about times they have observed or experienced an object
 slowing down or stopping, such as a rolling ball on grass or a toy car on a
@@ -23,12 +25,12 @@ track, and consider what caused it to slow down. Document and use the studentsâ€
 responses to help gauge their current understanding of the topic and to identify
 any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Describe how different surfaces create varying strengths of friction and how
 - this affects the motion of an object.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Predict and explain which surfaces cause more or less friction.
 - Conduct an investigation and document observations of the effects of friction
@@ -40,7 +42,7 @@ By the end of this lesson, students will:
 - the opposing force of friction.
 - Use compound sentences to describe friction.
 
-TEACHER READING:
+**TEACHER READING:**
 Friction as a force
 
 Friction is a force that opposes the motion of an object when it comes into
@@ -56,7 +58,7 @@ irregularities catch on one another, creating friction. Rougher surfaces have
 more pronounced bumps, leading to increased friction, while smoother surfaces
 generate less friction.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What slows an object down?
@@ -66,7 +68,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -74,23 +76,25 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to describe how different surfaces create varying strengths of friction.
 This activity is an opportunity to make an informal assessment of a student's
 understanding of how friction affects the motion of an object.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Cardboard (thick), Block, Sandpaper, Piece of bubble wrap, Piece of aluminium, Piece of felt fabric, Piece of Carpet, Piece of velcro, Piece of plastic wrap
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 2. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Introduce the concept of friction by presenting students with a ramp featuring
 three different surface types. Direct their attention to the blocks at the top
