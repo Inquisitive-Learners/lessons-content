@@ -1,14 +1,16 @@
 
-Year: Year 3,
-Lesson ID: 5026
-Lesson URL: http://localhost:3000/au/lesson/5026-our-human-skeleton
-Lesson name: Our Human Skeleton
-Lesson duration: 30 minutes.
+**Year:** Year 3
 
-FOCUS QUESTION: Why is our skeleton important?
+**Lesson ID:** 5026
 
-Focus question image: Two smiling girls colour on a white cast while sitting on a sofa, one holding a teddy bear.
-TEACHER READING NOTES:
+**Lesson name:** Our Human Skeleton
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** Why is our skeleton important?
+
+**Focus question image:** Two smiling girls colour on a white cast while sitting on a sofa, one holding a teddy bear.
+**TEACHER READING NOTES:**
 In this lesson, students will examine the crucial role their skeleton has in providing them with support and protection. Beginning with an engaging video of a skeleton going on strike, they consider what would happen if their own skeleton went on strike. Students explore the parts of their own skeleton using touch, learning the scientific name for each one. An eBook introduces students to whether each part supports them or protects their organs. They demonstrate their understanding by writing a note of gratitude to each skeleton part, thanking it for what it does for them.  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts The lesson also supports the following English outcomes:  EN2-OLC-01 EN2-VOCAB-01
 
 LESSON INTRODUCTION:
@@ -64,12 +66,12 @@ This activity is an opportunity to make an informal assessment of a student's
 ability to identify parts of the human skeleton that offer protection and
 support.
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Students watch the video A Skeleton's Rant about a skeleton who goes on strike
 because he is fed up of not being appreciated. It is recommended that students
 watch the video twice. After the first watch, check students' understanding of
@@ -109,7 +111,7 @@ of flesh and skin. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Read the purple box and the speech bubble to students. Explain that they are
 going to be a scientist by exploring their own skeletons by touch.
 PART 1:
@@ -138,7 +140,7 @@ bony bits. These are your ribs. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students use the interactive x-ray by clicking 'Scan' to study the human
 skeleton. The skeleton has five parts labelled: the spine, ribcage, skull,
 clavicle and pelvis. The first three parts listed, students will be familiar
@@ -184,7 +186,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students read the eBook to find out what different jobs the parts of their
 skeleton have. The eBook focuses on the five parts of the skeleton that have
 been covered thus far in the lesson.
@@ -202,7 +204,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 15 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: This activity links back to the video in Activity 1 as students are asked to
 write some notes of gratitude to the parts of their skeleton, thanking them for
 the jobs they do.
@@ -259,7 +261,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to identify parts of the human skeleton that offer protection and
 support.
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Present the scenario where Jessie has broken her femur, explaining that it is
 the longest, strongest and heaviest bone that supports body weight when
 standing, walking, or running. Students then complete the Think, Feel, Care
@@ -290,7 +292,7 @@ is to support your body weight when you stand, walk or run. 
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 10 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Challenge students to explain how the human skeleton is like a house, a tree and
 a chair. Encourage them to use critical and creative thinking to draw analogies
 focusing on structure, support and function.
