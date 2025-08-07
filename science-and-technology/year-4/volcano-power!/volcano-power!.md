@@ -1,34 +1,38 @@
 
-Year: Year 4,
-Lesson ID: 5917
-Lesson URL: http://localhost:3000/au/lesson/5917-volcano-power!
-Lesson name: Volcano Power!
-Lesson duration: 100 minutes.
+**Year:** Year 4
 
-FOCUS QUESTION: Do volcanoes create or destroy?
+**Lesson ID:** 5917
 
-Focus question image: Volcanic landscape at sunrise with steam rising, mountains, and dramatic clouds.
-TEACHER READING NOTES:
+**Lesson name:** Volcano Power!
+
+**Lesson duration:** 100 minutes.
+
+**FOCUS QUESTION:** Do volcanoes create or destroy?
+
+**Focus question image:**
+Volcanic landscape at sunrise with steam rising, mountains, and dramatic clouds.
+
+**TEACHER READING NOTES:**
 In this lesson, students investigate how volcanic activity can create or destroy landscapes, building their understanding of how natural forces shape the Earth’s surface. They explore volcanic effects through a modelling activity, an eBook and a sorting interactive. Students demonstrate their understanding by completing a checkpoint activity, identifying how eruptions change landscapes and explaining the knock-on effects using causal connectives. 
  This lesson supports the following Stage 2 Creating written texts Science content point:  Use compound and complex sentences to sequence connected ideas into paragraphs when explaining cause and effect The lesson also supports the following English outcome:  EN2-CWT-02
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the question, 'Do volcanoes create or destroy?'
 Document and use the students’ responses to help gauge their current
 understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Describe how volcanic eruptions change the landscape.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Identify what happens during a volcanic eruption.
 - Model the effect of a volcanic eruption on the landscape.
 - Write sentences to describe the changes in landscape caused by volcanic
 - eruptions and their knock-on effects.
 
-TEACHER READING:
+**TEACHER READING:**
 A volcano is an opening in the Earth’s crust through which molten rock, gases
 and ash can escape. The molten rock below the ground is called magma, and once
 it reaches the surface it becomes lava.
@@ -41,7 +45,7 @@ Volcanic eruptions can be destructive, burying landscapes and affecting
 communities, but they can also be constructive by creating fertile soils and new
 land.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * Do volcanoes create or destroy?
@@ -49,7 +53,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -57,20 +61,22 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 understanding of how volcanic eruptions change the landscape.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Baking tray, Modelling clay, Plastic figure, Toy animals, Block, Sand, Vinegar, Baking soda, Jar
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+
+**ACTIVITY 1:**
 Description: Students watch the volcano eruption video and mentally place themselves at the
 scene by engaging their senses of sight, smell, hearing and touch.
 
@@ -94,7 +100,7 @@ Teacher prompting questions:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students explore the interactive slider that reveals the following key
 vocabulary: magma chamber, lava and eruption.
 
@@ -111,7 +117,7 @@ from deep inside the Earth. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students use the provided materials to build a model of a volcano with a small
 group. Alternatively, this could be done as a whole-class activity.
 PART 1:
@@ -166,7 +172,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 25 minutes
 Materials: Baking tray, Modelling clay, Plastic figure, Toy animals, Block, Sand, Vinegar, Baking soda, Jar
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students read the eBook to learn about how volcanoes can change the landscape in
 both a positive and negative way.
 
@@ -188,7 +194,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 15 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students use the eBook to list the immediate effects of volcanic eruptions, such
 as new land formation, and connect these to a knock-on effect.
 PART 1:
@@ -223,7 +229,7 @@ Duration: 25 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 understanding of how volcanic eruptions change the landscape.
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students examine the historical eruption of Mount Vesuvius in Pompeii, focusing
 on the artefacts that were discovered and what they reveal about ancient Roman
 life.
@@ -262,7 +268,7 @@ PART 2:
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 15 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students use the provided website to investigate volcanoes on other planets and
 moons. They consider which planet or moon has the most interesting volcanoes,
 using the Justification Flow Chart to share their thinking.
