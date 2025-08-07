@@ -1,14 +1,16 @@
 
-Year: Year 4,
-Lesson ID: 5886
-Lesson URL: http://localhost:3000/au/lesson/5886-layers-of-the-earth
-Lesson name: Layers of the Earth
-Lesson duration: 90 minutes.
+**Year:** Year 4
 
-FOCUS QUESTION: What is beneath Earth's surface?
+**Lesson ID:** 5886
 
-Focus question image: A vibrant view of Earth from space, showcasing its blue oceans and green landmasses.
-TEACHER READING NOTES:
+**Lesson name:** Layers of the Earth
+
+**Lesson duration:** 90 minutes.
+
+**FOCUS QUESTION:** What is beneath Earth's surface?
+
+**Focus question image:** A vibrant view of Earth from space, showcasing its blue oceans and green landmasses.
+**TEACHER READING NOTES:**
 In this lesson, students are introduced to the layers of the Earth. They explore models and participate in collaborative discussions to build a shared understanding of each layer, specifically its temperature, thickness and what the layer is made from. Students demonstrate their understanding by creating and labelling a model of Earth’s layers. 
  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts The lesson also supports the following English outcome:  EN2-VOCAB-01 
 
@@ -66,12 +68,12 @@ MATERIALS NEEDED:
 
   Materials: Ball of play dough, Toothpick, Sticky label, Knife - plastic
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Students watch video. You may like to play the video twice—the first time for
 enjoyment and the second time so that students can consider the following
 questions:
@@ -99,7 +101,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Explain that in the video Scrat fell through Earth's surface. Ensure that
 students understand that Earth's surface is all the natural features on top of
 our planet. As a class or on individual devices, check students' understanding
@@ -111,7 +113,7 @@ planet, including land, water and the ocean floor.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: This activity allows students to explore the different layers of Earth,
 specifically the crust, mantle, outer and inner core. To draw students'
 attention to the differing sizes and temperatures of each layer, pose the
@@ -130,7 +132,7 @@ Earth. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: This activity is an opportunity for students to make their own model of Earth's
 layers.
 PART 1:
@@ -180,7 +182,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 15 minutes
 Materials: Ball of play dough, Toothpick, Sticky label, Knife - plastic
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students revisit and explore the interactive model again to discover additional
 facts about Earth’s layers. Prompt them to share what new insights they have
 gained.
@@ -206,7 +208,7 @@ class. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students draw, label and annotate a diagram of Earth’s layers.
 
 If students need support with constructing a sentence to describe each layer,
@@ -223,14 +225,14 @@ Duration: 20 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 ability to describe and model the internal structure of the Earth.
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students use a Venn diagram to compare Earth’s layers with the layers of a
 hard-boiled egg.
 
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 10 minutes
 
-ACTIVITY 8:
+**ACTIVITY 8:**
 Description: Students imagine preparing to be the first person to travel through the Earth’s
 layers using the Compass Point thinking routine. Prompt them to note what they
 need to know, what excites them, any worries, and the steps to prepare for such
