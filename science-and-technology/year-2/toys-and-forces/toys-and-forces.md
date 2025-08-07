@@ -9,23 +9,25 @@
 
 **FOCUS QUESTION:** How do toys work?
 
-**Focus question image:** A father and son using their hands to twist spinning toys. 
+**Focus question image:**
+A father and son using their hands to twist spinning toys. 
+
 **TEACHER READING NOTES:**
 In this lesson, students explore and recognise how applied forces such as pushing, pulling and twisting play an important role in the movement of everyday toys and traditional toys used by Aboriginal and Torres Strait Islander Peoples. Students demonstrate their learning by creating their own spinning top. They complete a flow chart and label the steps involved in making their spinning top, describing how the forces work together to make it move. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the focus question, 'How do toys work?'
 Encourage students to share personal experiences with toys they use. Document
 and use the students’ responses to help gauge their current understanding of the
 topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Understand how forces like pushing, pulling and twisting make toys move.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Recognise how pushing and pulling affect the movement of a toy.
 - Identify how spinning tops from Aboriginal and Torres Strait Islander Peoples
@@ -34,7 +36,7 @@ By the end of this lesson, students will:
 - Draw and label a flow chart to describe the process of making and moving a
 - spinning top.
 
-TEACHER READING:
+**TEACHER READING:**
 Push and pull
 
 Push and pull forces are vital for many toys because they set objects in motion
@@ -53,7 +55,7 @@ spinning toys, showing a deep understanding of motion and design. Their skill in
 making tops demonstrates their connection to Country and their knowledge of the
 forces that affect everyday objects.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * How do toys work?
@@ -63,7 +65,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -71,12 +73,12 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to understand how forces like pushing, pulling and twisting make toys
 move.
 
-EXPLANATIONS:
+**EXPLANATIONS:**
 
 Explain to students that many cultures make toys that use pushes and pulls. For
 example, the First Nations Peoples of Australia and Torres Strait Islander
@@ -109,17 +111,19 @@ Students make their own spinning top. Assist them to collect the materials they
 need and encourage them to view the images closely. Students draw and label how
 they made their spinning top move. 
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Cardboard, Sticks
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Students watch the kendama video and identify which parts of the toy are pushed
 and which are pulled. Encourage students to discuss how pushing and pulling
