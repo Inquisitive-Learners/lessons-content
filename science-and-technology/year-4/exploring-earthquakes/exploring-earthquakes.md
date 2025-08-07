@@ -1,14 +1,16 @@
 
-Year: Year 4,
-Lesson ID: 5887
-Lesson URL: http://localhost:3000/au/lesson/5887-exploring-earthquakes
-Lesson name: Exploring Earthquakes
-Lesson duration: 100 minutes.
+**Year:** Year 4
 
-FOCUS QUESTION: What might cause Earth's surface to change quickly?
+**Lesson ID:** 5887
 
-Focus question image: A road damaged by an earthquake, exposing deep cracks and uneven surfaces.
-TEACHER READING NOTES:
+**Lesson name:** Exploring Earthquakes
+
+**Lesson duration:** 100 minutes.
+
+**FOCUS QUESTION:** What might cause Earth's surface to change quickly?
+
+**Focus question image:** A road damaged by an earthquake, exposing deep cracks and uneven surfaces.
+**TEACHER READING NOTES:**
 In this lesson, students investigate how the sudden force of an earthquake can change Earth’s surface. They learn how an earthquake happens and create a model using Mars bars to demonstrate this. Students then dive deeper into the effect of earthquakes on the landscape, looking specifically at Japan’s Noto Peninsula earthquake in 2024. They demonstrate their understanding by writing sentences to explain the effect of the earthquake using the conjunction 'so'.  
  This lesson supports the following Stage 2 Creating written texts Science content point:  Use compound and complex sentences to sequence connected ideas into paragraphs when explaining cause and effect The lesson also supports the following English outcome:  EN2-CWT-02
 
@@ -61,12 +63,12 @@ MATERIALS NEEDED:
 
   Materials: Ipad, Knife - plastic, Mini chocolate bar
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: To ignite curiosity in the lesson, students watch an animation showing every
 recorded earthquake between 2000 and 2021. At this stage do not tell the
 students what the video is showing, but ask them to describe what they see. Then
@@ -92,7 +94,7 @@ Explain your thinking.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students learn that the video showed where earthquakes occurred worldwide
 between 2000 and 2021. Have them watch the video to find out more about how
 earthquakes occur.
@@ -132,7 +134,7 @@ PART 3:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students model how tectonic plates meet by gently pushing the halves of a mini
 Mars bar (or similar chocolate bar) together to observe what happens to the
 Earth's crust.
@@ -170,7 +172,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 15 minutes
 Materials: Ipad, Knife - plastic, Mini chocolate bar
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: This activity explicitly introduces students to the term 'landscape', defining
 it as any natural or built feature in a particular area. To check their
 understanding of this word, students complete the interactive.
@@ -180,7 +182,7 @@ landscape includes any natural or built feature in a particular area.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students read about the Noto Peninsula earthquake in Japan to learn how it
 changed part of the region's landscape.
 
@@ -218,7 +220,7 @@ Duration: 30 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 ability to describe how earthquakes change the landscape.
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students rewatch the opening video, focusing on the purple flashes. Ask them
 what they think the purple flashes are showing.
 PART 1:
@@ -236,7 +238,7 @@ and tsunami in 2011. 
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 20 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students consider the Australian government’s decision to provide 10 million
 dollars in emergency assistance to Samoa after a 2009 earthquake and tsunami.
 
