@@ -9,27 +9,29 @@
 
 **FOCUS QUESTION:** What is beneath Earth's surface?
 
-**Focus question image:** A vibrant view of Earth from space, showcasing its blue oceans and green landmasses.
+**Focus question image:**
+A vibrant view of Earth from space, showcasing its blue oceans and green landmasses.
+
 **TEACHER READING NOTES:**
 In this lesson, students are introduced to the layers of the Earth. They explore models and participate in collaborative discussions to build a shared understanding of each layer, specifically its temperature, thickness and what the layer is made from. Students demonstrate their understanding by creating and labelling a model of Earth’s layers. 
  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts The lesson also supports the following English outcome:  EN2-VOCAB-01 
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the question, 'What is beneath Earth’s surface?'
 Document and use the students’ responses to help gauge their current
 understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Describe and model the internal structure of the Earth.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Name each layer of the Earth.
 - Construct a model of Earth's internal structure.
 - Use Tier 2 and Tier 3 vocabulary to describe the structure of Earth.
 
-TEACHER READING:
+**TEACHER READING:**
 The Earth is made up of four main layers: the crust, mantle, outer core and
 inner core. The crust is the outermost layer, composed mostly of rock and soil,
 and is thicker under continents than under oceans. It’s where landforms, oceans
@@ -46,7 +48,7 @@ At the very centre of the Earth is the inner core, also composed of iron and
 nickel, but remaining solid due to immense pressure, despite being as hot as the
 surface of the Sun.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What's beneath Earth's surface?
@@ -54,25 +56,27 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
 low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to describe and model the internal structure of the Earth.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Ball of play dough, Toothpick, Sticky label, Knife - plastic
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Students watch video. You may like to play the video twice—the first time for
 enjoyment and the second time so that students can consider the following
