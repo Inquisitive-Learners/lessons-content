@@ -1,14 +1,16 @@
 
-Year: Year 1,
-Lesson ID: 6579
-Lesson URL: http://localhost:3000/au/lesson/6579-comparing-data
-Lesson name: Comparing Data
-Lesson duration: 30 minutes.
+**Year:** Year 1
 
-FOCUS QUESTION: What might change in a habitat?
+**Lesson ID:** 6579
 
-Focus question image: Pink and white water lilies float on a tranquil pond surrounded by green lily pads.
-TEACHER READING NOTES:
+**Lesson name:** Comparing Data
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** What might change in a habitat?
+
+**Focus question image:** Pink and white water lilies float on a tranquil pond surrounded by green lily pads.
+**TEACHER READING NOTES:**
 In this lesson, students observe how living things in a habitat change over time. They are shown the same habitat at two different points in time and asked to identify visible changes. They collect and represent this data and use it to describe the changes they have observed.  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -67,13 +69,13 @@ This is an opportunity to make an informal assessment of a students'
 ability to represent data and use it to describe changes in living things within
 a habitat.
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: This activity introduces the core skill of comparing in an engaging way.
 Students are presented with a Spot the Difference task and then asked to Think,
 Pair, Share how they found the differences.
@@ -83,7 +85,7 @@ Pair, Share how they found the differences.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Explain that just like in Spot the Difference, scientists compare data to see
 how living things and habitats change over time. Show students the pond habitat
 from the previous lesson and what the pond habitat looks like now. Ask:
@@ -101,7 +103,7 @@ from the previous lesson and what the pond habitat looks like now. Ask:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Introduce the idea that some animals' actions have changed in the pond habitat.
 In pairs, students choose one animal: frog, duck, butterfly or turtle. One
 partner acts out what the animal was doing before and the other partner acts out
@@ -142,7 +144,7 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: This activity highlights another change in the habitat: the number of each
 animal.
 
@@ -167,7 +169,7 @@ could represent the data.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: This activity introduces the students to using a data display. They will likely
 have covered data displays in maths in Early Stage 1, so the concept should be
 familiar to them.
@@ -191,7 +193,7 @@ many there are now? 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students pick one of the pond animals and use blocks to create a data display
 showing its count before and now.
 PART 1:
@@ -217,7 +219,7 @@ Checkpoint: This is an opportunity to make an informal assessment of a students'
 ability to represent data and use it to describe changes in living things within
 a habitat.
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: This activity introduces the concept that not all changes happen at the same
 speed. Students first group the listed changes according to whether they are a
 slow or fast change. Then they list another change they might see in a habitat
@@ -230,7 +232,7 @@ and decide whether they think it is a slow or fast change.
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 10 minutes
 
-ACTIVITY 8:
+**ACTIVITY 8:**
 Description: Students predict how many frogs will be in the pond one month from now. They
 should use 'before' and 'now' pond scenes to help them with their predictions.
 PART 1:
