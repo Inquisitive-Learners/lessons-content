@@ -9,24 +9,26 @@
 
 **FOCUS QUESTION:** What can a push or a pull do?
 
-**Focus question image:** Child in a cap aiming a wooden slingshot, squinting with focus against a blurred background.
+**Focus question image:**
+Child in a cap aiming a wooden slingshot, squinting with focus against a blurred background.
+
 **TEACHER READING NOTES:**
 In this lesson, students investigate how pushes and pulls can change an object’s shape, direction or speed. They explore these concepts by experimenting with everyday materials and engaging in hands-on tasks that allow them to observe and describe the effects of force on objects. The lesson concludes with students learning that a force can also stop an object from moving. To demonstrate their understanding, students record and illustrate how they can affect an object’s movement using pushes or pulls. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the focus question, 'What can a push or a pull
 do?' Encourage students to share personal experiences, such as playing with
 balls, opening doors or using household objects to explore how pushes and pulls
 cause things to move. Document students’ responses to help gauge their current
 understanding of the topic and identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Recognise that a force can change an object in different ways.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Explore how a force can change an object’s shape.
 - Test the effects of forces on an object's movement.
@@ -35,7 +37,7 @@ By the end of this lesson, students will:
 - Use scientific vocabulary in compound sentences to describe the effect of
 - forces on objects.
 
-TEACHER READING:
+**TEACHER READING:**
 Pushes and pulls
 
 A push is a force that moves an object away from you. A pull moves an object
@@ -57,7 +59,7 @@ Changing direction and stopping
 Applying force to a moving object at an angle changes its direction. A push or
 pull against its motion can cause it to stop.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What can a push or a pull do?
@@ -67,7 +69,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, adding real-life examples to their knowledge
 bank.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -75,23 +77,25 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to recognise that a force can change an object in different ways.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Ball of play dough
 
   Materials: Balloon
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 3. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Encourage students to experiment with creating funny faces using pushes or
 pulls. Ask them to try moving their cheeks, lips, hair or eyebrows in different
