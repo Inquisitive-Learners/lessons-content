@@ -1,14 +1,16 @@
 
-Year: Year 2,
-Lesson ID: 6282
-Lesson URL: http://localhost:3000/au/lesson/6282-frictional-forces
-Lesson name: Frictional Forces
-Lesson duration: 30 minutes.
+**Year:** Year 2
 
-FOCUS QUESTION: What slows an object down?
+**Lesson ID:** 6282
 
-Focus question image: A child pushes a wooden cart with a happy puppy sitting inside on a carpeted floor.
-TEACHER READING NOTES:
+**Lesson name:** Frictional Forces
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** What slows an object down?
+
+**Focus question image:** A child pushes a wooden cart with a happy puppy sitting inside on a carpeted floor.
+**TEACHER READING NOTES:**
 In this lesson, students explore friction as a force that slows down the motion of an object. They investigate how different surfaces affect movement by planning and conducting a simple investigation, recording their observations on how friction influences motion. Through this investigation, students learn to describe surfaces as smooth or rough. To deepen their understanding, they draw and label arrows to represent the direction and strength (magnitude) of the forces involved. 
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations Use simple and compound sentences, flow charts and labelled diagrams to describe a process or function 
  The lesson also supports the following English outcome:  EN1-CWT-01
@@ -82,14 +84,14 @@ MATERIALS NEEDED:
 
   Materials: Cardboard (thick), Block, Sandpaper, Piece of bubble wrap, Piece of aluminium, Piece of felt fabric, Piece of Carpet, Piece of velcro, Piece of plastic wrap
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST1-PQU-01 (poses questions based on observations and information to investigate cause and effect)
 2. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 3. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Introduce the concept of friction by presenting students with a ramp featuring
 three different surface types. Direct their attention to the blocks at the top
 of the ramp and ask them to predict which block will slide down first and why.
@@ -138,7 +140,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 20 minutes
 Materials: Cardboard (thick), Block, Sandpaper, Piece of bubble wrap, Piece of aluminium, Piece of felt fabric, Piece of Carpet, Piece of velcro, Piece of plastic wrap
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students learn that friction is the force that slows down moving things and
 keeps still things from moving. Read the eBook to explore the concept further,
 encouraging students to think of examples where friction plays a role in
@@ -166,7 +168,7 @@ Duration: 10 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 ability to describe how different surfaces create varying strengths of friction.
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students learn that friction always acts in the opposite direction to the force
 that moves an object. It’s important for them to understand that friction is not
 a property that a material has on its own; it is a force created when two
@@ -192,7 +194,7 @@ Duration: 10 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 understanding of how friction affects the motion of an object.
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students explore different shoes and decide what activities they are designed
 for and what surfaces they are used on.
 PART 1:
@@ -219,7 +221,7 @@ PART 2:
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 10 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students design a new type of shoe for a special surface or activity,
 considering how much friction is needed. Encourage them to label each feature
 and describe how it helps the wearer. Have them present their drawings to show
