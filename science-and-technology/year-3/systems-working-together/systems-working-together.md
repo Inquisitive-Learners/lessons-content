@@ -1,38 +1,16 @@
 
-Year: Year 3,
-Subject name: Science and Technology.
+**Year:** Year 3
 
---------------------------------
-Topic Name: TEST local Depending on Energy.
-Topic overview: In Stage 2, students cover the focus area Physical and living systems depend on energy. The focus area has been broken down into nine Inquisitive units.  In Year 3, students cover the following units:  Earth's Systems and Environments (Coming in late 2025)  States and Properties of Matter (Coming in late 2025)  Body Systems and Movement  Transferring Heat Energy (Coming in late 2025)  Our Solar System (Coming in late 2025)  In Year 4, students cover the following units:  Energy Flow and Relationships in Ecosystems  (Coming in late 2025)  Heat Energy Changes Matter (Coming in late 2025)  Forces Change Earth's Surface Gravity in Our Solar System  (Coming in late 2025) .
---------------------------------
-Unit Name: TEST local Body Systems and Movement 
-Unit overview: In this unit, students learn how body systems work together to enable movement. Through hands-on activities and digital simulations, they will learn the key parts of our skeleton that provide us with support and protection and model how our skeletal and muscular systems work together to enable us to move. By investigating the scientific question, Are people with shorter bones in their lower legs better at the limbo?  students deepen their understanding of the topic, while also learning how to plan, conduct and evaluate a fair test. The unit culminates with students exploring the difference between vertebrates and invertebrates and how this difference affects their movement.  Taking into account the learning requirements of their class, teachers should pace the activities and lessons accordingly. Each lesson may take two or more sessions to complete. Teaching notes for each lesson include: A lesson overview Background teacher reading notes Resources and materials if needed Detailed teaching and learning sequences for each activity with additional questioning and learning opportunities, suggestions for differentiating instruction, and sample answers References to the 5E elements developed in each activity Practical tips for conducting hands-on activities Unit and lesson teaching notes can be downloaded as an editable document..
-Unit key inquiry question: How do the bodies of living things help them move?
-Unit cross curriculum priorities:
-1. Diversity and Difference
+**Lesson ID:** 5059
 
-Unit general capabilities:
-1. Critical and Creative Thinking
-2. Literacy
-3. Numeracy
+**Lesson name:** Systems Working Together
 
-Unit outcomes:
-NSW Syllabus:
-1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
-2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
+**Lesson duration:** 30 minutes.
 
---------------------------------
-Lesson ID: 5059
-Lesson URL: http://localhost:3000/au/lesson/5059-systems-working-together
-Lesson name: Systems Working Together
-Lesson duration: 30 minutes.
+**FOCUS QUESTION:** How do we move? 
 
-FOCUS QUESTION: How do we move? 
-
-Focus question image: A man pushes a girl in a cardboard box, both smiling joyfully in a bright room.
-
-TEACHER READING NOTES:
+**Focus question image:** A man pushes a girl in a cardboard box, both smiling joyfully in a bright room.
+**TEACHER READING NOTES:**
 In this lesson, students are introduced to the concept of a system—something that is made up of smaller parts to form something larger and more complex. They learn that our skeletal system is an example of this and includes our joints and bones. Students explore finding different joints in their bodies and decide whether they think each joint is a hinge joint or a ball-and-socket joint. The latter half of the lesson introduces students to the muscular system and how the skeletal and muscular systems work together to enable movement. They explore a digital model showing how this happens and then create their own model using hands-on materials.  This lesson supports the following Stage 2 Creating written texts Science content points:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts. Use temporal and causal connectives and labelled diagrams when explaining the process of conducting a fair test. Use notes, diagrams, flow charts and annotations to support understanding and explain processes. The lesson supports the following English outcomes:  EN2-OLC-01, EN2-VOCAB-01
 
 LESSON INTRODUCTION:
@@ -96,100 +74,12 @@ MATERIALS NEEDED:
 
   Materials: Cardboard, Elastic band, Split pin, Hole punch, Stapler
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-SUGGESTED ANSWERS:
-Activity 2ea6FPQEwE4r:
-  1. I think the knee joint is a hinge joint because my knee joint only moves
-forwards and backwards.
-  2. I think the hip joint is a ball-and-socket joint because I can move my upper leg
-in all directions.
-
-Activity 4mh7vr3SsAwP:
-  1. My muscles felt like they were tightening when I moved.
-
-Activity bFfrpVHaijPW:
-  1. When the bicep muscle tightens, the length of the bicep shortens.
-  2. When the bicep muscle tightens, the lower arm bone moves.
-  3. When the bicep muscle tightens, the length of the tricep lengthens.
-
-Activity 6t0wv0Q9yz02:
-  1. They would agree because they might think that a new knee joint would enable
-Tiger Woods to play better than he had before, without any pain. 
-     (Table position: Row 2, Column 2)
-  2. They would disagree because they might argue that despite having a new knee
-joint, Tiger Woods would still have to practise as much as everyone else. 
-     (Table position: Row 3, Column 2)
-  3. They would disagree because they might argue that getting a new knee joint just
-relieves pain, it does not make your golfing skills any better. 
-     (Table position: Row 4, Column 2)
-
-Activity 9bhELgi5nyh0:
-  1.  * You can grow out of prosthetics.
-
- * Prosthetists make prosthetic limbs.
-
- * To make a new prosthetic leg, you need to make a cast of it.
-
-  2. I think he might have felt nervous. This is because he might have been worried
-about going to hospital.
-  3. I think they made the video to help other children that have prosthetics know
-what to expect when they have a new one made.
-
-Activity BfnTaAwoAQ6E:
-  1. Piano, violin and cello.
-  2. Trampoline
-
-Bike
-  3. Trampoline: frame, springs, mat and safety pad
-
-Bike: frame, wheels, tyres, handlebars, breaks, pedals, chain and saddle
-  4.  * A car
-
- * The solar system
-
- * A computer system
-
-Activity aT65594Vj66k:
-  1. Trampoline
-
-Bike
-  2. Trampoline - frame, springs, mat and safety pad
-
-Bike - frame, wheels, tires, handlebars, breaks, pedals, chain and saddle
-  3.  * A car
-
- * The Solar System
-
- * A computer system
-
-Activity SuKr3SCyWzXF:
-  1. I have seen athletes wear prosthetics in the Paralympics.
-  2. I didn't know that your prosthetic needed to be changed as you grow.
-  3. How do doctors decide on the right type of prosthetic for you?
-
-Activity Sp5Jpxvpkuyw:
-  1. I have seen athletes wear prosthetics in the Paralympics.
-  2. I didn't know that your prosthetic needed to be changed as you grow.
-  3. How do doctors decide on the right type of prosthetic for you?
-
-Activity BJPPdo33BEva:
-  1.  * First
-
- * Next
-
- * After this
-
- * Finally
-  2. No text answer
-  3. 
-
-DETAILED ACTIVITIES:
-ACTIVITY 1:
-Activity ID: BfnTaAwoAQ6E
-Section ID: ux9ZnecAgSB4
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Students close their eyes and listen to the music. You may wish to play the
 music twice. The first time students should just listen for enjoyment and the
 second time they should listen to identify the different instruments they can
@@ -215,93 +105,46 @@ smaller parts that work together to form something larger and more complicated.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 6:
-Activity ID: BJPPdo33BEva
-Section ID: g0VDUrnuYk2b
-Description: Students create their own scientific model demonstrating how muscles, bones and
-joints work together to create movement. Organise students into pairs and
-provide them with the necessary materials. It is best to use card that is about
-the same thickness of a cereal box.
-PART 1:
-[Plain Text] Make your own scientific model to show how muscles, bones and joints work
-together to create movement. 
-[Instruction Box] Materials
+**ACTIVITY 2:**
+Description: The purpose of this activity is to introduce students to the skeletal system and
+how it includes bones and joints. It should be noted that the skeletal system
+also includes cartilage and ligaments, but knowledge of these parts are beyond
+the scope of this unit.
 
-Each pair will need: 
+Students should be familiar with different bones in their body from the previous
+lesson, but the vocabulary 'joint' will be new to them. Explain that a joint is
+where two or more bones connect.
 
- * 2 rectangular pieces of card (cut from a cereal box works well) 
+Students now find some joints on their own bodies. Guide them to make a fist
+with their hand and feel the bumps on each finger, highlighting how these joints
+enable movement. Students then move other parts of their bodies to identify the
+elbow, knee, hip and shoulder joints.
+[Statement Box] Our skeletal system is in our body. The parts of our skeletal system include our
+bones and our joints.
 
- * 1 split pin
+A joint is where two or more bones connect. 
+[Plain Text] Find some joints. 
+[Instruction Box] Make a fist with your hand. 
 
- * 1 elastic band, cut in half
+The bumps on each finger are joints.
 
-For the class to share:
+These allow our fingers to move. 
+[Image] A closed fist with arrows pointing to three joints, each labelled "Joint."
+[Instruction Box] Move different parts of your body to find your:
 
- * Staplers
+ * Elbow joint
 
- * Hole punches
-[Image] Different materials: two pieces of cardboard, a stapler, a hole puncher, a blue rubber band that has been cut in half and a split pin.
+ * Knee joint
 
-PART 2:
-[Multiple Choice]
-  a) The elbow joint  ✓
-  b) The upper arm bone 
-  c) The lower arm bones
-  d) The bicep muscle
-  e) The tricep muscle
+ * Hip joint 
 
-[Statement Box] A noun group is a group of words that give more meaning to a noun. 
-[Instruction Box]  Now make your model. 
-
-PART 3:
-[Instruction Box] Steps 
-[Instruction Box] First, create an L-shape with your pieces of card. These represent your arm
-bones. 
-[Instruction Box] Next, punch a hole in each of the arm bones. Fasten the arm bones together using
-the split pin. This represents the elbow joint. 
-[Instruction Box] After this, attach one piece of the elastic band to the inside of arm bones.
-This represents the bicep muscle.
-[Instruction Box] Finally, attach the other piece of elastic band to the outside of the arm bones.
-This represents the tricep muscle.
-[Image] Two pieces of cardboard, arranged in an 'L' shape.
-[Image] The two pieces of cardboard now have a hole where they overlap, indicated by a hole punch, with a split pin to go into the hole.
-[Image] The two pieces of cardboard are now connected by a split pin. A stapler is needed to staple one half of the rubber band to the cardboard pieces, to represent the bicep muscle.
-[Image] The two pieces of cardboard are now connected by: a split pin, a cut rubber band representing the bicep, and another cut rubber band representing the tricep. Behind is a faded image of someone flexing their arm, showing what the materials are representing.
-[Statement Box] Some words link ideas together to help us understand when something should be
-done. These are called temporal connectives. 
-[Discussion] Identify the temporal connectives in the steps. 
-
-PART 4:
-[Plain Text] Complete the sentences to explain how bones, muscles and joints work to move
-your arm.
-
-Use your model to help you. 
-[Multiple Choice]
-  a) The elbow joint 
-  b) The bicep muscle  ✓
-  c) The lower arm bones
-
-[Multiple Choice]
-  a) the tricep muscle ✓
-  b) the elbow joint
-  c) the lower arm bones
-
-[Multiple Choice]
-  a) the tricep muscle
-  b) the bicep muscle 
-  c) the lower arm bones ✓
-
-[Image] Four blue icons of people lifting weights, showcasing strength and fitness.
+ * Shoulder joint
+[Image] Four children in playful poses against a light blue background.
 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
-Duration: 30 minutes
-Checkpoint: This activity is an opportunity to make an informal assessment of a student's
-ability to model how bones, muscles and joints work together to cause movement.
-Materials: Cardboard, Elastic band, Split pin, Hole punch, Stapler
+Duration: 5 minutes
 
-ACTIVITY 3:
-Activity ID: 2ea6FPQEwE4r
-Section ID: 1qo86Exh0ubv
+**ACTIVITY 3:**
 Description: This activity introduces two types of joints in our skeletal system.
 
 Read the information about ball-and-socket joints and draw students' attention
@@ -336,9 +179,7 @@ hinge joint. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 4:
-Activity ID: 4mh7vr3SsAwP
-Section ID: S9zntd4n4WXp
+**ACTIVITY 4:**
 Description: Explain that movement requires the skeletal system to work with the muscular
 system, which contains about 600 muscles.
 
@@ -380,9 +221,7 @@ There are about 600 muscles in our muscular system. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 5:
-Activity ID: bFfrpVHaijPW
-Section ID: ved1cpEyjR3R
+**ACTIVITY 5:**
 Description: Students are introduced to how a scientific model can help us understand how our
 muscular system and skeletal systems work together. You may need to explain the
 meaning of a scientific model. You could say:
@@ -410,9 +249,115 @@ PART 2:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 8:
-Activity ID: 6t0wv0Q9yz02
-Section ID: DqLQVqC6z5Wy
+**ACTIVITY 6:**
+Description: Students create their own scientific model demonstrating how muscles, bones and
+joints work together to create movement. Organise students into pairs and
+provide them with the necessary materials. It is best to use card that is about
+the same thickness of a cereal box.
+PART 1:
+[Plain Text] Make your own scientific model to show how muscles, bones and joints work
+together to create movement. 
+[Instruction Box] Materials
+
+Each pair will need: 
+
+ * 2 rectangular pieces of card (cut from a cereal box works well) 
+
+ * 1 split pin
+
+ * 1 elastic band, cut in half
+
+For the class to share:
+
+ * Staplers
+
+ * Hole punches
+[Image] Different materials: two pieces of cardboard, a stapler, a hole puncher, a blue rubber band that has been cut in half and a split pin.
+
+PART 2:
+[Instruction Box] Steps 
+[Instruction Box] First, create an L-shape with your pieces of card. These represent your arm
+bones. 
+[Instruction Box] Next, punch a hole in each of the arm bones. Fasten the arm bones together using
+the split pin. This represents the elbow joint. 
+[Instruction Box] After this, attach one piece of the elastic band to the inside of arm bones.
+This represents the bicep muscle.
+[Instruction Box] Finally, attach the other piece of elastic band to the outside of the arm bones.
+This represents the tricep muscle.
+[Image] Two pieces of cardboard, arranged in an 'L' shape.
+[Image] The two pieces of cardboard now have a hole where they overlap, indicated by a hole punch, with a split pin to go into the hole.
+[Image] The two pieces of cardboard are now connected by a split pin. A stapler is needed to staple one half of the rubber band to the cardboard pieces, to represent the bicep muscle.
+[Image] The two pieces of cardboard are now connected by: a split pin, a cut rubber band representing the bicep, and another cut rubber band representing the tricep. Behind is a faded image of someone flexing their arm, showing what the materials are representing.
+[Statement Box] Some words link ideas together to help us understand when something should be
+done. These are called temporal connectives. 
+[Discussion] Identify the temporal connectives in the steps. 
+
+PART 3:
+[Multiple Choice]
+  a) The elbow joint  ✓
+  b) The upper arm bone 
+  c) The lower arm bones
+  d) The bicep muscle
+  e) The tricep muscle
+
+[Statement Box] A noun group is a group of words that give more meaning to a noun. 
+[Instruction Box]  Now make your model. 
+
+PART 4:
+[Plain Text] Complete the sentences to explain how bones, muscles and joints work to move
+your arm.
+
+Use your model to help you. 
+[Multiple Choice]
+  a) The elbow joint 
+  b) The bicep muscle  ✓
+  c) The lower arm bones
+
+[Multiple Choice]
+  a) the tricep muscle ✓
+  b) the elbow joint
+  c) the lower arm bones
+
+[Multiple Choice]
+  a) the tricep muscle
+  b) the bicep muscle 
+  c) the lower arm bones ✓
+
+[Image] Four blue icons of people lifting weights, showcasing strength and fitness.
+
+Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
+Duration: 30 minutes
+Checkpoint: This activity is an opportunity to make an informal assessment of a student's
+ability to model how bones, muscles and joints work together to cause movement.
+Materials: Cardboard, Elastic band, Split pin, Hole punch, Stapler
+
+**ACTIVITY 7:**
+Description: Students read the information about prosthetics.
+PART 1:
+[Statement Box] Occasionally, a part of our skeletal system is missing. Prosthetic limbs can
+replace a missing leg, arm or hand. 
+
+They are made out of strong materials like plastic and metal, and work like the
+missing limb.
+[Plain Text] Read the information about prosthetics.
+[Instruction Box] Now complete the questions on the next page. 
+[Image] A young girl in a black tutu poses, showcasing her prosthetic leg.
+[Image] A young boy receives basketball shooting guidance from an older teenager on a court.
+[Image] Two children in a classroom, one with a prosthetic arm, using laptops and headphones.
+[Plain Text] The muscles in my upper arm control my prosthetic arm. 
+[Plain Text] My prosthetic leg allows me to run, jump and even play basketball. 
+[Plain Text] Every year, I have to go to the hospital to have a new prosthetic leg fitted
+because I am still growing. 
+
+PART 2:
+[Image] A person holds a black prosthetic hand, about to connect it to the prosthetic arm. - [object Object]
+[Image] A person extends out their prosthetic arm, about to touch a button on the hand. - [object Object]
+[Image] A person holding a coffee cup with a prosthetic arm, wearing a blue shirt. - [object Object]
+
+Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
+Duration: 15 minutes
+
+**ACTIVITY 8:**
 Description: Explain that joints can sometimes stop working properly due to extensive use,
 making movement painful. Describe how orthopaedic doctors can replace worn-out
 joints with artificial ones. Share the example of Tiger Woods, who had a knee
@@ -446,75 +391,6 @@ joint replacement and then went on to win another major tournament. 
 
 Differentiation: Black Diamond - The black diamond represents challenging activities. They require extended critical and creative thinking.
 Duration: 15 minutes
-
-ACTIVITY 7:
-Activity ID: Sp5Jpxvpkuyw
-Section ID: 2xaPCSDSG8vQ
-Description: Students read the information about prosthetics.
-PART 1:
-[Statement Box] Occasionally, a part of our skeletal system is missing. Prosthetic limbs can
-replace a missing leg, arm or hand. 
-
-They are made out of strong materials like plastic and metal, and work like the
-missing limb.
-[Plain Text] Read the information about prosthetics.
-[Instruction Box] Now complete the questions on the next page. 
-[Image] A young girl in a black tutu poses, showcasing her prosthetic leg.
-[Image] A young boy receives basketball shooting guidance from an older teenager on a court.
-[Image] Two children in a classroom, one with a prosthetic arm, using laptops and headphones.
-[Plain Text] The muscles in my upper arm control my prosthetic arm. 
-[Plain Text] My prosthetic leg allows me to run, jump and even play basketball. 
-[Plain Text] Every year, I have to go to the hospital to have a new prosthetic leg fitted
-because I am still growing. 
-
-PART 2:
-[Image] A person holds a black prosthetic hand, about to connect it to the prosthetic arm. - [object Object]
-[Image] A person extends out their prosthetic arm, about to touch a button on the hand. - [object Object]
-[Image] A person holding a coffee cup with a prosthetic arm, wearing a blue shirt. - [object Object]
-
-Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
-Duration: 15 minutes
-
-ACTIVITY 2:
-Activity ID: XuCMbr6CMtmk
-Section ID: MtiUjVEfyDve
-Description: The purpose of this activity is to introduce students to the skeletal system and
-how it includes bones and joints. It should be noted that the skeletal system
-also includes cartilage and ligaments, but knowledge of these parts are beyond
-the scope of this unit.
-
-Students should be familiar with different bones in their body from the previous
-lesson, but the vocabulary 'joint' will be new to them. Explain that a joint is
-where two or more bones connect.
-
-Students now find some joints on their own bodies. Guide them to make a fist
-with their hand and feel the bumps on each finger, highlighting how these joints
-enable movement. Students then move other parts of their bodies to identify the
-elbow, knee, hip and shoulder joints.
-[Statement Box] Our skeletal system is in our body. The parts of our skeletal system include our
-bones and our joints.
-
-A joint is where two or more bones connect. 
-[Plain Text] Find some joints. 
-[Instruction Box] Make a fist with your hand. 
-
-The bumps on each finger are joints.
-
-These allow our fingers to move. 
-[Image] A closed fist with arrows pointing to three joints, each labelled "Joint."
-[Instruction Box] Move different parts of your body to find your:
-
- * Elbow joint
-
- * Knee joint
-
- * Hip joint 
-
- * Shoulder joint
-[Image] Four children in playful poses against a light blue background.
-
-Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
-Duration: 5 minutes
 
 
 ## Lesson URL
