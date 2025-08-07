@@ -9,11 +9,13 @@
 
 **FOCUS QUESTION:** Do all animals have a skeleton? 
 
-**Focus question image:** A humpback whale breaching the ocean surface against a cloudy sky.
+**Focus question image:**
+A humpback whale breaching the ocean surface against a cloudy sky.
+
 **TEACHER READING NOTES:**
 In this lesson, students learn the difference between vertebrates and invertebrates and how this difference affects how different animals move. Students demonstrate their learning by completing either a Frayer model for vertebrates or invertebrates.  This lesson supports the following Stage 2 Creating written texts Science content point:  Use Tier 2 and Tier 3 vocabulary and noun groups to enhance the specificity of texts. This lesson also supports the following English outcomes:  EN2-VOCAB-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Begin the lesson by showing students the image of the whale breaching in the
 water. Ask students the focus question,
 
@@ -22,18 +24,18 @@ experiences with different animals, discussing which ones they think have a
 skeleton and why. Document and use the students’ responses to help gauge their
 current understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Describe the differences between vertebrates and invertebrates.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Understand that a vertebrate has a spine and an invertebrate does not.
 - Sort animals into whether they are a vertebrate or invertebrate.
 - Understand that some invertebrates have an external skeleton.
 - Explain how vertebrates and invertebrates move.
 
-TEACHER READING:
+**TEACHER READING:**
 All animals are classified as either vertebrates or invertebrates based on the
 presence or absence of a spine. Vertebrates have a backbone or spinal column,
 which is part of an internal skeleton that supports their body structure and
@@ -53,7 +55,7 @@ through water currents. Invertebrates with exoskeletons, like crabs and spiders,
 move by using jointed legs attached to their exoskeletons to crawl, climb, or
 scuttle.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * Do all animals have a skeleton?
@@ -61,7 +63,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions from the
 beginning of the lesson.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -69,15 +71,17 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 understanding of the difference between vertebrates and invertebrates.
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Begin by asking students who they think would win a game of hide and seek and
 why. Encourage them to share their ideas and reasoning to stimulate their
