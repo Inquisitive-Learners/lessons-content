@@ -1,14 +1,16 @@
 
-Year: Year 4,
-Lesson ID: 5885
-Lesson URL: http://localhost:3000/au/lesson/5885-the-force-of-moving-water
-Lesson name: The Force of Moving Water 
-Lesson duration: 100 minutes.
+**Year:** Year 4
 
-FOCUS QUESTION: How does moving water affect Earth's surface?
+**Lesson ID:** 5885
 
-Focus question image: Aerial view of lush green wetlands with winding waterways and distant coastal waters.
-TEACHER READING NOTES:
+**Lesson name:** The Force of Moving Water 
+
+**Lesson duration:** 100 minutes.
+
+**FOCUS QUESTION:** How does moving water affect Earth's surface?
+
+**Focus question image:** Aerial view of lush green wetlands with winding waterways and distant coastal waters.
+**TEACHER READING NOTES:**
 In this lesson, students explore how the force of moving water changes Earth’s surface by shaping landforms through erosion. They investigate whether more erosion occurs when water flows down a steeper slope by carrying out an experiment. They analyse their results and draw conclusions to answer the scientific question. 
 
 LESSON INTRODUCTION:
@@ -65,13 +67,13 @@ MATERIALS NEEDED:
 
   Materials: Book, Plastic tray, Sand, Water, Devices (ipad or laptop)
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
 2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Students read the Dreaming story Super Snake. Before reading, you may wish to
 prime students by telling them the questions you will be asking after they have
 read the story:
@@ -93,7 +95,7 @@ Earth's surface.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Read the purple box with the students, introducing the scientific perspective of
 how landforms are created.
 
@@ -120,7 +122,7 @@ Where did you see erosion happening? 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Students read about wind and water as causes of erosion, and then complete the
 Name, Describe, Act thinking routine with a classmate. Encourage them to note
 how each process carries rocks, soil and sand, creating new landforms. Have them
@@ -148,7 +150,7 @@ It is thought that water erosion played a part in the creation of The Twelve Apo
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students are introduced to the scientific question, 'Does the force of water
 cause more erosion when it flows down a steeper slope?' Students should work in
 groups of three or four to carry out their investigation. If three trays are not
@@ -226,7 +228,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 25 minutes
 Materials: Book, Plastic tray, Sand, Water, Devices (ipad or laptop)
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students should draw what they observed in each tray, clearly showing the path
 of the water and the amount of sand at the bottom (and perhaps also on the
 sides) of the tray. Prompt them to also note down any differences in the speed
@@ -244,7 +246,7 @@ video to see this.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 15 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students should use their observations to answer the following questions:
 
  * Which tray showed the most erosion? Why?
@@ -269,7 +271,7 @@ Duration: 15 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of a student's
 ability to describe how the force produced by moving water causes erosion.
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Students take their learning further by planning their own investigation related
 to erosion. They can choose either of the questions below or can form a question
 of their own:
@@ -295,7 +297,7 @@ of your own. 
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 20 minutes
 
-ACTIVITY 8:
+**ACTIVITY 8:**
 Description: Students learn how motorboats and jet skis affect erosion, consider different
 perspectives, and suggest solutions that lessen the impact on shorelines.
 [Statement Box] Motorboats and jet skis cause waves that erode the shoreline. The bigger the
