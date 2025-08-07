@@ -9,31 +9,33 @@
 
 **FOCUS QUESTION:** Why do we group data?
 
-**Focus question image:** Two beagles playfully walk through a park covered in autumn leaves.
+**Focus question image:**
+Two beagles playfully walk through a park covered in autumn leaves.
+
 **TEACHER READING NOTES:**
 In this lesson, students are introduced to how we can group data. Using a pond habitat as the context, students observe living things within the habitat and group them in different ways. They learn that we group data to help us find out information, before collecting and grouping their own data in a local habitat.  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Begin the lesson by showing students the image. To ensure they have remembered
 what data is from the previous lesson, ask them what data about living things
 they might collect if they were in the park. Then pose the focus question, 'Why
 do we group data?' Record students’ responses to help gauge their current
 understanding of the topic and identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Collect, record and group data about animals in a local habitat.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Identify animals in a habitat.
 - Record observations of animals using words or pictures.
 - Group collected data based on a chosen characteristic or behaviour.
 - Explain why they have grouped their data in a particular way.
 
-TEACHER READING:
+**TEACHER READING:**
 Habitats
 
 Habitats are specific places where animals and plants live. These places provide
@@ -47,7 +49,7 @@ Grouping data is a key scientific skill and allows students to identify patterns
 and relationships. There can be multiple ways to group the same data depending
 on the information you want to find out.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * Why do we group data?
@@ -55,7 +57,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -63,21 +65,23 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This is an opportunity to make an informal assessment of a student's ability to
 collect, record and group data about animals in a local habitat.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Clipboard, Hand lens, Paper, Colour pencil, Pencil
 
   Materials: Sticky note
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: As a class, read the eBook Who Lives Here? After reading, ask students:
 
