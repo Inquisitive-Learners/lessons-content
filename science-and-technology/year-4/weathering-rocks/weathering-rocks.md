@@ -1,35 +1,39 @@
 
-Year: Year 4,
-Lesson ID: 5884
-Lesson URL: http://localhost:3000/au/lesson/5884-weathering-rocks
-Lesson name: Weathering Rocks
-Lesson duration: 100 minutes.
+**Year:** Year 4
 
-FOCUS QUESTION: How might Earth's surface change slowly?
+**Lesson ID:** 5884
 
-Focus question image: Starlit sky above rock formations in a sandy landscape.
-TEACHER READING NOTES:
+**Lesson name:** Weathering Rocks
+
+**Lesson duration:** 100 minutes.
+
+**FOCUS QUESTION:** How might Earth's surface change slowly?
+
+**Focus question image:**
+Starlit sky above rock formations in a sandy landscape.
+
+**TEACHER READING NOTES:**
 In this lesson, students investigate how Earth's surface changes slowly over time by examining the process of weathering. Students explore the natural forces of water, wind and plants through hands-on activities, discovering how these agents gradually break down rocks. They demonstrate their understanding by describing these processes in a checkpoint activity, using causal language to explain each one.  
  This lesson supports the following Stage 2 Creating written texts Science content point:  Use compound and complex sentences to sequence connected ideas into paragraphs when explaining cause and effect The lesson also supports the following English outcome:  EN2-CWT-02
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the picture and ask them to describe what they see. Some students
 may recognise this as the Three Sisters in the Blue Mountains. Read the focus
 question, 'How might Earth's surface change slowly?' Document and use the
 students’ responses to the question to help gauge their current understanding of
 the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Explain how the forces produced by wind, water and plants weather rocks.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Understand that rocks become weathered over time.
 - Name three ways that rocks can become weathered.
 - Write a paragraph to explain how wind, water and living things weather rocks.
 
-TEACHER READING:
+**TEACHER READING:**
 The word 'weathering' does not describe atmospheric weather conditions. It is a
 specific term used to describe all the different ways that rocks on the surface
 of Earth are broken down by ice, water, wind, temperature changes, plants and
@@ -40,7 +44,7 @@ surface. While they work together they are distinct processes: weathering
 changes the rock's structure, while erosion moves the broken pieces,
 redistributing them across the landscape.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * How might Earth's surface change slowly?
@@ -48,7 +52,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions from the
 beginning of the lesson.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -56,14 +60,14 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 understanding of weathering.
 This activity is an opportunity to make an informal assessment of a student's
 ability to explain how the force produced by wind, water and plants weathers
 rocks.
 
-EXPLANATIONS:
+**EXPLANATIONS:**
 Use the statement box to introduce the concept of weathering. Distribute a rock
 to each student and ask them to examine it closely, noting things like colour,
 texture and hardness. Use the questions on the page to support the exploration.
@@ -115,21 +119,23 @@ what they think caused the cubes/rocks to change. Explain that even though the
 cubes/rocks started to break up in only a few seconds or minutes, this process
 takes many, many years to occur in nature. 
 
-PRACTICAL TIPS:
+**PRACTICAL TIPS:**
 The teacher may wish to do this as a whole-class investigation.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Rocks
 
   Materials: Timer, Sugar cube, Container (small), Paper (black construction)
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+
+**ACTIVITY 1:**
 Description: To introduce weathering to students in an engaging and relatable way, have them
 use the slider to view the ageing process and discuss the questions on the page.
 [Plain Text] Drag the slider to see what happens.
@@ -140,7 +146,7 @@ use the slider to view the ageing process and discuss the questions on the page.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Use the purple box to introduce the concept of weathering. Distribute a rock to
 each student and ask them to examine it closely, noting things like colour,
 texture and hardness. Use the questions on the page to support the exploration.
@@ -165,7 +171,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 10 minutes
 Materials: Rocks
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Explain that rocks become weathered over time, just like the man's face in the
 sliding visual. Introduce the scientific investigation, which requires students
 to explore weathering by placing some sugar cubes or soft rocks into a
@@ -210,7 +216,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 20 minutes
 Materials: Timer, Sugar cube, Container (small), Paper (black construction)
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Reiterate to students that the cubes/rocks knocking together caused them to
 weather, before introducing the interactive. This interactive explains the three
 key agents of weathering: moving water, wind and plants. Students can explore
@@ -232,7 +238,7 @@ Challenge thinking routine. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 15 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: In this activity students are required to use the sentence level skills they
 learnt in lessons 2 and 3 to write a paragraph to explain how wind, moving water
 and plants weather rocks.
@@ -272,7 +278,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to explain how the force produced by wind, water and plants weathers
 rocks.
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Have students read the statement box, which explains that natural forces can
 cause fascinating landforms. Then direct students to use the provided links to
 research Karlu Karlu (Devils Marbles) and Wave Rock. Students then complete a
@@ -287,7 +293,7 @@ Wave Rock are examples of this.
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 30 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Explain that geologists refer to water, wind and plants as the
 
 agents of weathering. Have students apply their creative thinking to create a
