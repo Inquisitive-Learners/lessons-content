@@ -1,14 +1,16 @@
 
-Year: Year 3,
-Lesson ID: 5224
-Lesson URL: http://localhost:3000/au/lesson/5224-limbo!
-Lesson name: Limbo!
-Lesson duration: 30 minutes.
+**Year:** Year 3
 
-FOCUS QUESTION: How can we find out who is the best at limbo?
+**Lesson ID:** 5224
 
-Focus question image: Two girls play limbo under a blue rope, while a woman encourages them in a gym setting.
-TEACHER READING NOTES:
+**Lesson name:** Limbo!
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** How can we find out who is the best at limbo?
+
+**Focus question image:** Two girls play limbo under a blue rope, while a woman encourages them in a gym setting.
+**TEACHER READING NOTES:**
 In this lesson, students will learn to answer a scientific question by carrying out an experiment. With support from the teacher, students plan and conduct a fair test to find out the answer to the scientific question, Are people with shorter bones in their lower legs better at the limbo?  They analyse their results and then evaluate their experiment.   This lesson supports the following Stage 2 Creating written texts Science content point:  Use temporal and causal connectives and labelled diagrams when explaining the process of conducting a fair test. This lesson also supports the following English outcomes:  EN2-OLC-01 EN2-VOCAB-01
 
 LESSON INTRODUCTION:
@@ -63,13 +65,13 @@ MATERIALS NEEDED:
 
   Materials: Skipping rope, Metre ruler, Measuring tape
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
 NSW Syllabus:
 1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
 2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+**ACTIVITY 1:**
 Description: Begin by presenting students with the video featuring Shrishti breaking world
 records in limbo skating.
 PART 1:
@@ -90,7 +92,7 @@ records.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Introduce students to the concept of a scientific question by explaining that it
 is a question that can be answered through investigation or experimentation.
 
@@ -113,7 +115,7 @@ or an experiment. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Explain to students that they are going to investigate the scientific question:
 Are people with shorter bones in their lower legs better at limbo?
 PART 1:
@@ -173,7 +175,7 @@ Differentiation: Green Circle - The green circle represents core activities. The
 Duration: 30 minutes
 Materials: Skipping rope, Metre ruler, Measuring tape
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Students complete the results table using the data collected from their
 experiment. Encourage students to analyse the data to identify any trends or
 patterns that indicate a relationship between the length of the lower leg bone
@@ -202,7 +204,7 @@ To support their analysis, they should answer the following questions:
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 10 minutes
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Encourage students to write a conclusion summarising what they have discovered
 through their experiment. Ask them to reflect on whether their results support
 their initial prediction and to provide explanations for their findings. Invite
@@ -230,7 +232,7 @@ Duration: 15 minutes
 Checkpoint: This activity is an opportunity to make an informal assessment of student's
 ability to answer a scientific question by carrying out an experiment.
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Introduce students to the concept of hypermobility, explaining that athletes
 like Shrishti are often hypermobile, meaning their joints can move more than
 most people's, allowing them to get into difficult positions. Given that
@@ -260,7 +262,7 @@ move more than most people, allowing you to get into difficult positions. 
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 15 minutes
 
-ACTIVITY 7:
+**ACTIVITY 7:**
 Description: Present students with information about the average height of NBA basketball
 players and the advertisement from The Skyscrapers basketball team seeking tall
 players. Ask them to critically evaluate whether the team should be allowed to
