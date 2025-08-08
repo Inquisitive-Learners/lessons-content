@@ -9,13 +9,15 @@
 
 **FOCUS QUESTION:** What might change in a habitat?
 
-**Focus question image:** Pink and white water lilies float on a tranquil pond surrounded by green lily pads.
+**Focus question image:**
+Pink and white water lilies float on a tranquil pond surrounded by green lily pads.
+
 **TEACHER READING NOTES:**
 In this lesson, students observe how living things in a habitat change over time. They are shown the same habitat at two different points in time and asked to identify visible changes. They collect and represent this data and use it to describe the changes they have observed.  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the focus question, 'What might change in a
 habitat?' Encourage students to reflect on changes they have noticed in their
 local environment, such as leaves turning brown or new creatures appearing, and
@@ -23,12 +25,12 @@ discuss why these changes happen. Document and use students’ responses to help
 gauge their current understanding of the topic and to identify any
 misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Collect and represent data to identify and describe changes in living things
 - within a habitat.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Identify things that have changed and things that have stayed the same in a
 - habitat over time.
@@ -38,7 +40,7 @@ By the end of this lesson, students will:
 - Explain what a data display tells us about changes in the number of living
 - things.
 
-TEACHER READING:
+**TEACHER READING:**
 Identifying and describing changes in living things within a habitat involves
 careful observation and comparison of 'before' and 'now' states to notice what
 has changed and what has remained constant.
@@ -47,7 +49,7 @@ A way of representing data is through a data display. Data displays include
 graphs, tables, maps and charts. Showing data this way makes it easy to
 understand and allows us to identify patterns and changes.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What might change in a habitat?
@@ -55,7 +57,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and Tier 3 words,
@@ -63,18 +65,20 @@ which are low-frequency, subject-specific words. The instruction for these kinds
 of words should focus on building content knowledge within the lesson. The
 vocabulary words appear in bold within the lesson. 
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This is an opportunity to make an informal assessment of a students'
 
 ability to represent data and use it to describe changes in living things within
 a habitat.
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 2. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: This activity introduces the core skill of comparing in an engaging way.
 Students are presented with a Spot the Difference task and then asked to Think,
