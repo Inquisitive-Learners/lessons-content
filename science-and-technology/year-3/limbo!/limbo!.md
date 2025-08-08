@@ -9,11 +9,13 @@
 
 **FOCUS QUESTION:** How can we find out who is the best at limbo?
 
-**Focus question image:** Two girls play limbo under a blue rope, while a woman encourages them in a gym setting.
+**Focus question image:**
+Two girls play limbo under a blue rope, while a woman encourages them in a gym setting.
+
 **TEACHER READING NOTES:**
 In this lesson, students will learn to answer a scientific question by carrying out an experiment. With support from the teacher, students plan and conduct a fair test to find out the answer to the scientific question, Are people with shorter bones in their lower legs better at the limbo?  They analyse their results and then evaluate their experiment.   This lesson supports the following Stage 2 Creating written texts Science content point:  Use temporal and causal connectives and labelled diagrams when explaining the process of conducting a fair test. This lesson also supports the following English outcomes:  EN2-OLC-01 EN2-VOCAB-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Begin the lesson by showing students the image of two children playing limbo.
 Ask students if they have ever played a game of limbo and what they had to do.
 
@@ -22,18 +24,18 @@ Ask the focus question, 'How might we find out who is the best at limbo?'
 Document and use the students’ responses to help gauge their current
 understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students will be able to:
 - Answer a a scientific question by carrying out an experiment.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Identify a scientific question.
 - Follow steps to carry out an experiment.
 - Take measurements and record these on a table.
 - Draw conclusions from the results of an experiment.
 
-TEACHER READING:
+**TEACHER READING:**
 A scientific investigation involves asking a question that can be tested, making
 a prediction, conducting an experiment and drawing conclusions based on the
 results. A fair test means changing only one variable at a time while keeping
@@ -41,7 +43,7 @@ all other conditions the same. This ensures that the results are due to the
 variable being tested, allowing for accurate conclusions. It should be noted
 that the use of the term 'variable' is not required at this year level.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * How can we find out who is the best at the limbo?
@@ -49,7 +51,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -57,20 +59,22 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of student's
 ability to answer a scientific question by carrying out an experiment.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Skipping rope, Metre ruler, Measuring tape
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
 2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: Begin by presenting students with the video featuring Shrishti breaking world
 records in limbo skating.
