@@ -1,30 +1,34 @@
 
-Year: Year 1,
-Lesson ID: 6580
-Lesson URL: http://localhost:3000/au/lesson/6580-investigating-changes-to-a-plant
-Lesson name: Investigating Changes to a Plant
-Lesson duration: 30 minutes.
+**Year:** Year 1
 
-FOCUS QUESTION: How does a plant change as it grows?
+**Lesson ID:** 6580
 
-Focus question image: Tall bean plants with green leaves and pods against a clear blue sky.
-TEACHER READING NOTES:
+**Lesson name:** Investigating Changes to a Plant
+
+**Lesson duration:** 30 minutes.
+
+**FOCUS QUESTION:** How does a plant change as it grows?
+
+**Focus question image:**
+Tall bean plants with green leaves and pods against a clear blue sky.
+
+**TEACHER READING NOTES:**
 In this lesson, students explore how a plant grows and changes over time. By conducting a scientific investigation into the growth of a bean seed, students observe and collect data to describe how their plant changes. Students demonstrate their understanding by analysing their results and answering the scientific question, ‘How tall does a bean plant grow in 10 days?’  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01 
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show the students the image of the climbing bean plants and ask them the focus
 question, 'How does a plant change as it grows?' Encourage them to share their
 ideas and experiences about how plants grow and the changes they observe in
 plants around them. Document and use the students’ responses to help gauge their
 current understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Observe and collect data to describe how a plant changes as it grows.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Identify that plants change over time.
 - Plant a seed and make an initial observation (day 1 data).
@@ -32,7 +36,7 @@ By the end of this lesson, students will:
 - plant.
 - Describe some changes a plant makes as it grows.
 
-TEACHER READING:
+**TEACHER READING:**
 Plants grow through a process called germination, where a seed begins to sprout
 and develop into a new plant. This involves the emergence of roots, stems and
 leaves as the plant utilises water, sunlight and nutrients from the soil.
@@ -40,7 +44,7 @@ leaves as the plant utilises water, sunlight and nutrients from the soil.
 Measuring plant growth involves tracking changes in height, leaf number and
 overall development over time.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * How does a plant change as it grows?
@@ -48,7 +52,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and Tier 3 words,
@@ -56,11 +60,11 @@ which are low-frequency, subject-specific words. The instruction for these kinds
 of words should focus on building content knowledge within the lesson. The
 vocabulary words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to observe and collect data to describe how a plant changes as it grows.
 
-EXPLANATIONS:
+**EXPLANATIONS:**
 Present the image of the leafy plant with a child's drawing of a castle in the
 background. Encourage students to observe the image carefully and consider which
 fairy tale it might represent.
@@ -111,17 +115,19 @@ experiment to test how high and fast a bean plant really grows. Guide students
 to think about the steps involved in planning an experiment, helping them to
 understand the scientific process.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Disposable plastic cup, Permanent markers, Metal spoon, Skewers, Spray bottle, Soil, Bean seed, Linking blocks
 
-LESSON OUTCOMES:
+**LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 2. ST1-SCI-01 (measures and describes changes in living things, materials, movement, Earth and the sky)
 
-DETAILED ACTIVITIES:
-ACTIVITY 1:
+**DETAILED ACTIVITIES:**
+
+**ACTIVITY 1:**
 Description: Present the image of the leafy plant with a child's drawing of a castle in the
 background. Encourage students to observe the image carefully and consider what
 fairy tale it might represent.
@@ -133,7 +139,7 @@ fairy tale it might represent.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 2:
+**ACTIVITY 2:**
 Description: Students watch the video extract from Jack and the Beanstalk. After watching,
 ask students:
 
@@ -150,7 +156,7 @@ Explain your thinking.
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 3:
+**ACTIVITY 3:**
 Description: Explain that scientists ask questions, do investigations and collect data to
 find answers to their questions. Direct students' attention to the image of the
 scientist, plant and toy blocks. Ask them the following questions:
@@ -173,7 +179,7 @@ Select the correct label for each part of the drawing. 
 Differentiation: Green Circle - The green circle represents core activities. They are central to the focus question or learning intention and include surface, deeper and transfer of learning.
 Duration: 5 minutes
 
-ACTIVITY 4:
+**ACTIVITY 4:**
 Description: Read the list of materials needed to complete the investigation and assist
 students to collect the materials they will need. The beans will grow more
 quickly if they are soaked in water overnight.
@@ -232,7 +238,7 @@ Checkpoint: This activity is an opportunity to make an informal assessment of a 
 ability to observe and collect data to describe how a plant changes as it grows.
 Materials: Disposable plastic cup, Permanent markers, Metal spoon, Skewers, Spray bottle, Soil, Bean seed, Linking blocks
 
-ACTIVITY 5:
+**ACTIVITY 5:**
 Description: Students watch the time-lapse video of a plant growing. Draw their attention to
 how the plant grows in one direction and then another, and ask why they think
 the plant does this.
@@ -247,7 +253,7 @@ grow.
 Differentiation: Blue Square - The blue square represents deeper learning activities. They take thinking to the next level and require more time, effort and sometimes research.
 Duration: 15 minutes
 
-ACTIVITY 6:
+**ACTIVITY 6:**
 Description: Students learn bamboo is the fastest-growing plant. They are asked to draw or
 write some things that can be made from bamboo, conducting some research if
 needed.
