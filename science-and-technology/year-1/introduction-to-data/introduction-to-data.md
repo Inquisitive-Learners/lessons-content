@@ -9,29 +9,31 @@
 
 **FOCUS QUESTION:** What is data?
 
-**Focus question image:** Two children crouch in a sunlit garden, exploring the grass with a magnifying glass.
+**Focus question image:**
+Two children crouch in a sunlit garden, exploring the grass with a magnifying glass.
+
 **TEACHER READING NOTES:**
 In this lesson, students are introduced to what data is and why it is helpful. They learn that data can be words and pictures, and explore the data that could be collected within a park context.  
  This lesson supports the following Stage 1 Creating written texts Science content point:  Use nouns, noun groups and verbs to create notes, annotations and labels to document observations 
  The lesson also supports the following English outcome:  EN1-CWT-01
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask them what the children might be doing and why.
 Pose the focus question, 'What is data?' Record students’ responses to help
 gauge their current understanding of the topic and identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Recognise what data is and why it is helpful.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Understand that data helps us remember what we have observed.
 - Know that data can be words or pictures.
 - Identify and suggest examples of data that could be recorded about living
 - things in a park.
 
-TEACHER READING:
+**TEACHER READING:**
 Data is any kind of information that can be collected or recorded. Data can be
 words, numbers, pictures, sounds and symbols. Scientists collect and record data
 for a number of reasons. These include to:
@@ -49,7 +51,7 @@ for a number of reasons. These include to:
 In this lesson, the focus is on collecting and recording data as pictures and
 words in order to remember what has been observed.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What is data?
@@ -57,7 +59,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and Tier 3 words,
@@ -65,15 +67,17 @@ which are low-frequency, subject-specific words. The instruction for these kinds
 of words should focus on building content knowledge within the lesson. The
 vocabulary words appear in bold within the lesson. 
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This is an opportunity to make an informal assessment of a student's ability to
 recognise what data is and why it is helpful.
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST1-DAT-01 (collects, represents and uses data to identify patterns and relationships)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: The lesson begins with students playing a memory game. They are asked to look at
 eight nouns and are given 60 seconds to remember as many as they can.
