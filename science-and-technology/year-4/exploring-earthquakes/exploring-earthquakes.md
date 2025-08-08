@@ -9,28 +9,30 @@
 
 **FOCUS QUESTION:** What might cause Earth's surface to change quickly?
 
-**Focus question image:** A road damaged by an earthquake, exposing deep cracks and uneven surfaces.
+**Focus question image:**
+A road damaged by an earthquake, exposing deep cracks and uneven surfaces.
+
 **TEACHER READING NOTES:**
 In this lesson, students investigate how the sudden force of an earthquake can change Earth’s surface. They learn how an earthquake happens and create a model using Mars bars to demonstrate this. Students then dive deeper into the effect of earthquakes on the landscape, looking specifically at Japan’s Noto Peninsula earthquake in 2024. They demonstrate their understanding by writing sentences to explain the effect of the earthquake using the conjunction 'so'.  
  This lesson supports the following Stage 2 Creating written texts Science content point:  Use compound and complex sentences to sequence connected ideas into paragraphs when explaining cause and effect The lesson also supports the following English outcome:  EN2-CWT-02
 
-LESSON INTRODUCTION:
+**LESSON INTRODUCTION:**
 Show students the image and ask the question, 'What might cause Earth’s surface
 to change quickly?' Document and use the students’ responses to help gauge their
 current understanding of the topic and to identify any misconceptions.
 
-LEARNING INTENTIONS:
+**LEARNING INTENTIONS:**
 Students are learning to:
 - Describe how earthquakes can change the landscape.
 
-SUCCESS CRITERIA:
+**SUCCESS CRITERIA:**
 By the end of this lesson, students will:
 - Understand that the movement of tectonic plates causes earthquakes.
 - Model what happens to the land during an earthquake.
 - Use a casual connective to help describe the effect of an earthquake on the
 - landscape.
 
-TEACHER READING:
+**TEACHER READING:**
 Earth’s crust is divided into giant, interacting slabs of rock called tectonic
 plates. These plates are in constant motion, driven by forces beneath Earth’s
 surface.
@@ -39,7 +41,7 @@ Earthquakes happen when tension along plate boundaries or faults is released in
 a sudden movement. This release sends shock waves through Earth’s crust, causing
 the ground to shake.
 
-ASSESSMENT GUIDANCE:
+**ASSESSMENT GUIDANCE:**
 As a class activity, revisit the focus question:
 
  * What might cause Earth's surface to change quickly?
@@ -47,7 +49,7 @@ As a class activity, revisit the focus question:
 Ask students to share their ideas, addressing any misconceptions that still
 exist.
 
-NOTES:
+**NOTES:**
 Vocabulary Words
 
 The vocabulary words in this lesson are defined as Tier 2 and 3 words, which are
@@ -55,19 +57,21 @@ low-frequency, subject-specific words. The instruction for these kinds of words
 should focus on building content knowledge within the lesson. The vocabulary
 words appear in bold within the lesson.
 
-ASSESSMENT CHECKPOINTS:
+**ASSESSMENT CHECKPOINTS:**
 This activity is an opportunity to make an informal assessment of a student's
 ability to describe how earthquakes change the landscape.
 
-MATERIALS NEEDED:
+**MATERIALS NEEDED:**
 
   Materials: Ipad, Knife - plastic, Mini chocolate bar
 
 **LESSON OUTCOMES:**
+
 NSW Syllabus:
 1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
+
 **ACTIVITY 1:**
 Description: To ignite curiosity in the lesson, students watch an animation showing every
 recorded earthquake between 2000 and 2021. At this stage do not tell the
