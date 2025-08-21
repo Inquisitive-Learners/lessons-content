@@ -72,8 +72,8 @@ ability to describe how the force produced by moving water causes erosion.
 **LESSON OUTCOMES:**
 
 NSW Syllabus:
-1. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
-2. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
+1. ST2-PQU-01 (poses questions to create fair tests that investigate the effects of energy on living things and physical systems)
+2. ST2-SCI-01 (uses information to investigate the solar system and the effects of energy on living, physical and geological systems)
 
 **DETAILED ACTIVITIES:**
 
