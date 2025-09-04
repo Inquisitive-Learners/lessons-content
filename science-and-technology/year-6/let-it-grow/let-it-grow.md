@@ -266,29 +266,29 @@ giant underwater kelp forest.
 **LESSON OUTCOMES:**
 
 Australian National Curriculum:
-1. ACSHE100(ACARA V8.4) (Scientific knowledge is used to solve problems and inform personal and community decisions)
+1. ACSIS232(ACARA V8.4) (With guidance, pose clarifying questions and make predictions about scientific investigations)
 2. ACSSU094(ACARA V8.4) (The growth and survival of living things are affected by physical conditions of their environment)
 3. ACSIS110(ACARA V8.4) (Communicate ideas, explanations and processes using scientific representations in a variety of ways, including multi-modal texts)
-4. ACSIS232(ACARA V8.4) (With guidance, pose clarifying questions and make predictions about scientific investigations)
+4. ACSHE100(ACARA V8.4) (Scientific knowledge is used to solve problems and inform personal and community decisions)
 5. ACSIS103(ACARA V8.4) (Identify, plan and apply the elements of scientific investigations to answer questions and solve problems using equipment and materials safely and identifying potential risks)
-6. AC9S6U01(ACARA V9.0) (investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by changing physical conditions)
-7. AC9S6I01(ACARA V9.0) (pose investigable questions to identify patterns and test relationships and make reasoned predictions)
-8. AC9S6I02(ACARA V9.0) (plan and conduct repeatable investigations to answer questions, including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place)
-9. AC9S6I04(ACARA V9.0) (construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships)
-10. AC9S6H02(ACARA V9.0) (investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions)
+6. AC9S6I04(ACARA V9.0) (construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships)
+7. AC9S6U01(ACARA V9.0) (investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by changing physical conditions)
+8. AC9S6H02(ACARA V9.0) (investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions)
+9. AC9S6I01(ACARA V9.0) (pose investigable questions to identify patterns and test relationships and make reasoned predictions)
+10. AC9S6I02(ACARA V9.0) (plan and conduct repeatable investigations to answer questions, including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place)
 11. AC9S6I03(ACARA V9.0) (use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate)
 NSW Syllabus:
-1. ST3-4LW-S (examines how the environment affects the growth, survival and adaptation of living things)
-2. ST3-1WS-S (plans and conducts scientific investigations to answer testable questions, and collects and summarises data to communicate conclusions)
+1. ST3-1WS-S (plans and conducts scientific investigations to answer testable questions, and collects and summarises data to communicate conclusions)
+2. ST3-4LW-S (examines how the environment affects the growth, survival and adaptation of living things)
 Victorian Curriculum:
 1. VCSIS088 (Communicate ideas and processes using evidence to develop explanations of events and phenomena and to identify simple cause-and-effect relationships)
 2. VCSSU073 (Scientific understandings, discoveries and inventions are used to inform personal and community decisions and to solve problems that directly affect people’s lives)
 3. VCSIS082 (With guidance, pose questions to clarify practical problems or inform a scientific investigation, and predict what the findings of an investigation might be based on previous experiences or general rules)
 4. VCSSU075 (The growth and survival of living things are affected by the physical conditions of their environment)
-5. VC2S6U01 (habitats can be described by their physical conditions; changing the physical conditions of a habitat, including by human activity, may affect the growth and survival of organisms)
-6. VC2S6I02 (repeatable scientific investigations to answer questions can be planned and conducted, including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests, considering potential risks, planning for the safe and ethical use of equipment and materials, and obtaining permissions for investigations conducted on Country and Place or in protected areas)
+5. VC2S6I02 (repeatable scientific investigations to answer questions can be planned and conducted, including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests, considering potential risks, planning for the safe and ethical use of equipment and materials, and obtaining permissions for investigations conducted on Country and Place or in protected areas)
+6. VC2S6I04 (data and information can be organised and processed to show patterns, trends and relationships by constructing representations including tables, graphs and visual or physical models)
 7. VC2S6I03 (equipment can be used to observe, generate, measure and record data with reasonable precision for repeated measurements, using digital tools as appropriate)
-8. VC2S6I04 (data and information can be organised and processed to show patterns, trends and relationships by constructing representations including tables, graphs and visual or physical models)
+8. VC2S6U01 (habitats can be described by their physical conditions; changing the physical conditions of a habitat, including by human activity, may affect the growth and survival of organisms)
 9. VC2S6I01 (investigable questions and reasoned predictions can be used in guiding investigations to identify patterns and test relationships)
 
 **DETAILED ACTIVITIES:**
