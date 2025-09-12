@@ -228,22 +228,22 @@ Fair Testing:
 **LESSON OUTCOMES:**
 
 Australian National Curriculum:
-1. ACSIS218(ACARA V8.4) (Compare data with predictions and use as evidence in developing explanations)
-2. ACSHE081(ACARA V8.4) (Science involves testing predictions by gathering data and using evidence to develop explanations of events and phenomena and reflects historical and cultural contributions)
-3. ACSIS087(ACARA V8.4) (Decide variables to be changed and measured in fair tests, and observe measure and record data with accuracy using digital technologies as appropriate)
-4. ACSIS086(ACARA V8.4) (Identify, plan and apply the elements of scientific investigations to answer questions and solve problems using equipment and materials safely and identifying potential risks)
-5. ACSIS231(ACARA V8.4) (With guidance, pose clarifying questions and make predictions about scientific investigations)
-6. ACSIS091(ACARA V8.4) (Reflect on and suggest improvements to scientific investigations)
+1. ACSIS086(ACARA V8.4) (Identify, plan and apply the elements of scientific investigations to answer questions and solve problems using equipment and materials safely and identifying potential risks)
+2. ACSIS231(ACARA V8.4) (With guidance, pose clarifying questions and make predictions about scientific investigations)
+3. ACSIS091(ACARA V8.4) (Reflect on and suggest improvements to scientific investigations)
+4. ACSIS218(ACARA V8.4) (Compare data with predictions and use as evidence in developing explanations)
+5. ACSHE081(ACARA V8.4) (Science involves testing predictions by gathering data and using evidence to develop explanations of events and phenomena and reflects historical and cultural contributions)
+6. ACSIS087(ACARA V8.4) (Decide variables to be changed and measured in fair tests, and observe measure and record data with accuracy using digital technologies as appropriate)
 NSW Syllabus:
 1. ST3-1WS-S (plans and conducts scientific investigations to answer testable questions, and collects and summarises data to communicate conclusions)
 2. ST3-6MW-S (explains the effect of heat on the properties and behaviour of materials)
 Victorian Curriculum:
-1. VCSIS082 (With guidance, pose questions to clarify practical problems or inform a scientific investigation, and predict what the findings of an investigation might be based on previous experiences or general rules)
-2. VCSSU073 (Scientific understandings, discoveries and inventions are used to inform personal and community decisions and to solve problems that directly affect people’s lives)
-3. VCSIS086 (Compare data with predictions and use as evidence in developing explanations)
-4. VCSIS084 (Decide which variables should be changed, measured and controlled in fair tests and accurately observe, measure and record data)
-5. VCSIS085 (Construct and use a range of representations, including tables and graphs, to record, represent and describe observations, patterns or relationships in data)
-6. VCSIS087 (Suggest improvements to the methods used to investigate a question or solve a problem)
+1. VCSIS084 (Decide which variables should be changed, measured and controlled in fair tests and accurately observe, measure and record data)
+2. VCSIS085 (Construct and use a range of representations, including tables and graphs, to record, represent and describe observations, patterns or relationships in data)
+3. VCSIS087 (Suggest improvements to the methods used to investigate a question or solve a problem)
+4. VCSIS082 (With guidance, pose questions to clarify practical problems or inform a scientific investigation, and predict what the findings of an investigation might be based on previous experiences or general rules)
+5. VCSSU073 (Scientific understandings, discoveries and inventions are used to inform personal and community decisions and to solve problems that directly affect people’s lives)
+6. VCSIS086 (Compare data with predictions and use as evidence in developing explanations)
 
 **DETAILED ACTIVITIES:**
 
