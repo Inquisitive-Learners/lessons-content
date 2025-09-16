@@ -114,18 +114,18 @@ Australian National Curriculum:
 1. ACSSU018(ACARA V8.4) (Everyday materials can be physically changed in a variety of ways)
 2. ACSIS027(ACARA V8.4) (Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions)
 3. ACSIS025(ACARA V8.4) (Participate in guided investigations to explore and answer questions)
-4. ACSIS029(ACARA V8.4) (Represent and communicate observations and ideas in a variety of ways)
-5. ACSHE021(ACARA V8.4) (Science involves observing, asking questions about, and describing changes in, objects and events)
-6. ACSIS024(ACARA V8.4) (Pose and respond to questions, and make predictions about familiar objects and events)
-7. ACSHE022(ACARA V8.4) (People use science in their daily lives, including when caring for their environment and living things)
+4. ACSIS024(ACARA V8.4) (Pose and respond to questions, and make predictions about familiar objects and events)
+5. ACSHE022(ACARA V8.4) (People use science in their daily lives, including when caring for their environment and living things)
+6. ACSIS029(ACARA V8.4) (Represent and communicate observations and ideas in a variety of ways)
+7. ACSHE021(ACARA V8.4) (Science involves observing, asking questions about, and describing changes in, objects and events)
 NSW Syllabus:
 1. ST1-1WS-S (observes, questions and collects data to communicate and compare ideas)
 2. ST1-6MW-S (identifies that materials can be changed or combined)
 Victorian Curriculum:
-1. VCSSU045 (Everyday materials can be physically changed or combined with other materials in a variety of ways for particular purposes)
-2. VCSSU041 (People use science in their daily lives)
-3. VCSIS050 (Respond to and pose questions, and make predictions about familiar objects and events)
-4. VCSIS051 (Participate in guided investigations, including making observations using the senses, to explore and answer questions)
+1. VCSIS051 (Participate in guided investigations, including making observations using the senses, to explore and answer questions)
+2. VCSIS050 (Respond to and pose questions, and make predictions about familiar objects and events)
+3. VCSSU045 (Everyday materials can be physically changed or combined with other materials in a variety of ways for particular purposes)
+4. VCSSU041 (People use science in their daily lives)
 
 **DETAILED ACTIVITIES:**
 
