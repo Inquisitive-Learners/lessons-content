@@ -139,10 +139,10 @@ the second time to complete the See, Think, Wonder visible thinking activity.
 
 Australian National Curriculum:
 1. ACSIS025(ACARA V8.4) (Participate in guided investigations to explore and answer questions)
-2. ACSHE021(ACARA V8.4) (Science involves observing, asking questions about, and describing changes in, objects and events)
+2. ACSIS029(ACARA V8.4) (Represent and communicate observations and ideas in a variety of ways)
 3. ACSIS027(ACARA V8.4) (Use a range of methods to sort information, including drawings and provided tables and through discussion, compare observations with predictions)
 4. ACSSU018(ACARA V8.4) (Everyday materials can be physically changed in a variety of ways)
-5. ACSIS029(ACARA V8.4) (Represent and communicate observations and ideas in a variety of ways)
+5. ACSHE021(ACARA V8.4) (Science involves observing, asking questions about, and describing changes in, objects and events)
 NSW Syllabus:
 1. ST1-1WS-S (observes, questions and collects data to communicate and compare ideas)
 2. ST1-6MW-S (identifies that materials can be changed or combined)
@@ -150,9 +150,9 @@ Victorian Curriculum:
 1. VCSSU045 (Everyday materials can be physically changed or combined with other materials in a variety of ways for particular purposes)
 2. VCSIS053 (Use a range of methods, including drawings and provided tables, to sort information)
 3. VCSIS055 (Represent and communicate observations and ideas about changes in objects and events in a variety of ways)
-4. VCSIS051 (Participate in guided investigations, including making observations using the senses, to explore and answer questions)
-5. VCSIS050 (Respond to and pose questions, and make predictions about familiar objects and events)
-6. VCSSU041 (People use science in their daily lives)
+4. VCSSU041 (People use science in their daily lives)
+5. VCSIS051 (Participate in guided investigations, including making observations using the senses, to explore and answer questions)
+6. VCSIS050 (Respond to and pose questions, and make predictions about familiar objects and events)
 
 **DETAILED ACTIVITIES:**
 
